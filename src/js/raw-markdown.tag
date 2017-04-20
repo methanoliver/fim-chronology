@@ -2,10 +2,9 @@
     <-/>
     <script>
         this.root.innerHTML = this.markdown.render(opts.text);
-        this.saved_text = opts.text;
 
         this.on('update', () => {
-            if (this.saved_text !== opts.text) {
+            if (opts.dynamic) {
                 this.root.innerHTML = this.markdown.render(opts.text);
             }
         });

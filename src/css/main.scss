@@ -22,14 +22,8 @@ episode-card, [data-is="episode-card"] {
 }
 
 seasons, [data-is="seasons"] {
-    margin-right: 10px;
-    li {
-        display: inline-block;
-        width: 30px;
-        height: 30px;
-        cursor: default;
-        font-size: 21px;
-    }
+    cursor: default;
+    font-size: 18px;
 }
 
 .blockers {

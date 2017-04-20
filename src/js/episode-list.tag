@@ -7,13 +7,15 @@
                     {episode}: {chronology.episodes[episode].title}
                 </a>
             </p>
-            <p class="card-header-icon">
-                <ul data-is="seasons" episode="{episode}"></ul>
+            <p class="card-header-icon"
+               data-is="seasons"
+               episode="{episode}">
             </p>
         </header>
         <div class="card-content">
             <div class="content">
-                <raw-markdown text="{chronology.episodes[episode].comment}" />
+                <raw-markdown text="{chronology.episodes[episode].comment}"
+                              dynamic="true"/>
             </div>
             <div if="{chronology.episodes[episode].after.length > 0}"
                  class="blockers">
