@@ -13,7 +13,7 @@
         </header>
         <div class="card-content">
             <div class="content">
-                <raw-markdown text="{chronology.episodes[episode].comment}"/>
+                <raw-markdown text="{chronology.episodes[episode].comment}" />
             </div>
             <div if="{chronology.episodes[episode].after.length > 0}"
                  class="blockers">
@@ -32,10 +32,14 @@
             <div class="card-footer-item card-move-footer">
                 <button class="button"
                         disabled="{!canMove(index, episode, -1)}"
-                        onclick="{parent.moveUp}">Earlier <span class="_icon">f</span></button>
+                        onclick="{parent.moveUp}">
+                    Earlier <span class="_icon">f</span>
+                </button>
                 <button class="button"
                         disabled="{!canMove(index, episode, 1)}"
-                        onclick="{parent.moveDown}">Later <span class="_icon">e</span></button>
+                        onclick="{parent.moveDown}">
+                    Later <span class="_icon">e</span>
+                </button>
             </div>
         </footer>
     </div>
@@ -72,18 +76,21 @@
 
         this.move = (event, direction) => {
             let index = event.item.index;
-            if (this.canMove(index,event.item.episode, direction)) {
+            if (this.canMove(index, event.item.episode, direction)) {
                 [this.chronology.newOrder[index], this.chronology.newOrder[index + direction]] =
                     [this.chronology.newOrder[index + direction], this.chronology.newOrder[index]];
             }
-            scrollIntoView(event.target.parentElement.parentElement, {time:200});
+            this.update();
+            scrollIntoView(document.getElementById(`ep-${event.item.episode}`), { time: 200 });
         }
 
         this.moveUp = (event) => {
+            event.preventUpdate = true;
             this.move(event, -1);
         };
 
         this.moveDown = (event) => {
+            event.preventUpdate = true;
             this.move(event, 1);
         };
     </script>
