@@ -60,6 +60,10 @@ module.exports = {
             {
                 from: path.resolve(__dirname, 'src/html/index.html'),
                 to: path.resolve(__dirname, 'dist/index.html')
+            },
+            {
+                from: path.resolve(__dirname, 'src/img'),
+                to: __dirname + '/dist/static/img'
             }
         ]),
 
