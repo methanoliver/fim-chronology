@@ -1,4 +1,3 @@
-// Empty for the moment.
 import riot from "riot";
 
 import MarkdownIt from 'markdown-it';
