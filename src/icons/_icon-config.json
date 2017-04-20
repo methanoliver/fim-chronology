@@ -1,0 +1,11 @@
+{
+  "lastCodepoint": 102,
+  "icons": {
+    "autumn": 97,
+    "spring": 98,
+    "summer": 99,
+    "winter": 100,
+    "arrow-down": 101,
+    "arrow-up": 102
+  }
+}

@@ -1,0 +1,68 @@
+@import "~bulma";
+
+@font-face {
+	font-family: "iconfont";
+	src: url("../font/iconfont.woff2") format("woff2");
+}
+
+._icon {
+	font-family: iconfont !important;
+	font-style: normal;
+	font-weight: normal !important;
+	line-height: 1;
+	vertical-align: middle;
+}
+
+raw-markdown#intro-text {
+    font-size: 90%;
+}
+
+episode-card, [data-is="episode-card"] {
+    margin-bottom: 25px;
+}
+
+seasons, [data-is="seasons"] {
+    margin-right: 10px;
+    li {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        cursor: default;
+        font-size: 21px;
+    }
+}
+
+.blockers {
+    font-size: 70%;
+    ul {
+        display: inline;
+        list-style: none;
+        li {
+            display: inline;
+        }
+        li:after {
+            content: ", ";
+        }
+        li:last-child:after {
+            content: ".";
+        }
+    }
+}
+
+.card-move-footer {
+    button {
+        min-width: 120px;
+        margin-left: 10px;
+        margin-right: 10px;
+        ._icon {
+            margin-left: 5px;
+        }
+    }
+}
+
+.bbcode-container {
+    height: 100px;
+    overflow: scroll;
+    margin-bottom: 30px;
+    border: 1px solid black;
+}
