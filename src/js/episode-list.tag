@@ -45,7 +45,7 @@
             </div>
         </footer>
     </div>
-    <save-load></save-load>
+    <save-load id="save-load"></save-load>
     <script>
         import scrollIntoView from "scroll-into-view";
         import "./raw-markdown.tag";
