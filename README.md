@@ -54,11 +54,11 @@ of [Friendship is Magic Wiki][fimwiki].
 
 `autumn`, `summer`, `winter`, `spring` are seasonal flags, and they are either
 true or false, they denote whether this episode *may* occur during the said
-season. Ponyville seasons are assumed always, since that's the place we see
-most of the time.
+season. A missing flag is undefined, and therefore false. Ponyville seasons
+are assumed always, since that's the place we see most of the time.
 
-`before` and `after` are list of episode IDs that this episode must be placed
-before and must be placed after, respectively.
+`before` and `after` are optional lists of episode IDs that this episode must
+be placed before and must be placed after, respectively.
 
 `comment` is the commentary text. Markdown is allowed inside. Links to other
 episodes can be done in the usual Markdown way, with `#ep-<episode id>` as the

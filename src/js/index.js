@@ -30,7 +30,20 @@ let DataMixin = {
         linkify: true,
         html: true,
         typographer: true
-    })
+    }),
+    blockers: function(episode, blocker) {
+        let episodeData = this.chronology.episodes[episode];
+        if (!episodeData[blocker] || !episodeData[blocker].length) {
+            return false;
+        }
+        return episodeData[blocker];
+    },
+    before: function(episode) {
+        return this.blockers(episode, 'before');
+    },
+    after: function(episode) {
+        return this.blockers(episode, 'after');
+    }
 };
 
 DataMixin.chronology.newOrder = DataMixin.chronology.order.slice();

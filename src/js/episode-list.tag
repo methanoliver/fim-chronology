@@ -17,17 +17,17 @@
                 <raw-markdown text="{chronology.episodes[episode].comment}"
                               dynamic="true"/>
             </div>
-            <div if="{chronology.episodes[episode].after.length > 0}"
+            <div if="{after(episode)}"
                  class="blockers">
                 Must follow:
                 <ul data-is="episode-blocker-list"
-                    list="{chronology.episodes[episode].after}"></ul>
+                    list="{after(episode)}"></ul>
             </div>
-            <div if="{chronology.episodes[episode].before.length > 0}"
+            <div if="{before(episode)}"
                  class="blockers">
                 Must precede:
                 <ul data-is="episode-blocker-list"
-                    list="{chronology.episodes[episode].before}"></ul>
+                    list="{before(episode)}"></ul>
             </div>
         </div>
         <footer class="card-footer">
@@ -64,15 +64,15 @@
                 return false;
             }
             // Then check the blockers:
-            let blockerList = this.chronology.episodes[episode][direction > 0 ? 'before' : 'after'];
-            if (blockerList.includes(this.chronology.newOrder[index+direction])) {
+            let blockerList = this.blockers(episode, direction > 0 ? 'before' : 'after');
+            if (blockerList && blockerList.includes(this.chronology.newOrder[index+direction])) {
                 return false;
             }
             // Now check the blocker list on the episode we would swap with.
-            let target = this.chronology.episodes[this.chronology.newOrder[index+direction]];
+            let target = this.chronology.newOrder[index+direction];
             // Notice the reverse blocker.
-            let reverseBlockerList = target[direction < 0 ? 'before' : 'after'];
-            if (reverseBlockerList.includes(episode)) {
+            let reverseBlockerList = this.blockers(target, direction < 0 ? 'before' : 'after');
+            if (reverseBlockerList && reverseBlockerList.includes(episode)) {
                 return false;
             }
             return true;

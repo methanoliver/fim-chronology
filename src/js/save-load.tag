@@ -76,12 +76,12 @@
                     "number": el,
                     "title": episode.title,
                     "link": episode.link,
-                    "spring": episode.spring,
-                    "summer": episode.summer,
-                    "autumn": episode.autumn,
-                    "winter": episode.winter,
-                    "must_be_before": episode.before.join(" "),
-                    "must_be_after": episode.after.join(" "),
+                    "spring": episode.spring || false,
+                    "summer": episode.summer || false,
+                    "autumn": episode.autumn || false,
+                    "winter": episode.winter || false,
+                    "must_be_before": this.before(el) ? episode.before.join(" ") : "",
+                    "must_be_after": this.after(el) ? episode.after.join(" ") : "",
                     "comment": episode.comment
                 })
             });
