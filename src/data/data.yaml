@@ -112,6 +112,20 @@ episodes:
       Applejack and Rarity don't know each other particularly well, and the
       experience of spending an extended period of time together is clearly
       new to them.
+
+      While the storm *would* normally imply autumn, summer rains are more
+      likely to actually be storms, rather than constant drizzles, at least
+      with weather reasonably approximating anything ecologically
+      sound. Applejack's statement is that *"They accidentally skipped a
+      scheduled sprinkle last week, so we need a doozy of a downpour to make
+      up for it, is all."* can be interpreted as "Someone told Applejack that
+      this was accidental" -- when in fact, for a celebration like the Summer
+      Sun Celebration, you *would* skip a scheduled drizzle.
+
+      Scheduling a drizzle for a national holiday and then *forgetting* about
+      it entirely, so that it needs to be made up for the following week,
+      sounds like exactly the sort of thing Rainbow Dash would do, which is
+      why I'm putting this episode very early on.
     after:
       - 1x01-02
     before:
@@ -2630,12 +2644,12 @@ episodes:
 order:
   - 1x01-02
   - 1x05
+  - 1x08
   - 1x06
   - 1x09
   - 1x07
   - 1x15
   - 1x03
-  - 1x08
   - 1x16
   - 1x14
   - 2x09
