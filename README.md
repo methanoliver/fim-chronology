@@ -12,6 +12,8 @@ save and load your results, *(within reason)* copy and paste them for
 discussion, and rehost this project with minimal effort, because it's all a
 self-contained single HTML file.
 
+You can [play with the result right now.](http://fim-chronology-pa.lindro.me/)
+
 ## Data storage
 
 Data about the individual episodes and their ordering is
