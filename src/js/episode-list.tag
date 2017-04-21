@@ -13,7 +13,7 @@
             </p>
         </header>
         <div class="card-content">
-            <div class="content">
+            <div class="content" show="{!collapsed}">
                 <raw-markdown text="{chronology.episodes[episode].comment}"
                               dynamic="true"/>
             </div>
@@ -52,6 +52,8 @@
         import "./episode-blocker-list.tag";
         import "./seasons.tag";
         import "./save-load.tag";
+
+        this.collapsed = false;
 
         this.canMove = (index, episode, direction) => {
             // First test for the ends of the list.
@@ -95,5 +97,10 @@
             event.preventUpdate = true;
             this.move(event, 1);
         };
+
+        this.listen('collapse-change', data => {
+            this.collapsed = data;
+            this.update();
+        });
     </script>
 </episode-list>
