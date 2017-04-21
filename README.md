@@ -80,9 +80,11 @@ You want a reasonable installation of Node.Js.
 
 That should be enough, really. The result will be found in `build/index.html`
 
-Linux or a Mac or anything that can run `bash` will be needed. If you're
-crafty enough to develop on Windows, you might as well send me a pull request
-fixing this problem.
+Linux or a Mac or anything that can run `bash` will be needed, and all the
+build scripts assume the use of [direnv](https://direnv.net/), which saves a
+lot of pain if you're juggling a lot of Node.Js projects. If you're crafty
+enough to develop on Windows, you might as well send me a pull request fixing
+this problem.
 
 To debug, you might want to use `npm start`
 
