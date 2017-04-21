@@ -2,6 +2,8 @@ This is a piece of "software," for lack of a better word, made with the intent t
 
 It should be obvious that the problem of episode ordering exists, if only from the placement of **Hearthbreakers** immediately before **Scare Master** in the airing order, but you can't just swap those two and move on, it goes much deeper than that.
 
+## Assumptions
+
 This list/program was made with the following assumptions, many of which were at one point or another challenged by the pony fandom:
 
 * Equestria has a year with a set length.
@@ -19,6 +21,8 @@ It goes without saying that these assumptions are rather broad and were challeng
 
 Well, I say it's their problem.
 
+## Explanations
+
 The entire point of coding this little piece of horror is to programmatically account for certain known "markers" which permit us to split at least some of the rest of the episodes into "before" and "after" states, like "Twilight's Ascension" or "CMC getting cutie marks" or "Zecora being befriended," as well as introduce other restrictions based on observed phenomena.
 
 Many, if not most, will be redundant, but that's not a problem when we have software taking care of them. The idea is to write in as many such restrictions as possible, write up everything which looks like a restriction but isn't definite, and then shove the episodes around until they start making sense. Ideally, we want every episode to have at least one "must precede" episode and at least one "must follow" episode, and it's still far from having all the existing hard constraints listed. Something coherently continuous should emerge, if enough people play with it and send me their input.
@@ -29,6 +33,10 @@ The marker rules are described where reasonable: if we see the Friendship Castle
 
 A note on seasons of the year: Since few episodes can be conclusively limited to happening during a specific time of year, episodes are marked with times of year they *can* occur in. Certain episodes are explicitly set at specific points in a year, which introduces soft constraints by itself. The possible seasons are marked with icons which should be more or less obvious.
 
-Move the episode cards up and down with the provided buttons. If there's a hard rule preventing the move, the button will be disabled. If there is a soft observation that gives some clues as to their actual position, it will be mentioned in the text on the card. Juggle them around and see if you can come up with something that makes sense.
+## Usage
+
+Move the episode cards up and down with the provided buttons. Should you wish to move one episode a long way into the same direction, clicking the button once will keep it selected once the episode has moved, so pressing `Enter` or `Space` afterwards will keep moving the episode in the same direction, until you click another button, or bump into a hard rule preventing the move.
+
+If there's a hard rule preventing the move, the button will be disabled. If there is a soft observation that gives some clues as to their actual position, it will be mentioned in the text on the card. Juggle them around and see if you can come up with something that makes sense.
 
 Discuss!

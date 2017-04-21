@@ -32,12 +32,12 @@
         </div>
         <footer class="card-footer">
             <div class="card-footer-item card-move-footer">
-                <button class="button"
+                <button class="button button-up"
                         disabled="{!canMove(index, episode, -1)}"
                         onclick="{parent.moveUp}">
                     Earlier <span class="_icon">f</span>
                 </button>
-                <button class="button"
+                <button class="button button-down"
                         disabled="{!canMove(index, episode, 1)}"
                         onclick="{parent.moveDown}">
                     Later <span class="_icon">e</span>
@@ -86,9 +86,16 @@
             }
             this.update();
             // Since the cards actually *transformed into each other* rather than swapped,
-            // the wrong button is now selected, so we neeed to unfocus it.
-            document.activeElement.blur();
-            scrollIntoView(document.getElementById(`ep-${event.item.episode}`), { time: 200 });
+            // the wrong button is now selected.
+            // But we can select the correct one, and that's what we will do.
+            let card = document.getElementById(`ep-${event.item.episode}`);
+            let button = riot.util.dom.$(`button.button-${direction < 0 ? 'up' : 'down'}`, card);
+            if (!riot.util.dom.getAttr(button,'disabled')) {
+                button.focus();
+            } else {
+                document.activeElement.blur();
+            }
+            scrollIntoView(card, { time: 200 });
         }
 
         this.moveUp = (event) => {
