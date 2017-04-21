@@ -85,6 +85,9 @@
                     [this.chronology.newOrder[index + direction], this.chronology.newOrder[index]];
             }
             this.update();
+            // Since the cards actually *transformed into each other* rather than swapped,
+            // the wrong button is now selected, so we neeed to unfocus it.
+            document.activeElement.blur();
             scrollIntoView(document.getElementById(`ep-${event.item.episode}`), { time: 200 });
         }
 
