@@ -1,59 +1,12 @@
 <episode-list class="container">
     <div data-is="episode-card" each="{episode, index in chronology.newOrder}"
                   class="card" id="ep-{episode}">
-        <header class="card-header">
-            <p class="card-header-title">
-                <a href="{chronology.episodes[episode].link}">
-                    {episode}: {chronology.episodes[episode].title}
-                </a>
-            </p>
-            <p class="card-header-icon"
-               data-is="seasons"
-               episode="{episode}">
-            </p>
-        </header>
-        <div class="card-content">
-            <div class="content" show="{!collapsed}">
-                <raw-markdown text="{chronology.episodes[episode].comment}"
-                              dynamic="true"/>
-            </div>
-            <div if="{after(episode)}"
-                 class="blockers">
-                Must follow:
-                <ul data-is="episode-blocker-list"
-                    list="{after(episode)}"></ul>
-            </div>
-            <div if="{before(episode)}"
-                 class="blockers">
-                Must precede:
-                <ul data-is="episode-blocker-list"
-                    list="{before(episode)}"></ul>
-            </div>
-        </div>
-        <footer class="card-footer">
-            <div class="card-footer-item card-move-footer">
-                <button class="button button-up"
-                        disabled="{!canMove(index, episode, -1)}"
-                        onclick="{parent.moveUp}">
-                    Earlier <span class="_icon">f</span>
-                </button>
-                <button class="button button-down"
-                        disabled="{!canMove(index, episode, 1)}"
-                        onclick="{parent.moveDown}">
-                    Later <span class="_icon">e</span>
-                </button>
-            </div>
-        </footer>
     </div>
     <save-load id="save-load"></save-load>
     <script>
         import scrollIntoView from "scroll-into-view";
-        import "./raw-markdown.tag";
-        import "./episode-blocker-list.tag";
-        import "./seasons.tag";
         import "./save-load.tag";
-
-        this.collapsed = false;
+        import "./episode-card.tag";
 
         this.canMove = (index, episode, direction) => {
             // First test for the ends of the list.
@@ -108,9 +61,5 @@
             this.move(event, 1);
         };
 
-        this.listen('collapse-change', data => {
-            this.collapsed = data;
-            this.update();
-        });
     </script>
 </episode-list>
