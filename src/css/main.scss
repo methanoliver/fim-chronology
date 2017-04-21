@@ -17,11 +17,19 @@ body {
     padding-top: 40px;
 }
 
-.nav.big-page-nav {
+.big-page-nav {
     position: fixed !important;
     top: 0;
     left: 0;
     right: 0;
+
+    .nav-right .extra-menu-desc {
+        margin-right: 1em;
+    }
+}
+
+span.nav-toggle span {
+    height: 3px;
 }
 
 .nav_icon {
