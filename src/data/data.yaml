@@ -2466,6 +2466,35 @@ episodes:
       are unambiguously set within at most a week of each other, and likewise,
       follow To Where and Back Again very closely, with no more than a week
       between them.
+  7x03:
+    title: A Flurry of Emotions
+    link: http://mlp.wikia.com/wiki/A_Flurry_of_Emotions
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 6x01-02
+    comment: |
+      Being an episode centered on Flurry Heart interacting with Twilight,
+      this episode has to follow The Crystalling, where Twilight saw her for
+      the first time.
+
+      Friendship Castle, Flurry Heart are in evidence, but Starlight
+      isn't. Trixie and Sunburst are not present either, even though normally,
+      Sunburst would be the prime candidate for this job if Shining Armor and
+      Cadance wanted some time off. Their reason for presence in Ponyville is
+      never elaborated. [To Where and Back Again](#ep-6x25-26) is *not* a hard
+      bound on this episode, either below or above. Where it is placed in the
+      timeline depends primarily on its temporal relationship to the birthday
+      of Flurry Heart, and other episodes will have to happen around it.
+
+      By my estimates, judging on observed level of development, Flurry Heart
+      has to be between 6 and 9 months old at this point.
+
+      School is in session, because the sick foals got sick on a school
+      picture day, and I suspect this implies that this is autumn, probably
+      early autumn.
+
 order:
   - 1x01-02
   - 1x05
@@ -2603,3 +2632,4 @@ order:
   - EG4
   - 6x25-26
   - 7x01-02
+  - 7x03
