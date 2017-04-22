@@ -7,7 +7,7 @@
     </div>
     <div class="field">
         <p class="control">
-            <textarea class="textarea" ref="list" rows="8"></textarea>
+            <textarea class="textarea" ref="list" rows="8">{chronology.newOrder.join(' ')}</textarea>
         </p>
     </div>
     <div class="field is-grouped">
@@ -39,18 +39,9 @@
         import gotem from "gotem";
         import Papa from "papaparse";
 
-        this.refill = () => {
-            this.refs.list.value = this.chronology.newOrder.join(' ');
-        };
-
         this.on('mount', () => {
-            this.refill();
             gotem(this.refs.code, this.refs.code);
         });
-
-        this.on('update', () => {
-            this.refill();
-        })
 
         this.reset = e => {
             e.preventUpdate = true;
@@ -62,7 +53,6 @@
             e.preventUpdate = true;
             this.chronology.newOrder = this.refs.list.value.split(/\s+/g);
             // TODO: This is where we can verify if the order is valid.
-            this.refill();
             this.parent.update();
         };
 
