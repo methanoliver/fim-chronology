@@ -36,7 +36,9 @@ let DataMixin = {
         if (!episodeData[blocker] || !episodeData[blocker].length) {
             return false;
         }
-        return episodeData[blocker];
+        let blockers = episodeData[blocker].slice();
+        blockers.sort();
+        return blockers;
     },
     before: function(episode) {
         return this.blockers(episode, 'before');
