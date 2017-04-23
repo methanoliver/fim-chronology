@@ -1622,7 +1622,7 @@ episodes:
       autumn rather than the first episode of winter, though, because every
       winter episode of that year has to follow.
 
-      It important that this is explicitly the first time Rainbow observes
+      It is important that this is explicitly the first time Rainbow observes
       Tank hibernating, so May The Best Pet Win may not occur more than about
       9 months prior. This episode has to follow [spring of the first
       year,](#ep-SM1-SP) which is the earliest time Rainbow could have
@@ -2324,6 +2324,10 @@ episodes:
       None of the other usual markers are present, and Rainbow Dash never even
       boasts she is a Wonderbolt despite endless occasions to do so, so this
       probably should be backdated before [Newbie Dash](#ep-6x07).
+
+      Alternatively, it happens immediately after [Top Bolt](#ep-6x24),
+      because for most of that episode, Rainbow is excited to catch up on
+      Daring Do with Twilight.
   6x14:
     title: The Cart Before the Ponies
     link: http://mlp.wikia.com/wiki/The_Cart_Before_the_Ponies
@@ -2713,8 +2717,10 @@ order:
   - 5x15
   - 5x16-17
   - 5x18
+  - 6x15
   - 5x19
   - 5x21
+  - 6x17
   - 5x22
   - 5x23
   - 5x24
@@ -2732,9 +2738,7 @@ order:
   - 6x12
   - 6x13
   - 6x14
-  - 6x15
   - 6x16
-  - 6x17
   - 6x18
   - 6x19
   - 6x20
