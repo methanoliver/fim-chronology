@@ -10,10 +10,7 @@
 
         this.canMove = (index, episode, direction) => {
             // First test for the ends of the list.
-            if (direction < 0 && index-1 <= 0) {
-                return false;
-            }
-            if (direction > 0 && index+1 >= this.chronology.newOrder.length) {
+            if (index+direction < 0 || index+direction > this.chronology.newOrder.length) {
                 return false;
             }
             // Then check the blockers:
