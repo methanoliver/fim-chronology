@@ -57,6 +57,10 @@ episode-card, [data-is="episode-card"] {
     margin-bottom: 25px;
 }
 
+.card.virtual {
+    background-color: $white-ter;
+}
+
 seasons, [data-is="seasons"] {
     cursor: default;
 }

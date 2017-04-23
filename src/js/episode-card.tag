@@ -1,4 +1,5 @@
-<episode-card class="card" id="ep-{episode}">
+<episode-card class="{card: true, virtual: epData(episode).virtual}"
+              id="ep-{episode}">
     <header class="card-header">
         <p class="card-header-title">
             <virtual if="{epData(episode).link}">
@@ -22,24 +23,22 @@
         </p>
     </header>
     <div class="card-content">
-        <div class="content" show="{!collapsed}">
-            <virtual if="{epData(episode).virtual}">
-                <div class="columns">
-                    <div class="column">
-                        <raw-markdown text="{epData(episode).comment}"
-                                      dynamic="true"/>
-                    </div>
-                    <div class="column has-text-right">
-                        <p class="big-season-icon"
-                           data-is="seasons" skip="true" episode="{episode}"
-                        ></p>
-                    </div>
+        <div class="content" show="{!collapsed}" if="{epData(episode).virtual}">
+            <div class="columns">
+                <div class="column">
+                    <raw-markdown text="{epData(episode).comment}"
+                                  dynamic="true"/>
                 </div>
-            </virtual>
-            <virtual if="{!epData(episode).virtual}">
-                <raw-markdown text="{epData(episode).comment}"
-                              dynamic="true"/>
-            </virtual>
+                <div class="column has-text-right">
+                    <p class="big-season-icon"
+                       data-is="seasons" skip="true" episode="{episode}"
+                    ></p>
+                </div>
+            </div>
+        </div>
+        <div class="content" show="{!collapsed}" if="{!epData(episode).virtual}">
+            <raw-markdown text="{epData(episode).comment}"
+                          dynamic="true"/>
         </div>
         <div if="{after(episode)}"
              class="blockers">
