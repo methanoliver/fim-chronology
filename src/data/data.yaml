@@ -12,7 +12,10 @@ episodes:
       of the Summer Sun Celebration.
 
       Since Twilight Sparkle and Spike relocate to Ponyville in this episode,
-      every other episode featuring them within Ponyville must follow.
+      every other episode featuring them within Ponyville must follow. This
+      leaves precious few episodes that could have possibly occurred prior to
+      this point, but some do exist, depending on how much stretching you wish
+      to accommodate.
     before:
       - 3x13
     after:
@@ -40,7 +43,6 @@ episodes:
     link: http://mlp.wikia.com/wiki/Applebuck_Season
     autumn: true
     comment: |
-
       Applebuck season is the day all apples get bucked off the trees. Since
       it's a "season," there's the implication that it's the last time in
       the year this happens, even if multiple harvests are collected per year.
@@ -356,14 +358,18 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      We see Rarity's Gala dress in this episode, so this must be after
-      Suited For Success.
     after:
       - 1x01-02
       - 1x14
     before:
       - 3x13
+    comment: |
+      We see Rarity's Gala dress in this episode, so this must be after
+      Suited For Success.
+
+      Celestia makes an actual visit to Ponyville, exactly the kind of visit
+      that did not happen in [Swarm of the Century](#ep-1x10), strongly
+      suggesting that the latter has to have happened by now.
   1x23:
     title: The Cutie Mark Chronicles
     link: http://mlp.wikia.com/wiki/The_Cutie_Mark_Chronicles
@@ -374,10 +380,6 @@ episodes:
       The CMC are more independent. But they ask the Mane 6 how they got their
       cutie marks and the actual practice of crusading is not yet
       developed, so this can't be too long alter Stare Master.
-
-      Celestia makes an actual visit to Ponyville, exactly the kind of visit
-      that did not happen in [Swarm of the Century](#ep-1x10), strongly
-      suggesting that the latter has to have happened by now.
     after:
       - 1x01-02
       - 1x17
@@ -894,14 +896,19 @@ episodes:
     link: http://mlp.wikia.com/wiki/Hurricane_Fluttershy
     spring: true
     comment: |
-      The pegasi are sending fresh water to Cloudsdale, which would put it in
-      early spring. Fluttershy narrates a friendship report, describing the
-      events as having happened today, which puts it after Lesson
-      Zero. Rainbow Dash does not fangirl over Spitfire, making it more likely
-      that this occurs after [Best Night Ever.](#ep-1x26)
+      The pegasi are sending fresh water to Cloudsdale, which should put it in
+      early spring, and at creates a hard constraint against the spring of the
+      first year.
+
+      Fluttershy narrates a friendship report, describing the events as having
+      happened today, which puts it after Lesson Zero.
+
+      Rainbow Dash does not fangirl over Spitfire, making it more likely that
+      this occurs after [Best Night Ever.](#ep-1x26)
     after:
       - 1x01-02
       - 2x03
+      - SM1-SP
     before:
       - 3x13
   2x23:
@@ -911,8 +918,9 @@ episodes:
     summer: true
     spring: true
     comment: |
-      The school year appears to have started again, so it is likely to be
-      happening in the early autumn. The Cake Twins show up.
+      The school is in session, and the school year appears to have started
+      relatively recently, so it is likely to be happening in the early
+      autumn. The Cake Twins show up.
     after:
       - 1x01-02
       - 2x13
@@ -940,11 +948,15 @@ episodes:
     spring: true
     comment: |
       At this stage, Rarity has become better known as a designer, and the
-      Mane 6 have gotten to know Celestia a bit more. Rainbow Dash is capable
-      of performing Sonic Rainboom on demand. In The Crystal Empire, the
-      marriage is already fact. In the ending scenes, Rarity is dancing with
-      Fancy Pants, which requires that Sweet and Elite, where she explicitly
-      meets him for the first time, to happen prior.
+      Mane 6 have gotten to know Celestia a bit more.
+
+      Rainbow Dash is capable of performing Sonic Rainboom on demand.
+
+      In The Crystal Empire, the marriage is already fact.
+
+      In the ending scenes, Rarity is dancing with Fancy Pants, which requires
+      that Sweet and Elite, where she explicitly meets him for the first time,
+      to happen prior.
     after:
       - 1x01-02
       - 1x16
@@ -2237,6 +2249,10 @@ episodes:
       period, but must follow Fluttershy saving Equestria at least twice,
       Twilight getting the Castle and putting up roots, and Rainbow Dash
       becoming a Wonderbolt.
+
+      For the purposes of this chronology, we're referring to "the events of
+      this episode" being the sequence when Zephyr Breeze returns to
+      Ponyville, as we cannot reliably date the other sequences.
     after:
       - 3x13
       - 5x03
@@ -2370,12 +2386,21 @@ episodes:
       - 1x21
     comment: |
       This episode lacks almost all markers. Twilight, Spike, Rarity,
-      Friendship Castle, the CMC never appear. The only hard constraint that I
-      can identify so far is Over a Barrel, and [Griffon the Brush
-      Off](#ep-1x05) is probably a soft constraint, because prior to that
-      Rainbow Dash does not seem to like Pinkie anywhere as much as here.
+      Friendship Castle, the CMC never appear.
 
-      Yes, this could fall through all the way to season 1 or 2.
+      The only hard constraint that I can identify so far is Over a Barrel,
+      since Applejack mentions Braeburn to Rainbow, when we know Rainbow meets
+      him for the first time in that episode, and wouldn't know who that is
+      otherwise.
+
+      [Griffon the Brush Off](#ep-1x05) is probably a *(likely redundant)*
+      soft constraint, because prior to that Rainbow Dash does not seem to
+      like Pinkie anywhere as much as here. For similar reasons, [Boast
+      Busters](#ep-1x06) is also a soft constraint, since Snails displays
+      mastery of telekinesis that would make Trixie far less impressive to him
+      back then if he had it.
+
+      Yes, this could fall through all the way to year 1.
   6x19:
     title: The Fault in Our Cutie Marks
     link: http://mlp.wikia.com/wiki/The_Fault_in_Our_Cutie_Marks
