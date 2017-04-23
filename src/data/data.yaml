@@ -1138,10 +1138,15 @@ episodes:
     comment: |
       The time is explicitly immediately before the Summer Sun Celebration,
       Discord is reformed and nobody except Fluttershy trusts him at all.
+
+      Since the Summer Sun Celebration is, obviously, a summer event, and
+      Twilight is already a princess, the summer of the second year has to
+      have started before that.
     after:
       - 1x09
       - 3x10
       - 3x13
+      - SM2-SU
     before:
       - 5x18
   4x03:
@@ -2583,6 +2588,7 @@ order:
   - 3x11-12
   - 3x13
   - EG1
+  - SM2-SU
   - 4x01-02
   - 4x03
   - 4x04
@@ -2610,7 +2616,6 @@ order:
   - 5x03
   - EG2
   - 5x04
-  - SM2-SU
   - SM2-AU
   - 5x05
   - SM2-WI
