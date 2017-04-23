@@ -31,6 +31,9 @@ let DataMixin = {
         html: true,
         typographer: true
     }),
+    epData: function(episode) {
+        return this.chronology.episodes[episode];
+    },
     blockers: function(episode, blocker) {
         let episodeData = this.chronology.episodes[episode];
         if (!episodeData[blocker] || !episodeData[blocker].length) {
@@ -62,6 +65,7 @@ for (let i = 1; i <= DataMixin.chronology.years; i++) {
             title: `${capitalize(season)}, Year ${i}`,
             [season]: true,
             after: previousMarker ? new Array(previousMarker) : null,
+            virtual: true,
             comment: "This is not a real episode, but a virtual season " +
                 "change marker.\n\nIt denotes the start of " +
                 `${season} of year ${i} of the series.`
