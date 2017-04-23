@@ -7,13 +7,13 @@ It should be obvious that the problem of episode ordering exists, if only from t
 This list/program was made with the following assumptions, many of which were at one point or another challenged by the pony fandom:
 
 * Equestria has a year with a set length.
-* This year contains winter, spring, summer and autumn, in that order, of approximately equal lengths.
+* This year contains summer, autumn, winter, and spring, in that order, of approximately equal lengths.
 * Autumn and spring sometimes look like summer to the point of being indistinguishable, which makes it difficult to determine the season, but winter never does, due to necessitating complicated wrap-up procedures.
 * Seasonal changes occur simultaneously or in quick succession across all of Equestria, though other, exotic lands may have their seasons look substantially different from what we expect.
 * Pony calendar has months, 12 of them, and a "moon" is *roughly* equal to one.
 * While it is not *that* relevant for the purposes of this chronology, ponies have a week that is 7 days long, and the days themselves are very much like ours.
 
-We're starting from the assumption that pony calendar is reasonably sane, pony climate and seasons are reasonably sane, that episodes are aired in anachronic order, and work from there.
+We're starting from the assumption that pony calendar is reasonably sane, pony climate and seasons are reasonably sane, that episodes are aired in anachronic order, and work from there. We don't know where the calendar year boundary is, but since we can use the first summer of the series as our zero point, it will serve.
 
 You can read some of the reasoning on why the calendar is this way, and not some other way, [in one of my blog posts on the subject.](https://www.fimfiction.net/blog/729198/rtac-13-strange-loops) Only the TV show and the movies are listed here, because all the printed derivatives introduce even worse timing problems. They can be dealt with afterwards anyway.
 
@@ -33,9 +33,9 @@ The marker rules are described where reasonable: if we see the Friendship Castle
 
 ## Seasons
 
-Since few episodes can be conclusively limited to happening during a specific time of year, episodes are marked with times of year they *can* occur in. These are soft constraints -- for your information only. Certain episodes are explicitly set at specific points in a year, which introduces soft constraints by itself. The possible seasons are marked with obvious icons.
+Since few episodes can be conclusively limited to happening during a specific time of year, episodes are marked with times of year they *can* occur in. These are soft constraints -- for your information only. The possible seasons are marked with obvious icons.
 
-In addition to that, a number of virtual season-change episodes hard-locked against each other are provided, and certain episodes are hard-locked against some of them, rather than other real episodes. We do not know when the pony calendar year starts or ends. For this reason, this cycle starts at Summer, year 1, and continues on through the Summer-Autumn-Winter-Spring cycle.
+In addition to that, a number of virtual season-change episodes hard-locked against each other are provided, and certain episodes are hard-locked against some of them, rather than just other real episodes, because they are are explicitly set at specific points in a year, or at least in specific seasons. We do not know when the pony calendar year starts or ends. For this reason, this cycle starts at Summer, year 1, and continues on through the Summer-Autumn-Winter-Spring cycle.
 
 ## Usage
 
