@@ -56,23 +56,31 @@ function capitalize(str) {
 };
 
 // Programmatically generate season change markers:
+let seasons = [];
 
 for (let i = 1; i <= DataMixin.chronology.years; i++) {
-    let previousMarker = null;
-    ['summer', 'autumn', 'winter', 'spring'].forEach(season => {
-        let markerID = `SM${i}-${season.substring(0,2).toUpperCase()}`;
-        DataMixin.chronology.episodes[markerID] = {
-            title: `${capitalize(season)}, Year ${i}`,
-            [season]: true,
-            after: previousMarker ? new Array(previousMarker) : null,
-            virtual: true,
-            comment: `${capitalize(season)} of year ${i} of the series starts.`
-        };
-        previousMarker = markerID;
-    });
+    for(let season of ['summer', 'autumn', 'winter', 'spring']) {
+        seasons.push({
+            s: season,
+            y: i
+        });
+    }
 }
 
-console.log(DataMixin.chronology);
+let previousMarker = null;
+let markerID = null;
+
+seasons.forEach(sm => {
+    markerID = `SM${sm.y}-${sm.s.substring(0,2).toUpperCase()}`;
+    DataMixin.chronology.episodes[markerID] = {
+        title: `${capitalize(sm.s)}, Year ${sm.y}`,
+        [sm.s]: true,
+        after: previousMarker ? new Array(previousMarker) : null,
+        virtual: true,
+        comment: `${capitalize(sm.s)} of year ${sm.y} of the series starts.`
+    };
+    previousMarker = markerID;
+});
 
 DataMixin.chronology.newOrder = DataMixin.chronology.order.slice();
 
