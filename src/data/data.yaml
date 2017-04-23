@@ -25,9 +25,15 @@ episodes:
     spring: true
     comment: |
       Twilight and Spike seem to know the others fairly well by this stage.
+
+      Since this is the episode that introduces the Grand Galloping Gala as a
+      future event, it must precede the Gala itself, and Suited for Success,
+      in which the gala dresses would appear first chronologically.
     after:
       - 1x01-02
     before:
+      - 1x14
+      - 1x26
       - 3x13
   1x04:
     title: Applebuck Season
@@ -191,13 +197,18 @@ episodes:
     link: http://mlp.wikia.com/wiki/Fall_Weather_Friends
     autumn: true
     comment: |
-      The running of the leaves ritual places this at the very end of
+      The running of the leaves ritual places this at the very end of an
       autumn. In [Tanks for the Memories,](#ep-5x05) we can observe the winter
       startup procedures, and if that episode is in any way typical, snow
       starts almost the very next day after the running of the leaves
       concludes.
+
+      The start of the first year's autumn is obviously a hard constraint on
+      this episode. As far as we can tell, this *is* Twilight's first autumn
+      in Ponyville, though it does not necessarily have to be.
     after:
       - 1x01-02
+      - SM1-AU
     before:
       - 3x13
       - 5x18
@@ -520,10 +531,13 @@ episodes:
     autumn: true
     comment: |
       Nightmare Night is a holiday similar to Halloween, and subsequent
-      portrayal in [Scare Master](#ep-5x21) is explicitly depicted as autumn.
+      portrayal in [Scare Master](#ep-5x21) is explicitly depicted as
+      autumn. This episode cannot occur before the start of the first year's
+      autumn.
     after:
       - 1x01-02
       - 1x09
+      - SM1-AU
     before:
       - 3x13
       - 5x18
@@ -683,7 +697,8 @@ episodes:
     winter: true
     comment: |
       Being a holiday similar to Christmas, Hearth's Warming Eve *should*
-      occur around the same time, in theory.
+      occur around the same time, in theory. It also cannot possibly occur
+      before the start of the first year's winter.
 
       This is more or less redundant, though, since that holiday is apparently
       the only noteworthy event that happens in Ponyville in winter. For the
@@ -692,6 +707,7 @@ episodes:
       Makes me want to see a "shopping for Hearthwarming" episode.
     after:
       - 1x01-02
+      - SM1-WI
     before:
       - 3x13
       - 5x18
@@ -2541,6 +2557,7 @@ order:
   - 2x05
   - 1x17
   - 1x22
+  - SM1-AU
   - 2x04
   - 1x24
   - 2x15
@@ -2548,7 +2565,6 @@ order:
   - 1x21
   - 1x04
   - 1x23
-  - SM1-AU
   - 1x13
   - SM1-WI
   - 2x11
