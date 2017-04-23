@@ -23,20 +23,12 @@
         </p>
     </header>
     <div class="card-content">
-        <div class="content" show="{!collapsed}" if="{epData(episode).virtual}">
-            <div class="columns">
-                <div class="column">
-                    <raw-markdown text="{epData(episode).comment}"
-                                  dynamic="true"/>
-                </div>
-                <div class="column has-text-right">
-                    <p class="big-season-icon"
-                       data-is="seasons" skip="true" episode="{episode}"
-                    ></p>
-                </div>
-            </div>
-        </div>
-        <div class="content" show="{!collapsed}" if="{!epData(episode).virtual}">
+        <div class="content" show="{!collapsed}">
+            <p class="big-season-icon is-pulled-right"
+               data-is="seasons"
+               skip="true"
+               episode="{episode}"
+               if="{epData(episode).virtual}"></p>
             <raw-markdown text="{epData(episode).comment}"
                           dynamic="true"/>
         </div>
@@ -52,6 +44,7 @@
             <ul data-is="episode-blocker-list"
                 list="{before(episode)}"></ul>
         </div>
+        <p class="is-clearfix"></p>
     </div>
     <footer class="card-footer">
         <div class="card-footer-item card-move-footer">

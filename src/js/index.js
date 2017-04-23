@@ -66,9 +66,7 @@ for (let i = 1; i <= DataMixin.chronology.years; i++) {
             [season]: true,
             after: previousMarker ? new Array(previousMarker) : null,
             virtual: true,
-            comment: "This is not a real episode, but a virtual season " +
-                "change marker.\n\nIt denotes the start of " +
-                `${season} of year ${i} of the series.`
+            comment: `${capitalize(season)} of year ${i} of the series starts.`
         };
         previousMarker = markerID;
     });
