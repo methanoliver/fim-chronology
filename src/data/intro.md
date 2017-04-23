@@ -33,13 +33,9 @@ The marker rules are described where reasonable: if we see the Friendship Castle
 
 ## Seasons
 
-Since few episodes can be conclusively limited to happening during a specific time of year, episodes are marked with times of year they *can* occur in. Certain episodes are explicitly set at specific points in a year, which introduces soft constraints by itself. The possible seasons are marked with obvious icons.
+Since few episodes can be conclusively limited to happening during a specific time of year, episodes are marked with times of year they *can* occur in. These are soft constraints -- for your information only. Certain episodes are explicitly set at specific points in a year, which introduces soft constraints by itself. The possible seasons are marked with obvious icons.
 
-In addition to that, a number of virtual season-change episodes hard-locked
-against each other are provided, and certain episodes are hard-locked against
-some of them, rather than other real episodes. We do not know when the pony
-calendar year starts or ends. For this reason, this cycle starts at Summer,
-year 1, and continues on through the Summer-Autumn-Winter-Spring cycle.
+In addition to that, a number of virtual season-change episodes hard-locked against each other are provided, and certain episodes are hard-locked against some of them, rather than other real episodes. We do not know when the pony calendar year starts or ends. For this reason, this cycle starts at Summer, year 1, and continues on through the Summer-Autumn-Winter-Spring cycle.
 
 ## Usage
 
