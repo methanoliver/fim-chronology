@@ -647,6 +647,11 @@ episodes:
       Placing this episode in the first summer of the series might be too early,
       though. Nevertheless, neither Gala is a hard bound on the positioning of
       this episode.
+
+      Of particular interest is Rarity's interaction with Prince Blueblood
+      which occurs in this episode, because its interpretation may introduce
+      different soft constraints on positioning this episode relative to [The
+      Ticket Master](#ep-1x03) and The Best Night Ever.
     after:
       - 1x01-02
       - 1x14
@@ -700,11 +705,14 @@ episodes:
     comment: |
       Being a holiday similar to Christmas, Hearth's Warming Eve *should*
       occur around the same time, in theory. It also cannot possibly occur
-      before the start of the first year's winter.
+      before the start of the first year's winter, and unless there's a
+      missing year between Magical Mystery Cure and the beginning of the
+      second year's summer, has to happen during the first year's winter,
+      since Twilight does not yet have wings.
 
-      This is more or less redundant, though, since that holiday is apparently
-      the only noteworthy event that happens in Ponyville in winter. For the
-      rest of it, ponies have got to be either hibernating or shopping.
+      This holiday is apparently the only noteworthy event that happens in
+      Ponyville in winter. For the rest of it, ponies have got to be either
+      hibernating or shopping.
 
       Makes me want to see a "shopping for Hearthwarming" episode.
     after:
@@ -718,9 +726,9 @@ episodes:
     link: http://mlp.wikia.com/wiki/Family_Appreciation_Day
     autumn: true
     comment: |
-      The CMC are at school during this episode. so this can't be in the
-      Summer. Since we see the Zap Apples harvested, autumn seems likely. We
-      see the CMC clubhouse, so it must be after Show Stoppers.
+      The CMC are at school during this episode. so this probably isn't
+      summer. Since we see the Zap Apples harvested, autumn seems more
+      likely. We see the CMC clubhouse, so it must be after Show Stoppers.
 
       Notice that timber volves appear to only come close enough to Ponyville
       to be noticed during zap apple season, because this is an argument for
@@ -737,7 +745,9 @@ episodes:
     spring: true
     comment: |
       The Cake Twins are newly born in the opening scenes. Most of the episode
-      occurs a month after that.
+      occurs a month after that. For the purposes of this chronology "the time
+      of this episode" is the time of the sequence when Pinkie is babysitting
+      the Cake twins.
     after:
       - 1x01-02
     before:
@@ -895,10 +905,14 @@ episodes:
     title: Hurricane Fluttershy
     link: http://mlp.wikia.com/wiki/Hurricane_Fluttershy
     spring: true
+    summer: true
+    autumn: true
     comment: |
       The pegasi are sending fresh water to Cloudsdale, which should put it in
-      early spring, and at creates a hard constraint against the spring of the
-      first year.
+      early spring. However, it could in theory be autumn as well, in
+      preparation for the snowfalls later in the year. We can only be sure
+      that it wouldn't happen in winter, because the water collection method
+      used would not be applicable. Summer is also possible, but quite unlikely.
 
       Fluttershy narrates a friendship report, describing the events as having
       happened today, which puts it after Lesson Zero.
@@ -908,7 +922,6 @@ episodes:
     after:
       - 1x01-02
       - 2x03
-      - SM1-SP
     before:
       - 3x13
   2x23:
@@ -1001,12 +1014,10 @@ episodes:
   3x04:
     title: One Bad Apple
     link: http://mlp.wikia.com/wiki/One_Bad_Apple
-    autumn: true
     summer: true
-    spring: true
     comment: |
       Applebloom mentions that the Summer Harvest Parade is coming up, so this
-      must be during the summer. This also ls probably the last episode for
+      episode must occur in summer. This also ls probably the last episode for
       the first summer of the series.
     after:
       - 1x01-02
@@ -1148,15 +1159,17 @@ episodes:
       appearance of wingless Twilight. This is our biggest landmark
       episode.
 
-      Since it is unlikely that more than a few months have elapsed between
-      ascension and coronation and [Princess Twilight Sparkle,](#ep-4x01-02)
-      and the season for that one is set strictly, this can only happen in
-      summer and spring.
+      Since it is very unlikely that more than a few months have elapsed
+      between ascension and coronation and [Princess Twilight
+      Sparkle,](#ep-4x01-02) and the season for that one is set strictly, this
+      can only happen in summer and spring, which produces a hard lock against
+      the spring of year 1.
     after:
       - 1x01-02
       - 1x09
       - 2x13
       - 3x01-02
+      - SM1-SP
     before:
       - 5x18
   4x01-02:
@@ -1313,7 +1326,9 @@ episodes:
     spring: true
     comment: |
       It's Rainbow Dash's birthiversary. This is a Chest of Harmony Key
-      incident, but Pinkie is not actually shown writing in the Journal.
+      incident, but Pinkie is not actually shown writing in the
+      Journal. Because of this, and Twilight's wings, it implies that Rainbow
+      had at least one birthday incident not shown on screen.
 
       Incidentally, a photo of Pinkie's cutie mark party includes Maud, and
       makes it her first on-screen appearance, though not the introduction to
@@ -1908,26 +1923,34 @@ episodes:
       features all of the Mane Six together, and since no hide or hair of
       Starlight Glimmer can be seen for obvious reasons, I'm going to say that
       The Crystalling is an upper bound on it.
+
+      Winter of year 2 is a hard lower bound, since it's clear Twilight did
+      not yet have wings during the winter of year 1.
     after:
       - 2x11
       - 3x13
       - 4x09
       - 4x18
       - 5x18
+      - SM2-WI
     before:
       - 6x01-02
   5x21:
     title: Scare Master
     link: http://mlp.wikia.com/wiki/Scare_Master
     autumn: true
+    after:
+      - 3x13
+      - 4x07
+      - SM2-AU
     comment: |
       This is a Nightmare Night episode, which fixes its position in the
       year. Rarity's "definitely" when thinking about a bat-themed costume for
       Fluttershy makes it unlikely to happen before Bats!
-    after:
-      - 3x13
-      - 4x07
-    before: []
+
+      Being a Nightmare Night episode, this episode cannot occur before the
+      second autumn of the series, since Twilight did not have wings during
+      the first one.
   5x22:
     title: What About Discord?
     link: http://mlp.wikia.com/wiki/What_About_Discord%3F
@@ -2192,6 +2215,7 @@ episodes:
       - 5x18
       - 5x25-26
       - 6x01-02
+      - SM3-WI
     comment: |
       Starlight feels more or less at home in the Friendship Castle, so a
       substantial time has to have passed since the Crystalling.
@@ -2208,6 +2232,13 @@ episodes:
       wouldn't she have family somewhere far away to pester on Hearth's
       Warming? Alternatively, she could be working doing special effects for
       the traditional play somewhere...
+
+      It is impossible for this story to be the Hearth's Warming of year 1,
+      since Twilight clearly did not have wings yet during that one. It is
+      likewise impossible for this story to happen on Hearth's Warming of year
+      2, unless Hearthbreakers happens in the winter of the year 3 somehow,
+      which would be incredibly odd. This makes the winter of year 3 a hard
+      lower bound.
   6x09:
     title: The Saddle Row Review
     link: http://mlp.wikia.com/wiki/The_Saddle_Row_Review
@@ -2350,10 +2381,11 @@ episodes:
       - 6x01-02
     comment: |
       We have trouble with dating this episode seasonally, because it's set in
-      the Crystal Empire. Spike explicitly mentions that this is the first
-      trip to the Crystal Empire since The Crystalling, and at least a few
-      months have passed since, because Twilight expects Flurry Heart to have
-      grown.
+      the Crystal Empire.
+
+      Spike explicitly mentions that this is the first trip to the Crystal
+      Empire since The Crystalling, and at least a few months have passed
+      since, because Twilight expects Flurry Heart to have grown.
 
       Only Spike, Twilight and Starlight are on this trip, making it possible
       for this episode to occur in parallel with many other episodes of Season
@@ -2466,15 +2498,18 @@ episodes:
     link: http://mlp.wikia.com/wiki/Where_the_Apple_Lies
     autumn: true
     summer: true
+    spring: true
     after:
+      - 2x12
       - 5x18
     comment: |
       Apple Bloom has her cutie mark, positioning this episode after Crusaders
-      of the Lost Mark, and the present-time sequences occur after the Zap
-      Apple season, locking it into an annual relationship with [Family
-      Appreciation Day.](#ep-2x12) But otherwise, so little of this episode
-      occurs in present day, that it does not influence any potentially
-      neighboring episodes at all.
+      of the Lost Mark, and the present-time sequences occur after that year's
+      Zap Apple season, locking it into an annual relationship with Family
+      Appreciation Day.
+
+      Otherwise, so little of this episode occurs in present day, that it does
+      not influence any potentially neighboring episodes at all.
   6x24:
     title: Top Bolt
     link: http://mlp.wikia.com/wiki/Top_Bolt
@@ -2482,12 +2517,13 @@ episodes:
     spring: true
     after:
       - 6x12
+      - SM2-SP
     comment: |
       Starlight Glimmer is in attendance, Rainbow Dash is a Wonderbolt and has
       been one for an extended period, judging by ready recognition.
 
       This is a Cutie Map mission, which requires this to happen after Spice
-      Up Your Life when Twilight and Starlight fixed the map.
+      Up Your Life, when Twilight and Starlight fixed the map.
 
       Rainbow Dash is looking forward to catching up on Daring Do with
       Twilight, which suggests this episode occurs immediately before
@@ -2497,7 +2533,9 @@ episodes:
       prank, which it could be.
 
       Rainbow Dash has just completed "spring training," which fixes the
-      season to spring or summer.
+      season to spring or summer. Since we have a fixed season, indirectly
+      this produces a hard lower bound against spring of year 2, which is
+      probably redundant.
   6x25-26:
     title: To Where and Back Again
     link: http://mlp.wikia.com/wiki/To_Where_and_Back_Again_-_Part_1
@@ -2544,15 +2582,17 @@ episodes:
       Friendship Castle, Flurry Heart are in evidence, but Starlight
       isn't. Trixie and Sunburst are not present either, even though normally,
       Sunburst would be the prime candidate for this job if Shining Armor and
-      Cadance wanted some time off. Their reason for presence in Ponyville is
-      never elaborated. [To Where and Back Again](#ep-6x25-26) is *not* a hard
-      bound on this episode, either below or above. Where it is placed in the
-      timeline depends primarily on its temporal relationship to the birthday
-      of Flurry Heart, and other episodes will have to happen around it.
+      Cadance wanted some time off. Their reason they give for presence in
+      Ponyville sounds rather dubious, given the lack of interest in modern
+      art they demonstrate. [To Where and Back Again](#ep-6x25-26) is *not* a
+      hard bound on this episode, either below or above. Where it is placed in
+      the timeline depends primarily on its temporal relationship to the
+      birthday of Flurry Heart, and other episodes will have to happen around
+      it.
 
-      By my estimates, judging on observed level of development, Flurry Heart
+      By my estimates, based on observed level of development, Flurry Heart
       has to be between 6 and 9 months old at this point. Twilight has
-      accumulated at least 15 different pre-packaged gift for Flurry, which,
+      accumulated at least 15 different pre-packaged gifts for Flurry, which,
       depending on the rate she accumulated them, would imply she hasn't had a
       chance to bestow them on Flurry for at least a few months. At the same
       time, multiple extended instances of spending time together had to occur
@@ -2686,7 +2726,6 @@ order:
   - 6x05
   - 6x06
   - 6x07
-  - 6x08
   - 6x09
   - 6x10
   - 6x11
@@ -2711,6 +2750,7 @@ order:
   - SM3-SU
   - SM3-AU
   - SM3-WI
+  - 6x08
   - SM3-SP
   - SM4-SU
   - SM4-AU
