@@ -18,6 +18,9 @@
             <button class="button is-primary" onclick="{reorder}">Reorder to this</button>
         </p>
         <p class="control">
+            <button class="button is-danger" onclick="{airing}">Sort alphabetically to start afresh</button>
+        </p>
+        <p class="control">
             <button class="button" onclick="{download}">Download the data as CSV instead</button>
             <a class="display:none;" ref="download" target="_blank"></a>
         </p>
@@ -53,6 +56,12 @@
             e.preventUpdate = true;
             this.chronology.newOrder = this.refs.list.value.split(/\s+/g);
             // TODO: This is where we can verify if the order is valid.
+            this.parent.update();
+        };
+
+        this.airing = e => {
+            e.preventUpdate = true;
+            this.chronology.newOrder.sort();
             this.parent.update();
         };
 
