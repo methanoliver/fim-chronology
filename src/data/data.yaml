@@ -1,4 +1,5 @@
 ---
+years: 5
 episodes:
   1x01-02:
     title: Friendship is Magic
@@ -14,6 +15,8 @@ episodes:
       every other episode featuring them within Ponyville must follow.
     before:
       - 3x13
+    after:
+      - SM1-SU
   1x03:
     title: The Ticket Master
     link: http://mlp.wikia.com/wiki/The_Ticket_Master
@@ -157,14 +160,16 @@ episodes:
     winter: true
     after:
       - 1x01-02
+      - SM1-WI
+    before:
+      - SM1-SP
+      - 3x13
     comment: |
       Wrapping up winter implies that this episode concludes a winter.
 
       This is explicitly Twilight's first winter in Ponyville, so the position
       of this episode on the timeline is hard-locked relative to [Friendship
       is Magic.](#ep-1x01-02)
-    before:
-      - 3x13
   1x12:
     title: Call of the Cutie
     link: http://mlp.wikia.com/wiki/Call_of_the_Cutie
@@ -2501,6 +2506,7 @@ episodes:
       early autumn.
 
 order:
+  - SM1-SU
   - 1x01-02
   - 1x05
   - 1x08
@@ -2526,9 +2532,12 @@ order:
   - 1x21
   - 1x04
   - 1x23
+  - SM1-AU
   - 1x13
+  - SM1-WI
   - 2x11
   - 1x11
+  - SM1-SP
   - 2x01-02
   - 2x03
   - 1x25
@@ -2638,3 +2647,19 @@ order:
   - 6x25-26
   - 7x01-02
   - 7x03
+  - SM2-SU
+  - SM2-AU
+  - SM2-WI
+  - SM2-SP
+  - SM3-SU
+  - SM3-AU
+  - SM3-WI
+  - SM3-SP
+  - SM4-SU
+  - SM4-AU
+  - SM4-WI
+  - SM4-SP
+  - SM5-SU
+  - SM5-AU
+  - SM5-WI
+  - SM5-SP

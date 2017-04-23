@@ -22,6 +22,7 @@ a [YAML](https://en.wikipedia.org/wiki/YAML) file located at
 data structures:
 
 ```yaml
+years: 5
 episodes:
   6x12:
     title: Spice Up Your Life
@@ -44,10 +45,11 @@ order:
 
 `episodes` is a list of episodes. Each episode is assigned a unique
 identifier, which is a string, and by convention, the episode number in a
-`<season>x<episode>` format, where "episode" should be a `-` separated list of
-episodes, if they are a two-part episode or otherwise strictly joined in terms
-of timeline. For Equestria Girls movies, they are just `EG<number>` in airing
-order.
+`<season>x<episode>` format, where `<season>` is a single digit number,
+`<episode>` is either a two-digit number or a `-` separated list of two-digit
+episode numbers, if they are a two-part episode or otherwise strictly joined
+in terms of timeline. For Equestria Girls movies, they are just `EG<number>`
+in airing order.
 
 `link` is normally a link to the relevant page
 of [Friendship is Magic Wiki][fimwiki].
@@ -70,6 +72,13 @@ link target.
 
 `order` is a list of episode IDs and is the order the user will see upon
 opening the document.
+
+`years` is a number. This tells the code how many years worth of virtual
+season change marker pseudo-episodes to generate. The virtual season-change
+markers have the ID in the form of `SM<year>-<season>`, where years start at 1
+and season is the first two letters of the season, so that they can be
+referenced to in Markdown episode commentary like regular episode IDs and
+positioned in the `order` list.
 
 ## Compiling
 

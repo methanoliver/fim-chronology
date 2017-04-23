@@ -1,9 +1,13 @@
 <episode-card class="card" id="ep-{episode}">
     <header class="card-header">
         <p class="card-header-title">
-            <a href="{chronology.episodes[episode].link}">
-                {episode}: {chronology.episodes[episode].title}
-            </a>
+            <virtual if="{chronology.episodes[episode].link}">
+                <a href="{chronology.episodes[episode].link}">
+                    {episode}: {chronology.episodes[episode].title}</a>
+            </virtual>
+            <virtual if="{!chronology.episodes[episode].link}">
+                {chronology.episodes[episode].title}
+            </virtual>
         </p>
         <p class="card-header-icon"
            data-is="seasons"

@@ -2,7 +2,7 @@ import riot from "riot";
 
 import MarkdownIt from 'markdown-it';
 
-import {DispatcherMixin} from "./dispatcher.js";
+import { DispatcherMixin } from "./dispatcher.js";
 
 import "./navigation-menu.tag";
 import "./build-number.tag";
@@ -48,6 +48,30 @@ let DataMixin = {
     }
 };
 
+function capitalize(str) {
+    return str[0].toUpperCase() + str.slice(1);
+};
+
+// Programmatically generate season change markers:
+
+for (let i = 1; i <= DataMixin.chronology.years; i++) {
+    let previousMarker = null;
+    ['summer', 'autumn', 'winter', 'spring'].forEach(season => {
+        let markerID = `SM${i}-${season.substring(0,2).toUpperCase()}`;
+        DataMixin.chronology.episodes[markerID] = {
+            title: `${capitalize(season)}, Year ${i}`,
+            [season]: true,
+            after: previousMarker ? new Array(previousMarker) : null,
+            comment: "This is not a real episode, but a virtual season " +
+                "change marker.\n\nIt denotes the start of " +
+                `${season} of year ${i} of the series.`
+        };
+        previousMarker = markerID;
+    });
+}
+
+console.log(DataMixin.chronology);
+
 DataMixin.chronology.newOrder = DataMixin.chronology.order.slice();
 
 riot.mixin(DataMixin);
@@ -57,5 +81,7 @@ riot.mount('navigation-menu');
 riot.mount('build-number');
 riot.mount(
     document.getElementById('intro-text'),
-    'raw-markdown', {text: introText});
+    'raw-markdown', {
+        text: introText
+    });
 riot.mount('episode-list');
