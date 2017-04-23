@@ -578,10 +578,10 @@ episodes:
     comment: |
       Owlowiscious reappears, and this episode introduces Tank.
 
-      This episode must occur after the Winter Wrap-Up, because Rainbow first
-      observes Tank hibernating in Tanks for the Memories. It also makes it
-      impossible for more than a full year to pass between these two episodes,
-      and much more likely, slightly more than half.
+      This episode must occur after spring of Year 1 rolls in, because Rainbow
+      first observes Tank hibernating in Tanks for the Memories. It also makes
+      it impossible for more than a full year to pass between these two
+      episodes, and much more likely, slightly more than half.
 
       One of Rainbow's pictures with potential pets depicts her in a
       book-related situation, which, before [Read it And Weep,](#ep-2x16)
@@ -592,6 +592,7 @@ episodes:
       - 1x11
       - 1x24
       - 2x03
+      - SM1-SP
     before:
       - 3x13
       - 5x05
@@ -1567,29 +1568,35 @@ episodes:
     title: Tanks for the Memories
     link: http://mlp.wikia.com/wiki/Tanks_for_the_Memories
     autumn: true
-    winter: true
     comment: |
       The whole episode is based on Rainbow Dash delaying the approach of
       winter and causing it to occur explosively, so it's right on that
-      transition line between the two.
+      transition line between the two. I'm marking it as the last episode of
+      autumn rather than the first episode of winter, though, because every
+      winter episode of that year has to follow.
 
-      It is also important that this is explicitly the first time Rainbow
-      observes Tank hibernating, so May The Best Pet Win may not occur more
-      than about 9 months prior.
+      It important that this is explicitly the first time Rainbow observes
+      Tank hibernating, so May The Best Pet Win may not occur more than about
+      9 months prior. This episode has to follow [spring of the first
+      year,](#ep-SM1-SP) which is the earliest time Rainbow could have
+      acquired Tank when Twilight was present to see it, and is known to start
+      in autumn -- so it's hard locked to follow the autumn of the second
+      year.
 
-      For seasonal reasons it has to happen before Hearthbreakers and after
-      Hearth's Warming Eve, though an extra winter may, theoretically, exist
-      between here and there. The opening establishing shot contains the
-      Friendship Castle, and since Castle Sweet Castle has nothing comparable
-      to the level of autumn observed on screen here, it also has to precede
-      this.
+      This episode is *probably* still located within year 2. In any case, it
+      will *have* to rubberband May The Best Pet Win after itself if it moves
+      to year 3 or later.
+
+      The opening establishing shot contains the Friendship Castle, and since
+      Castle Sweet Castle has nothing comparable to the level of autumn
+      observed on screen here, it also has to precede this.
     after:
       - 2x07
-      - 2x11
       - 3x13
       - 4x25-26
       - 5x01-02
       - 5x03
+      - SM2-AU
     before:
       - 5x20
   5x06:
@@ -2603,7 +2610,10 @@ order:
   - 5x03
   - EG2
   - 5x04
+  - SM2-SU
+  - SM2-AU
   - 5x05
+  - SM2-WI
   - 5x06
   - 5x07
   - 5x08
@@ -2651,9 +2661,6 @@ order:
   - 6x25-26
   - 7x01-02
   - 7x03
-  - SM2-SU
-  - SM2-AU
-  - SM2-WI
   - SM2-SP
   - SM3-SU
   - SM3-AU
