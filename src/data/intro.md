@@ -31,7 +31,15 @@ The initial reordering of seasons 1-3 presented here as starting data and many o
 
 The marker rules are described where reasonable: if we see the Friendship Castle, the episode occurs after it is created, if we see a character, this has to happen after they were introduced, etc.
 
-A note on seasons of the year: Since few episodes can be conclusively limited to happening during a specific time of year, episodes are marked with times of year they *can* occur in. Certain episodes are explicitly set at specific points in a year, which introduces soft constraints by itself. The possible seasons are marked with icons which should be more or less obvious.
+## Seasons
+
+Since few episodes can be conclusively limited to happening during a specific time of year, episodes are marked with times of year they *can* occur in. Certain episodes are explicitly set at specific points in a year, which introduces soft constraints by itself. The possible seasons are marked with obvious icons.
+
+In addition to that, a number of virtual season-change episodes hard-locked
+against each other are provided, and certain episodes are hard-locked against
+some of them, rather than other real episodes. We do not know when the pony
+calendar year starts or ends. For this reason, this cycle starts at Summer,
+year 1, and continues on through the Summer-Autumn-Winter-Spring cycle.
 
 ## Usage
 
