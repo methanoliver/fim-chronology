@@ -32,12 +32,6 @@ span.nav-toggle span {
     height: 3px;
 }
 
-.card-eye-icon {
-    a {
-        color: $text;
-    }
-}
-
 .big-season-icon {
     margin-bottom: 0 !important;
     margin-right: 25px;
@@ -62,6 +56,9 @@ episode-card, [data-is="episode-card"] {
 
 .card.virtual {
     background-color: $white-ter;
+    .eye-button {
+        background-color: $white-ter;
+    }
 }
 
 seasons, [data-is="seasons"] {

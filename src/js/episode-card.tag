@@ -15,19 +15,27 @@
            data-is="seasons"
            episode="{episode}">
         </p>
-        <p class="card-header-icon card-eye-icon">
-            <a onclick="{toggle}" title="Show episode commentary" if="{epData(episode).collapse}">
-                <span class="icon _icon">h</span></a>
-            <a onclick="{toggle}" title="Hide episode commentary" if="{!epData(episode).collapse}">
-                <span class="icon _icon">g</span></a>
-        </p>
     </header>
     <div class="{'card-content': true, 'is-clearfix': true, collapse: epData(episode).collapse}">
         <div class="card-move-block is-pulled-right">
             <div class="field is-grouped">
                 <p class="control">
+                    <button class="button eye-button is-outlined"
+                            onclick="{toggle}"
+                            title="Show episode commentary"
+                            if="{epData(episode).collapse}">
+                        <span class="icon"><i class="_icon">h</i></span>
+                    </button>
+                    <button class="button eye-button is-outlined"
+                            onclick="{toggle}"
+                            title="Hide episode commentary"
+                            if="{!epData(episode).collapse}">
+                        <span class="icon"><i class="_icon">g</i></span>
+                    </button>
+                </p>
+                <p class="control">
                     <button class="button button-up is-success is-outlined"
-                    disabled="{!parent.canMove(index, episode, -1)}"
+                            disabled="{!parent.canMove(index, episode, -1)}"
                             title="Earlier"
                             onclick="{parent.moveUp}">
                         <span class="icon"><i class="_icon">f</i></span>
