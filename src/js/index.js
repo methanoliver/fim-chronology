@@ -22,6 +22,58 @@ window.addEventListener(
         scrollBy(0, -60);
     });
 
+
+// Programmatically generate season change markers:
+
+function capitalize(str) {
+    return str[0].toUpperCase() + str.slice(1);
+};
+
+let seasons = [];
+
+for (let i = 1; i <= data.years; i++) {
+    for(let season of ['summer', 'autumn', 'winter', 'spring']) {
+        seasons.push({
+            s: season,
+            y: i
+        });
+    }
+}
+
+let previousMarker = null;
+let markerID = null;
+
+seasons.forEach(sm => {
+    markerID = `SM${sm.y}-${sm.s.substring(0,2).toUpperCase()}`;
+    data.episodes[markerID] = {
+        title: `${capitalize(sm.s)}, Year ${sm.y}`,
+        [sm.s]: true,
+        after: previousMarker ? new Array(previousMarker) : null,
+        virtual: true,
+        comment: `${capitalize(sm.s)} of year ${sm.y} of the series starts.`
+    };
+    previousMarker = markerID;
+});
+
+
+// If the user came in with an order hash, use this to make the order.
+// Otherwise make a copy of our default order.
+// In both cases ensure all defined episodes are listed.
+
+let definedEps = Object.keys(data.episodes);
+let missingEps = definedEps.filter(x => !data.order.includes(x));
+data.order = data.order.concat(missingEps);
+
+if (window.location.hash.startsWith('#!')) {
+    let userOrder = window.location.hash.replace('#!', '').split(',');
+    let missingEps = definedEps.filter(x => !userOrder.includes(x));
+    data.newOrder = userOrder.concat(missingEps);
+} else {
+    data.newOrder = data.order.slice();
+}
+
+// Finally build the mixin for the tags.
+
 let DataMixin = {
     init: function() {},
     chronology: data,
@@ -48,41 +100,14 @@ let DataMixin = {
     },
     after: function(episode) {
         return this.blockers(episode, 'after');
+    },
+    removeHash: function() {
+        history.pushState("", document.title, window.location.pathname
+                          + window.location.search);
     }
 };
 
-function capitalize(str) {
-    return str[0].toUpperCase() + str.slice(1);
-};
-
-// Programmatically generate season change markers:
-let seasons = [];
-
-for (let i = 1; i <= DataMixin.chronology.years; i++) {
-    for(let season of ['summer', 'autumn', 'winter', 'spring']) {
-        seasons.push({
-            s: season,
-            y: i
-        });
-    }
-}
-
-let previousMarker = null;
-let markerID = null;
-
-seasons.forEach(sm => {
-    markerID = `SM${sm.y}-${sm.s.substring(0,2).toUpperCase()}`;
-    DataMixin.chronology.episodes[markerID] = {
-        title: `${capitalize(sm.s)}, Year ${sm.y}`,
-        [sm.s]: true,
-        after: previousMarker ? new Array(previousMarker) : null,
-        virtual: true,
-        comment: `${capitalize(sm.s)} of year ${sm.y} of the series starts.`
-    };
-    previousMarker = markerID;
-});
-
-DataMixin.chronology.newOrder = DataMixin.chronology.order.slice();
+// And boot the whole mess.
 
 riot.mixin(DataMixin);
 riot.mixin(DispatcherMixin);

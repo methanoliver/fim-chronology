@@ -2,10 +2,8 @@
     <div data-is="episode-card" each="{episode, index in chronology.newOrder}"
                   class="card" id="ep-{episode}">
     </div>
-    <save-load id="save-load"></save-load>
     <script>
         import scrollIntoView from "scroll-into-view";
-        import "./save-load.tag";
         import "./episode-card.tag";
 
         this.canMove = (index, episode, direction) => {
@@ -33,6 +31,7 @@
             if (this.canMove(index, event.item.episode, direction)) {
                 [this.chronology.newOrder[index], this.chronology.newOrder[index + direction]] =
                     [this.chronology.newOrder[index + direction], this.chronology.newOrder[index]];
+                this.dispatch('episode-moved',{});
             }
             this.update();
             // Since the cards actually *transformed into each other* rather than swapped,
@@ -57,6 +56,10 @@
             event.preventUpdate = true;
             this.move(event, 1);
         };
+
+        this.listen('order-update', d => {
+            this.update();
+        });
 
     </script>
 </episode-list>

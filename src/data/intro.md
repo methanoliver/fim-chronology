@@ -27,7 +27,7 @@ The entire point of coding this little piece of horror is to programmatically ac
 
 Many, if not most, will be redundant, but that's not a problem when we have software taking care of them. The idea is to write in as many such restrictions as possible, write up everything which looks like a restriction but isn't definite, and then shove the episodes around until they start making sense. Ideally, we want every episode to have at least one "must precede" episode and at least one "must follow" episode, and it's still far from having all the existing hard constraints listed. Something coherently continuous should emerge, if enough people play with it and send me their input.
 
-The initial reordering of seasons 1-3 presented here as starting data and many of the original arguments that I started with belong to someone else. A few of them are probably wrong. Unfortunately, I can't seem to find the original source anymore, and I basically had to OCR it out of images someone rendered them as. This was the longest reordered timeline I managed to locate, and I find that it works very well, particularly if you make a playlist of episodes in chronological order -- with certain exceptions which I marked up.
+The default reordering resented here as starting data and many of the original arguments that I started with, particularly where it concerns seasons 1 to 3, belong to someone else. A few of them are probably wrong. Unfortunately, I can't seem to find the original source anymore, and I basically had to OCR it out of images someone rendered them as. This was the longest reordered timeline I managed to locate, and I find that it works very well, particularly if you make a playlist of episodes in chronological order -- with certain exceptions which I marked up.
 
 The marker rules are described where reasonable: if we see the Friendship Castle, the episode occurs after it is created, if we see a character, this has to happen after they were introduced, etc.
 
@@ -43,4 +43,11 @@ Move the episode cards up and down with the provided buttons. Should you wish to
 
 If there's a hard rule preventing the move, the button will be disabled. If there is a soft observation that gives some clues as to their actual position, it will be mentioned in the text on the card. Juggle them around and see if you can come up with something that makes sense.
 
-Discuss!
+### Saving and loading
+
+There is no central server storing the data anywhere after you change it, but you can still save your results and share them for discussion.
+
+* You can use the button in the navigation bar above to export the entire set of episodes as a CSV table. This will upload seamlessly to Google Docs.
+* There's a button marked `Save` in the navigation bar. Clicking it will produce a special URL, following which will recreate the episode order you had at the time of clicking on the button. You can bookmark this link, or right-click and `Copy link address` on the button, and share it.
+  * If you plan to post your episode ordering on Fimfiction, you might want to use an URL shortener, like [goo.gl](https://goo.gl) or [tinyurl](https://tinyurl.com), as Fimfiction does not like long URLs containing data like that.
+  * If you actually saved this file to your own disk, it will become slightly more complicated: The actual part containing the data is everything after the `#!`. Find a copy of this program on the public Internet, and append the entire part of the link starting with `#!` to the end, it should work.
