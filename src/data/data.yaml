@@ -18,6 +18,7 @@ episodes:
       to accommodate.
     before:
       - 3x13
+      - SM1-AU
     after:
       - SM1-SU
   1x03:
