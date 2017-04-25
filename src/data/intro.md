@@ -39,9 +39,12 @@ In addition to that, a number of virtual season-change episodes hard-locked agai
 
 ## Usage
 
-Move the episode cards up and down with the provided buttons. Should you wish to move one episode a long way into the same direction, clicking the button once will keep it selected once the episode has moved, so pressing `Enter` or `Space` afterwards will keep moving the episode in the same direction, until you click another button, or bump into a hard rule preventing the move.
+Move the episode cards up and down with the provided buttons. If there's a hard rule preventing the move, the button will be disabled.
 
-If there's a hard rule preventing the move, the button will be disabled. If there is a soft observation that gives some clues as to their actual position, it will be mentioned in the text on the card. Juggle them around and see if you can come up with something that makes sense.
+* Clicking the button once will keep it selected once the episode has moved. Pressing `Enter` or `Space` afterwards will keep moving the episode in the same direction, until you click another button, or bump into a hard rule preventing the move.
+* Holding down `Shift` while triggering a move button will move the episode as far as it will go at once.
+
+If there is a soft observation that gives some clues to the possible positioning of the episode, it will be mentioned in the text on the card. Juggle them around and see if you can come up with something that makes sense.
 
 ### Saving and loading
 

@@ -35,7 +35,7 @@
                 </p>
                 <p class="control">
                     <button class="button button-up is-success is-outlined"
-                            disabled="{!parent.canMove(index, episode, -1)}"
+                            disabled="{!parent.canMove(index, -1)}"
                             title="Earlier"
                             onclick="{parent.moveUp}">
                         <span class="icon"><i class="_icon">f</i></span>
@@ -43,7 +43,7 @@
                 </p>
                 <p class="control">
                     <button class="button button-down is-success is-outlined"
-                            disabled="{!parent.canMove(index, episode, 1)}"
+                            disabled="{!parent.canMove(index, 1)}"
                             title="Later"
                             onclick="{parent.moveDown}">
                         <span class="icon"><i class="_icon">e</i></span>

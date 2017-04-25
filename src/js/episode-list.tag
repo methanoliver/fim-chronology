@@ -6,7 +6,8 @@
         import scrollIntoView from "scroll-into-view";
         import "./episode-card.tag";
 
-        this.canMove = (index, episode, direction) => {
+        this.canMove = (index, direction) => {
+            let episode = this.chronology.newOrder[index];
             // First test for the ends of the list.
             if (index+direction < 0 || index+direction >= this.chronology.newOrder.length) {
                 return false;
@@ -26,13 +27,23 @@
             return true;
         };
 
-        this.move = (event, direction) => {
-            let index = event.item.index;
-            if (this.canMove(index, event.item.episode, direction)) {
+        this.moveOnce = (index, direction) => {
+            if (this.canMove(index, direction)) {
                 [this.chronology.newOrder[index], this.chronology.newOrder[index + direction]] =
                     [this.chronology.newOrder[index + direction], this.chronology.newOrder[index]];
-                this.dispatch('episode-moved',{});
+                return true;
             }
+            return false;
+        }
+
+        this.move = (event, direction) => {
+            let index = event.item.index;
+            let success = false;
+            do {
+                success = this.moveOnce(index, direction);
+                index += direction;
+            } while (success && event.shiftKey);
+            this.dispatch('episode-moved',{});
             this.update();
             // Since the cards actually *transformed into each other* rather than swapped,
             // the wrong button is now selected.
