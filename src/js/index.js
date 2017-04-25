@@ -72,17 +72,24 @@ if (window.location.hash.startsWith('#!')) {
     data.newOrder = data.order.slice();
 }
 
+// To speed things up a bit, pre-render Markdown episode commentary and store it with them:
+let md = MarkdownIt({
+        quotes: '“”‘’',
+        linkify: true,
+        html: true,
+        typographer: true
+});
+
+definedEps.forEach(ep => {
+    data.episodes[ep].html = md.render(data.episodes[ep].comment);
+});
+
 // Finally build the mixin for the tags.
 
 let DataMixin = {
     init: function() {},
     chronology: data,
-    markdown: MarkdownIt({
-        quotes: '“”‘’',
-        linkify: true,
-        html: true,
-        typographer: true
-    }),
+    markdown: md,
     epData: function(episode) {
         return this.chronology.episodes[episode];
     },

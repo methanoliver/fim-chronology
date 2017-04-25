@@ -29,8 +29,7 @@
                skip="true"
                episode="{episode}"
                if="{epData(episode).virtual}"></p>
-            <raw-markdown text="{epData(episode).comment}"
-                          dynamic="true"/>
+            <raw-html text="{epData(episode).html}" />
         </div>
         <div if="{after(episode)}"
              class="blockers">
@@ -61,7 +60,7 @@
         </div>
     </footer>
     <script>
-        import "./raw-markdown.tag";
+        import "./raw-html.tag";
         import "./episode-blocker-list.tag";
         import "./seasons.tag";
 
