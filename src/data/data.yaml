@@ -311,14 +311,16 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Rarity is famous enough to attract Sapphire Shores, so this should be
-      after Suited For Success.
     after:
       - 1x01-02
       - 1x14
+      - 1x20
     before:
       - 3x13
+    comment: |
+      Rarity is famous enough to attract Sapphire Shores, so this needs to
+      happen after Suited For Success, *and* Green Isn't Your Color, in which
+      she is not sufficiently famous *yet*.
   1x20:
     title: Green Isn't Your Color
     link: http://mlp.wikia.com/wiki/Green_Isn%27t_Your_Color
@@ -574,16 +576,20 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 1x09
+      - 2x03
+    before:
+      - 3x13
+      - 5x18
     comment: |
       The CMC have been trying for a while to get their Cutie Marks, so it's
       probably a while after Call Of The Cutie. Since Scootaloo is shown to be
       skilled at riding her scooter, this is after Show Stoppers.
-    after:
-      - 1x01-02
-      - 1x09
-    before:
-      - 3x13
-      - 5x18
+
+      Apple Bloom dictates a letter to Princess Celestia at Twilight's
+      request, setting this strictly after Lesson Zero.
   2x07:
     title: May the Best Pet Win!
     link: http://mlp.wikia.com/wiki/May_the_Best_Pet_Win!
@@ -617,46 +623,79 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      We see the CMC clubhouse, so this must be after Show Stoppers.
     after:
       - 1x01-02
       - 1x18
+      - 2x03
     before:
       - 3x13
       - 5x18
+    comment: |
+      In the cold open, the Rainbow Dash fan club meeting is held in the CMC
+      clubhouse, which was constructed in Show Stoppers.
+
+      During this episode, the dam that is also seen in [It's About
+      Time](#ep-2x20) breaks. In that latter episode, the crack -- apparently,
+      the same crack -- is patched up preventively, however. It is possible,
+      though unorthodox, for The Mysterious Mare-Do-Well to actually occupy
+      the same stretch of timeline, and be written out of existence due to
+      Twilight disaster-proofing the entire immediate region and preventing
+      Rainbow Dash from ever motivating the Mare Do Well to exist. *(The
+      perpetuation of this into a stable time loop, however, would be entirely
+      Twilight's fault.)*
+
+      As a result of this episode, a letter to Celestia happens, setting this
+      after Lesson Zero.
+
   2x09:
     title: Sweet and Elite
     link: http://mlp.wikia.com/wiki/Sweet_and_Elite
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 1x14
+      - 1x20
+      - 2x03
+    before:
+      - 2x25-26
+      - 3x13
     comment: |
       Twilight's birthday occurs during this episode.
 
       Rarity's career is a little more successful, so this must be after
-      Suited For Success, but before [The Best Night Ever,](#ep-1x26) because
-      Twilight thinks Rarity is going to sell dresses for the Gala and refers
-      to the Gala as "coming up." I don't think it's the *next* year's Gala,
-      which, as far as we can tell, is depicted in [Make New Friends but Keep
-      Discord](#ep-5x07). Fancy Pants is introduced to Rarity in this episode,
-      so every time they are shown to interact must happen afterwards, and
-      that would include the Canterlot Wedding.
+      Suited For Success, and Green Isn't Your Color, which can only happen
+      after Suited for Success, but needs to have happened immediately
+      afterwards.
 
-      Placing this episode in the first summer of the series might be too early,
-      though. Nevertheless, neither Gala is a hard bound on the positioning of
-      this episode.
+      At the same time it needs to be before [The Best Night Ever,](#ep-1x26)
+      because Twilight thinks Rarity is going to sell dresses for the Gala and
+      refers to the Gala as "coming up." I don't think it's the *next* year's
+      Gala, which, as far as we can tell, is depicted in [Make New Friends but
+      Keep Discord](#ep-5x07). Fancy Pants is introduced to Rarity in this
+      episode, so every time they are shown to interact must happen
+      afterwards, and that would include the Canterlot Wedding.
+
+      Nevertheless, neither Gala is a hard bound on the positioning of this
+      episode.
 
       Of particular interest is Rarity's interaction with Prince Blueblood
       which occurs in this episode, because its interpretation may introduce
       different soft constraints on positioning this episode relative to [The
       Ticket Master](#ep-1x03) and The Best Night Ever.
-    after:
-      - 1x01-02
-      - 1x14
-    before:
-      - 2x25-26
-      - 3x13
+
+      Rarity is shown writing a Lesson Zero-pattern letter to Celestia
+      herself, *and then* Celestia walks in on her. If anything, this makes it
+      clear to me, that these letters *may* be written ahead of time -- Rarity
+      starts writing it before she even leaves Canterlot, she wouldn't be
+      sending it from Canterlot as well! -- and *may* refer to events other
+      than current. In fact, it makes me think that the Mane 6 have an
+      arrangement to keep Celestia placated by advance-scheduling their
+      letters regarding what could also be past incidents.
+
+      At the same time, this *particular* episode unambiguously has Lesson
+      Zero as the hard lower constraint.
   2x10:
     title: Secret of My Excess
     link: http://mlp.wikia.com/wiki/Secret_of_My_Excess
@@ -743,10 +782,14 @@ episodes:
     summer: true
     spring: true
     comment: |
-      The Cake Twins are newly born in the opening scenes. Most of the episode
-      occurs a month after that. For the purposes of this chronology "the time
-      of this episode" is the time of the sequence when Pinkie is babysitting
-      the Cake twins.
+      The Cake Twins are newly born in the opening scenes, but most of the
+      episode occurs a month after that. For the purposes of this chronology
+      "the time of this episode" is the time of the sequence when Pinkie is
+      babysitting the Cake twins.
+
+      While Twilight refers to a report to Princess Celestia summarizing all
+      her other reports, this can have happened both before and after [Lesson
+      Zero.](#ep-2x03)
     after:
       - 1x01-02
     before:
@@ -765,6 +808,11 @@ episodes:
 
       This does contradict Amy Keating Rogers' rebuttal regarding Derpy, but
       eh, I think that's her problem.
+
+      Applejack narrates a report to Princess Celestia, which implies the
+      events of episode either occur after [Lesson Zero](#ep-2x03), but she does
+      not refer to them as having happened today or recently, and is not
+      observed writing the letter.
     after:
       - 1x01-02
     before:
@@ -778,9 +826,14 @@ episodes:
     spring: true
     comment: |
       The trees still have apples, so we can assume that it's before Applebuck
-      Season. Spike says it's not long until Sapphire Season, and that might
-      be in [A Dog And Pony Show,](#ep-1x19) when he and Rarity are looking
-      for gems.
+      Season. Spike says it's not long until Sapphire Season, which *might* be
+      the period described in in [A Dog And Pony Show,](#ep-1x19) when he and
+      Rarity are looking for gems.
+
+      While Applejack narrates a report to Princess Celestia at the end of the
+      episode, she is not shown writing or sending it and it is not referred
+      to inside the episode otherwise, making [Lesson Zero](#ep-2x03) a soft
+      constraint.
     after:
       - 1x01-02
     before:
@@ -792,12 +845,18 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Rainbow Dash hasn't been seen reading in episodes before this.
     after:
       - 1x01-02
+      - 2x03
     before:
       - 3x13
+    comment: |
+      Rainbow Dash's statement that reading is undeniably, unquestionably
+      uncool precludes any scene where Rainbow reads from happening before
+      this episode.
+
+      As a result of the events of this episode, a letter to Princess Celestia
+      is written, making Lesson Zero a hard lower bound.
   2x17:
     title: Hearts and Hooves Day
     link: http://mlp.wikia.com/wiki/Hearts_and_Hooves_Day
@@ -847,10 +906,11 @@ episodes:
       constraints preventing it from moving up. Fluttershy's behavior in
       [Dragonshy](#ep-1x07) and [Stare Master](#ep-1x17) makes more sense if
       this episode precedes them, because then she has at least some sense of
-      progression in assertiveness. The letter to Celestia in this episode can
-      be explained away by this episode being a flashback, because Fluttershy
-      is never shown dictating it, she narrates it, and does not even refer to
-      the event as if it happened today while doing so.
+      progression in assertiveness. The letter to Celestia in this episode
+      mandated by the events of Lesson Zero can be explained away by this
+      episode being a flashback, because Fluttershy is never shown dictating
+      it, she narrates it, and does not even refer to the event as if it
+      happened today while doing so.
 
       This interpretation implies that Fluttershy, Rarity and Pinkie were
       friends before the arrival of Twilight, which *does* seem dubious, but
@@ -891,15 +951,21 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+    before:
+      - 3x13
     comment: |
       The dragons are migrating. While there could be other reasons for dragon
       migration, autumn sounds like a good one. However, we can't be sure of
       that, because it happens once per generation, anyway, and we don't even
       know *whose* generation.
-    after:
-      - 1x01-02
-    before:
-      - 3x13
+
+      Spike finishes this episode by writing a letter to Princess
+      Celestia. However, we cannot be certain that this happened as a result
+      of the program established in [Lesson Zero,](#ep-2x03) because during
+      the episode he also *receives* a personal letter from Princess Celestia,
+      making this a soft, rather than hard constraint.
   2x22:
     title: Hurricane Fluttershy
     link: http://mlp.wikia.com/wiki/Hurricane_Fluttershy
@@ -945,13 +1011,21 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      A baking contest is held, which usually occur in spring, but this
-      episode is very self-contained and actually quite mobile.
     after:
       - 1x01-02
     before:
       - 3x13
+    comment: |
+      A baking contest is held, which usually occur in spring, but this
+      episode is very self-contained and actually quite mobile.
+
+      Pinkie narrates a friendship report, which would imply it happens after
+      [Lesson Zero](#ep-2x03), but is not shown writing or sending or
+      dictating, and while she narrates, *Celestia herself is on screen within
+      five meters from her.* She finishes this speech with "How's that for a
+      lesson, Princess Celestia?" spoken out of narration directly to
+      Celestia. I'm not sure if this should be seen as a hard lower bound
+      against Lesson Zero or not.
   2x25-26:
     title: A Canterlot Wedding
     link: http://mlp.wikia.com/wiki/A_Canterlot_Wedding_-_Part_1
@@ -1078,15 +1152,19 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 2x03
+      - 3x04
+    before:
+      - 5x18
     comment: |
       Because we see Babs Seed again, this must be after One Bad Apple. She
       talks about her new school, so this is probably in early autumn --
       assuming ponies have a similar school year to most modern Western
       countries.
-    after:
-      - 3x04
-    before:
-      - 5x18
+
+      Applejack is shown writing a Lesson Zero-pattern letter to Princess
+      Celestia, setting this after Lesson Zero.
   3x09:
     title: Spike at Your Service
     link: http://mlp.wikia.com/wiki/Spike_at_Your_Service
