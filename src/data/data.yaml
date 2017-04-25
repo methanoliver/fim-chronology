@@ -43,10 +43,16 @@ episodes:
     title: Applebuck Season
     link: http://mlp.wikia.com/wiki/Applebuck_Season
     autumn: true
+    after:
+      - 1x01-02
+      - SM1-AU
+    before:
+      - 3x13
     comment: |
       Applebuck season is the day all apples get bucked off the trees. Since
-      it's a "season," there's the implication that it's the last time in
-      the year this happens, even if multiple harvests are collected per year.
+      it's a "season," there's the implication that it's the last time in the
+      year this happens, even if multiple harvests are collected per year, so
+      it cannot happen earlier than the first autumn of the series.
 
       There's a fan theory that the injury Big Mac sports in this episode is
       due to the bet that Applejack mentions in [Ticket Master,](#ep-1x03)
@@ -54,10 +60,6 @@ episodes:
       girdle, and if that is true, Ticket Master has to immediately precede
       this episode. Later episodes seem to suggest Big Mac is sufficiently
       secure in his masculinity to actually do that, though.
-    after:
-      - 1x01-02
-    before:
-      - 3x13
   1x05:
     title: Griffon the Brush Off
     link: http://mlp.wikia.com/wiki/Griffon_the_Brush_Off
@@ -174,11 +176,13 @@ episodes:
       - SM1-SP
       - 3x13
     comment: |
-      Wrapping up winter implies that this episode concludes a winter.
+      Wrapping up winter requires this episode to conclude a winter.
 
-      This is explicitly Twilight's first winter in Ponyville, so the position
-      of this episode on the timeline is hard-locked relative to [Friendship
-      is Magic.](#ep-1x01-02)
+      Since it is also explicitly Twilight's first winter in Ponyville, the
+      position of this episode on the timeline is hard-locked relative to
+      [Friendship is Magic](#ep-1x01-02) -- it must be immediately followed by
+      the beginning of the [first spring of the first year](#ep-SM1-SP) of the
+      series.
   1x12:
     title: Call of the Cutie
     link: http://mlp.wikia.com/wiki/Call_of_the_Cutie
@@ -357,9 +361,13 @@ episodes:
     spring: true
     comment: |
       This is said to take place immediately before the first apple
-      harvest. Appleloosa is generally more desert-y than Ponyville, so it's
-      probable they're limited to one harvest per year, at least at this
-      point, in which case this episode occurs right before Applebuck Season.
+      harvest.
+
+      Appleloosa is generally more desert-y than Ponyville, so it's probable
+      they're limited to one harvest per year, at least at this point, in
+      which case this episode occurs in autumn of the first year, presumably,
+      right before Applebuck Season. However, this is not a hard limit, and
+      the episode can also occur in summer or spring.
     after:
       - 1x01-02
     before:
@@ -543,11 +551,6 @@ episodes:
     title: Luna Eclipsed
     link: http://mlp.wikia.com/wiki/Luna_Eclipsed
     autumn: true
-    comment: |
-      Nightmare Night is a holiday similar to Halloween, and subsequent
-      portrayal in [Scare Master](#ep-5x21) is explicitly depicted as
-      autumn. This episode cannot occur before the start of the first year's
-      autumn.
     after:
       - 1x01-02
       - 1x09
@@ -555,6 +558,11 @@ episodes:
     before:
       - 3x13
       - 5x18
+    comment: |
+      Nightmare Night is a holiday similar to Halloween, and subsequent
+      portrayal in [Scare Master](#ep-5x21) is explicitly depicted as
+      autumn. This episode cannot occur before the start of the first year's
+      autumn.
   2x05:
     title: Sisterhooves Social
     link: http://mlp.wikia.com/wiki/Sisterhooves_Social
@@ -712,8 +720,16 @@ episodes:
     link: http://mlp.wikia.com/wiki/Secret_of_My_Excess
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 1x09
+      - 1x12
+      - 2x03
+    before:
+      - 3x13
+      - 4x01-02
     comment: |
-      Spike mentions it’s his first birthday in Ponyville, so less than a year
+      Spike mentions it's his first birthday in Ponyville, so less than a year
       has to have passed before he first arrived to Ponyville in Friendship is
       Magic.
 
@@ -723,14 +739,18 @@ episodes:
       School for Gifted Unicorns, but we can't lock that one down even if we
       bring the comics in. Logically, it should be either spring or early
       summer, before the next Summer Sun Celebration, which redundantly hard
-      locks this episode to precede Princess Twilight Sparkle.
+      locks this episode to precede Princess Twilight Sparkle, and this
+      likewise may preclude this episode from following [the start of the
+      second year's summer](#ep-SM2-SU) -- that depends on when exactly in a
+      summer the Summer Sun Celebration happens.
 
       There is a possibility that this is the date when his egg was *laid*
       instead, but nobody has ever given any indication of knowing when the
-      egg was laid or where it came from at all. We can assume Celestia knows,
-      but she never told anyone that we know of. If she somehow did, that
-      could be the day Spike considers his birthday, which would allow to push
-      this episode earlier.
+      egg was laid or where it came from at all, and Twilight disclaimed all
+      knowledge explicitly in Dragon Quest. We can assume Celestia knows, but
+      she never told anyone that we know of. If she somehow did, that could be
+      the day Spike considers his birthday, which would allow to push this
+      episode earlier.
 
       Due to the large amount of destruction Spike inflicted, this episode
       implies a certain gap afterwards required to rebuild Ponyville.
@@ -739,14 +759,6 @@ episodes:
       Stoppers](#ep-1x18) as a soft lower bound and Call of the Cutie as the
       hard lower bound. Lesson Zero is another, because Spike ends the episode
       with an explicit letter to Celestia.
-    after:
-      - 1x01-02
-      - 1x09
-      - 1x12
-      - 2x03
-    before:
-      - 3x13
-      - 4x01-02
   2x11:
     title: Hearth's Warming Eve
     link: http://mlp.wikia.com/wiki/Hearth%27s_Warming_Eve
@@ -792,6 +804,10 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+    before:
+      - 3x13
     comment: |
       The Cake Twins are newly born in the opening scenes, but most of the
       episode occurs a month after that. For the purposes of this chronology
@@ -804,10 +820,6 @@ episodes:
       however, Pinkie narrates a Lesson Zero pattern letter to Celestia, but
       is not shown writing it or sending it off, or talking about it to anyone
       else, making Lesson Zero a soft, rather than hard constraint.
-    after:
-      - 1x01-02
-    before:
-      - 3x13
   2x14:
     title: The Last Roundup
     link: http://mlp.wikia.com/wiki/The_Last_Roundup
@@ -944,7 +956,6 @@ episodes:
       that would allow us to place it before or after the existence of the
       Friendship Castle. The visuals rule out winter, and suggest it's
       probably not summer, but that's it.
-    before: []
   2x20:
     title: It's About Time
     link: http://mlp.wikia.com/wiki/It%27s_About_Time
@@ -953,7 +964,11 @@ episodes:
     spring: true
     comment: |
       Twilight Sparkle's behavior is similar to that in [Lesson
-      Zero,](#ep-2x03) so they could have happened around the same time.
+      Zero,](#ep-2x03) so they could have been parts of the same chain of
+      events.
+
+      See also the commentary on [Mare Do Well](#ep-2x08) which could possibly
+      be a timeline erased by the events of this episode.
     after:
       - 1x01-02
     before:
@@ -1188,11 +1203,13 @@ episodes:
     comment: |
       Twilight is reading more books than usual, a sign that she moved up in
       her studies. Rainbow Dash is writing a story about a pony becoming a
-      captain of the Wonderbolts, which can't happen before Read it and Weep
-      and is unlikely to happen before [Wonderbolts Academy.](#ep-3x07) Timber
-      wolves actually show up near populated areas, which they apparently
-      don't do unless it's near zap apple season, which soft-locks this
-      episode on a yearly boundary with [Family Appreciation Day.](#ep-2x12)
+      captain of the Wonderbolts, which can't happen before Read it and Weep,
+      and is unlikely to happen before [Wonderbolts Academy.](#ep-3x07)
+
+      Timber wolves actually show up near populated areas, which they
+      apparently don't do unless it's near zap apple season, which soft-locks
+      this episode on a yearly boundary with [Family Appreciation
+      Day.](#ep-2x12)
     after:
       - 1x01-02
       - 2x16
@@ -1207,8 +1224,8 @@ episodes:
     summer: true
     spring: true
     comment: |
-      It appears that Discord has been a statue for a long time, so this
-      probably quite a while after The Return Of Harmony.
+      It appears that Discord has been a statue for a substantial time, so
+      this probably quite a while after The Return Of Harmony.
     after:
       - 1x01-02
       - 2x01-02
@@ -1287,16 +1304,17 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      The primary reason for the castle expedition is to find information on
-      the Tree of Harmony, so it has to follow Princess Twilight Sparkle,
-      where the tree is introduced. Twilight finds the Journal of the Two
-      Sisters in this episode, so every season 4 episode where something gets
-      written into that journal must follow.
     after:
       - 3x13
       - 4x01-02
-    before: []
+    comment: |
+      The primary reason for the castle expedition is to find information on
+      the Tree of Harmony, so it has to follow Princess Twilight Sparkle,
+      where the tree is introduced.
+
+      Twilight finds the Journal of the Two Sisters in this episode, so every
+      season 4 episode where something gets written into that journal must
+      follow.
   4x04:
     title: Daring Don't
     link: http://mlp.wikia.com/wiki/Daring_Don%27t
@@ -1310,7 +1328,6 @@ episodes:
     comment: |
       This episode centers on Daring Do and results in a Journal entry written
       immediately upon conclusion.
-    before: []
   4x05:
     title: Flight to the Finish
     link: http://mlp.wikia.com/wiki/Flight_to_the_Finish
@@ -1338,7 +1355,6 @@ episodes:
     after:
       - 3x13
       - 4x03
-    before: []
   4x07:
     title: Bats!
     link: http://mlp.wikia.com/wiki/Bats!
@@ -1349,7 +1365,6 @@ episodes:
       the episode implies autumn.
     after:
       - 3x13
-    before: []
   4x08:
     title: Rarity Takes Manehattan
     link: http://mlp.wikia.com/wiki/Rarity_Takes_Manehattan
@@ -1588,11 +1603,10 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Another episode with nearly no hard bounds.
     after:
       - 3x13
-    before: []
+    comment: |
+      Another episode with nearly no hard bounds.
   4x23:
     title: Inspiration Manifestation
     link: http://mlp.wikia.com/wiki/Inspiration_Manifestation
@@ -1687,7 +1701,6 @@ episodes:
     after:
       - 3x13
       - 5x01-02
-    before: []
   5x04:
     title: Bloom & Gloom
     link: http://mlp.wikia.com/wiki/Bloom_%26_Gloom
@@ -1789,7 +1802,6 @@ episodes:
       Castle.](#ep-5x03) It could actually accommodate even the presence of
       Starlight Glimmer. And we don't see what season it is out in Ponyville
       either.
-    before: []
   5x09:
     title: Slice of Life
     link: http://mlp.wikia.com/wiki/Slice_of_Life
@@ -1820,7 +1832,6 @@ episodes:
       a good lower bound story-wise, but I'm not definite on that.
     after:
       - 3x13
-    before: []
   5x11:
     title: Party Pooped
     link: http://mlp.wikia.com/wiki/Party_Pooped
@@ -2087,7 +2098,6 @@ episodes:
       excited about the mission so much, that it's clear that both The Lost
       Treasure of Griffonstone and Made in Manehattan have already occurred
       and she's bored because she still didn't get a go.
-    before: []
   5x24:
     title: The Mane Attraction
     link: http://mlp.wikia.com/wiki/The_Mane_Attraction
@@ -2100,7 +2110,6 @@ episodes:
     comment: |
       The CMC have their marks, which is a nice lower bound, but I don't see a
       good upper one.
-    before: []
   5x25-26:
     title: The Cutie Re-Mark
     autumn: true
@@ -2175,7 +2184,6 @@ episodes:
 
       No snow is visible in the portal to Ponyville, so it's not winter in
       Equestria.
-    before: []
   EG4:
     title: "Equestria Girls: Legends of Everfree"
     link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Legend_of_Everfree
@@ -2193,7 +2201,6 @@ episodes:
       summmer in Pedestria, we have no idea whether this matches Equestria,
       and even whether the time flows at the same rate on both sides of the
       portal, so that doesn't give us anything.
-    before: []
   6x01-02:
     title: The Crystalling
     link: http://mlp.wikia.com/wiki/The_Crystalling_-_Part_1
@@ -2214,7 +2221,6 @@ episodes:
       - 3x13
       - 5x19
       - 5x25-26
-    before: []
   6x03:
     title: The Gift of the Maud Pie
     link: http://mlp.wikia.com/wiki/The_Gift_of_the_Maud_Pie
@@ -2243,7 +2249,6 @@ episodes:
       they acquired their marks. No matter how many other obligations they
       have in their daily lives, this has to have happened within a month
       after Crusaders of the Lost Mark.
-    before: []
   6x05:
     title: Gauntlet of Fire
     link: http://mlp.wikia.com/wiki/Gauntlet_of_Fire
@@ -2263,7 +2268,6 @@ episodes:
     after:
       - 3x13
       - 5x01-02
-    before: []
   6x06:
     title: No Second Prances
     link: http://mlp.wikia.com/wiki/No_Second_Prances
