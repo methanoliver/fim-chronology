@@ -320,7 +320,7 @@ episodes:
     comment: |
       Rarity is famous enough to attract Sapphire Shores, so this needs to
       happen after Suited For Success, *and* Green Isn't Your Color, in which
-      she is not sufficiently famous *yet*.
+      she is not sufficiently famous *yet* to do that.
   1x20:
     title: Green Isn't Your Color
     link: http://mlp.wikia.com/wiki/Green_Isn%27t_Your_Color
@@ -332,6 +332,16 @@ episodes:
       basically ignores her, and nobody recognizes her. But we also see the
       dresses that Rarity made in Suited For Success, so more likely than not,
       Hoity Toity just didn't have the time to drum up a market yet.
+
+      Notably, in [A Dog and Pony Show](#ep-1x19) Sapphire Shores mentions the
+      "Clothes Horse" magazine writing rave reviews, and the only incident
+      that could conceivably lead to that in the timeframe available is Hoity
+      Toity's visit. This permits Green Isn't Your Color to exist in the gap
+      between that visit and the time the next issue of the magazine came
+      out. In our world, monthly glossy magazines are typically sent off to
+      the printers at least two weeks before their official release date, with
+      all the articles finalized, which makes this gap at least two weeks and
+      at most six weeks wide.
     after:
       - 1x01-02
       - 1x14
@@ -787,9 +797,12 @@ episodes:
       "the time of this episode" is the time of the sequence when Pinkie is
       babysitting the Cake twins.
 
-      While Twilight refers to a report to Princess Celestia summarizing all
-      her other reports, this can have happened both before and after [Lesson
-      Zero.](#ep-2x03)
+      Inside the sequence, Twilight refers to a report to Princess Celestia
+      summarizing all her other reports, but this can have happened both
+      before and after [Lesson Zero.](#ep-2x03) At the end of the episode,
+      however, Pinkie narrates a Lesson Zero pattern letter to Celestia, but
+      is not shown writing it or sending it off, or talking about it to anyone
+      else, making Lesson Zero a soft, rather than hard constraint.
     after:
       - 1x01-02
     before:
