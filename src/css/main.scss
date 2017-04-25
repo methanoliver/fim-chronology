@@ -39,8 +39,11 @@ span.nav-toggle span {
 }
 
 .big-season-icon {
+    margin-bottom: 0 !important;
+    margin-right: 25px;
+
     i {
-        font-size: 80px;
+        font-size: 83px;
     }
 }
 
@@ -86,19 +89,16 @@ seasons, [data-is="seasons"] {
     }
 }
 
-.card-move-footer {
-    button {
-        min-width: 120px;
-        margin-left: 10px;
-        margin-right: 10px;
-        ._icon {
-            margin-left: 5px;
-        }
-    }
+.card-move-block {
+    margin-left: 25px;
+    margin-bottom: 15px;
 }
 
-.bbcode-container {
-    height: 100px;
-    overflow: scroll;
-    border: 1px solid black;
+.card-content.collapse {
+    .episode-comment {
+        display: none;
+    }
+    .card-move-block {
+        margin-bottom: 0;
+    }
 }
