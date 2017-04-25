@@ -914,7 +914,7 @@ episodes:
 
       This interpretation implies that Fluttershy, Rarity and Pinkie were
       friends before the arrival of Twilight, which *does* seem dubious, but
-      then there's that scene in [A Celestial Advice](#ep-7x01-02)... which is
+      then there's that scene in [A Celestial Advice](#ep-7x01)... which is
       part of a flashback that is itself dubious... Moving on.
 
       An alternate theory, which is the one I am currently using, places it
@@ -2261,11 +2261,13 @@ episodes:
       - 3x13
       - 5x25-26
       - 6x01-02
-    before: []
     comment: |
       Starlight Glimmer is a friendship student for long enough not to bump
       into things, but most other markers we get in this episode are clearly
       redundant.
+
+      This episode introduces the Starlight/Trixie partnership, requiring all
+      further episodes in which they interact to occur afterwards.
   6x07:
     title: Newbie Dash
     link: http://mlp.wikia.com/wiki/Newbie_Dash
@@ -2652,19 +2654,36 @@ episodes:
 
       If that theory is correct, though, the Mane 5 are getting kidnapped
       while Twilight is playing with Flurry Heart...
-  7x01-02:
-    title: Celestial Advice / All Bottled Up
+  7x01:
+    title: A Celestial Advice
     link: http://mlp.wikia.com/wiki/Celestial_Advice
     autumn: true
     summer: true
     spring: true
     after:
+      - 6x05
       - 6x25-26
     comment: |
-      While these two episodes are not, strictly speaking, a two-parter, they
-      are unambiguously set within at most a week of each other, and likewise,
-      follow To Where and Back Again very closely, with no more than a week
-      between them.
+      This episode unambiguously follows To Where and Back Again very closely,
+      with no more than a week between them, as the events of that are the
+      entire reason the episode plot even exists.
+
+      The events of Gauntlet of Fire are referred to, making it another lower
+      bound.
+  7x02:
+    title: All Bottled Up
+    link: http://mlp.wikia.com/wiki/All_Bottled_Up
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 6x06
+      - 6x25-26
+    comment: |
+      While it does *look like* All Bottled Up is meant to follow [A Celestial
+      Advice](#ep-7x01) very closely, it actually might not follow it at all,
+      but rather be in front of it. The events of To Where and Back Again are
+      referred to, however.
   7x03:
     title: A Flurry of Emotions
     link: http://mlp.wikia.com/wiki/A_Flurry_of_Emotions
@@ -2847,7 +2866,8 @@ order:
   - SM3-AU
   - 7x03
   - 6x25-26
-  - 7x01-02
+  - 7x01
+  - 7x02
   - SM3-WI
   - 6x08
   - SM3-SP
