@@ -33,11 +33,11 @@
                        class="button is-success">Save</a>
                 </p>
                 <p class="control">
-                    <button onclick="{download}"
-                            ref="download"
-                            class="button is-primary"
-                            title="Download the order as a CSV file"
-                            target="_blank">Export CSV</button>
+                    <a onclick="{download}"
+                       ref="download"
+                       class="button is-primary"
+                       title="Download the order as a CSV file"
+                       target="_blank">Export CSV</a>
                 </p>
             </div>
         </div>
