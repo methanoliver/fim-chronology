@@ -16,14 +16,14 @@
            episode="{episode}">
         </p>
         <p class="card-header-icon card-eye-icon">
-            <a onclick="{toggle}" title="Show episode commentary" if="{collapsed}">
+            <a onclick="{toggle}" title="Show episode commentary" if="{epData(episode).collapse}">
                 <span class="icon _icon">h</span></a>
-            <a onclick="{toggle}" title="Hide episode commentary" if="{!collapsed}">
+            <a onclick="{toggle}" title="Hide episode commentary" if="{!epData(episode).collapse}">
                 <span class="icon _icon">g</span></a>
         </p>
     </header>
     <div class="card-content">
-        <div class="content" show="{!collapsed}">
+        <div class="content" show="{!epData(episode).collapse}">
             <p class="big-season-icon is-pulled-right"
                data-is="seasons"
                skip="true"
@@ -65,14 +65,12 @@
         import "./episode-blocker-list.tag";
         import "./seasons.tag";
 
-        this.collapsed = false;
-
         this.toggle = e => {
-            this.collapsed = !this.collapsed;
-        }
+            this.epData(this.episode).collapse = !this.epData(this.episode).collapse;
+        };
 
         this.listen('collapse-change', data => {
-            this.collapsed = data;
+            this.epData(this.episode).collapse = data;
             this.update();
         });
 
