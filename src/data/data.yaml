@@ -24,21 +24,25 @@ episodes:
   1x03:
     title: The Ticket Master
     link: http://mlp.wikia.com/wiki/The_Ticket_Master
-    autumn: true
     summer: true
-    spring: true
-    comment: |
-      Twilight and Spike seem to know the others fairly well by this stage.
-
-      Since this is the episode that introduces the Grand Galloping Gala as a
-      future event, it must precede the Gala itself, and Suited for Success,
-      in which the gala dresses would appear first chronologically.
     after:
       - 1x01-02
     before:
       - 1x14
       - 1x26
       - 3x13
+      - SM1-AU
+    comment: |
+      Twilight and Spike seem to know the others fairly well by this stage.
+
+      Since this is the episode that introduces the Grand Galloping Gala as a
+      future event, it must precede the Gala itself, and Suited for Success,
+      in which the gala dresses would appear first chronologically.
+
+      When Fluttershy comments that she is doing "spring cleaning" for
+      Twilight, Twilight rebukes her saying that it's summer and locking the
+      season for this episode. There is no way it can be any other summer than
+      the first.
   1x04:
     title: Applebuck Season
     link: http://mlp.wikia.com/wiki/Applebuck_Season
@@ -436,13 +440,15 @@ episodes:
       possibly, [Lesson Zero](#ep-2x03) itself, which is a constraint on
       Putting Your Hoof Down.
 
-      Since Twilight knows Gummy, it must follow Feeling Pinkie Keen. Spike
-      refers to this being a spring day explicitly, which locks it to sometime
-      after Winter Wrap-Up.
+      Since Twilight knows Gummy, it must follow Feeling Pinkie Keen.
+
+      Spike refers to this being a spring day explicitly, and Rarity refers to
+      a "Spring has sprung" party Pinkie hosted previously sometime in recent
+      memory, which locks it against the beginning of the first year's spring.
     after:
       - 1x01-02
-      - 1x11
       - 1x15
+      - SM1-SP
     before:
       - 3x13
   1x26:
@@ -450,6 +456,13 @@ episodes:
     link: http://mlp.wikia.com/wiki/The_Best_Night_Ever
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 1x03
+      - 1x14
+      - SM1-SP
+    before:
+      - 3x13
     comment: |
       According to Spike's line in Ticket Master, the Gala is held on the
       21th of a certain month. If he only told us which one!
@@ -462,12 +475,13 @@ episodes:
       that night only, all the flowers in the gardens bloom, and speaks of it
       as if it were a natural event. This can't happen in autumn or winter, so
       it has to be spring or summer.
-    after:
-      - 1x01-02
-      - 1x03
-      - 1x14
-    before:
-      - 3x13
+
+      In Suited for Success, Rarity describes Fluttershy's dress as "it just
+      sings spring," further suggesting that the Gala has to occur during a
+      spring month.
+
+      Since we have some rather strong season locks, there's a hard lock
+      against the beginning of first year's springs.
   2x01-02:
     title: The Return of Harmony
     link: http://mlp.wikia.com/wiki/The_Return_of_Harmony_Part_1
@@ -836,9 +850,9 @@ episodes:
       eh, I think that's her problem.
 
       Applejack narrates a report to Princess Celestia, which implies the
-      events of episode either occur after [Lesson Zero](#ep-2x03), but she does
-      not refer to them as having happened today or recently, and is not
-      observed writing the letter.
+      events of episode occur after [Lesson Zero](#ep-2x03), but she does not
+      refer to them as having happened today or recently, and is not observed
+      writing the letter, so this does not produce a hard bound.
     after:
       - 1x01-02
     before:
@@ -1262,6 +1276,14 @@ episodes:
     link: http://mlp.wikia.com/wiki/Magical_Mystery_Cure
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 1x09
+      - 2x13
+      - 3x01-02
+      - SM1-SP
+    before:
+      - 5x18
     comment: |
       Twilight gets her wings in this episode, so this must occur after every
       appearance of wingless Twilight. This is our biggest landmark
@@ -1272,25 +1294,10 @@ episodes:
       Sparkle,](#ep-4x01-02) and the season for that one is set strictly, this
       can only happen in summer and spring, which produces a hard lock against
       the spring of year 1.
-    after:
-      - 1x01-02
-      - 1x09
-      - 2x13
-      - 3x01-02
-      - SM1-SP
-    before:
-      - 5x18
   4x01-02:
     title: Princess Twilight Sparkle
     link: http://mlp.wikia.com/wiki/Princess_Twilight_Sparkle_-_Part_1
     summer: true
-    comment: |
-      The time is explicitly immediately before the Summer Sun Celebration,
-      Discord is reformed and nobody except Fluttershy trusts him at all.
-
-      Since the Summer Sun Celebration is, obviously, a summer event, and
-      Twilight is already a princess, the summer of the second year has to
-      have started before that.
     after:
       - 1x09
       - 3x10
@@ -1298,6 +1305,13 @@ episodes:
       - SM2-SU
     before:
       - 5x18
+    comment: |
+      The time is explicitly immediately before the Summer Sun Celebration,
+      Discord is reformed and nobody except Fluttershy trusts him at all.
+
+      Since the Summer Sun Celebration is, obviously, a summer event, and
+      Twilight is already a princess, the summer of the second year has to
+      have started before that.
   4x03:
     title: Castle Mane-ia
     link: http://mlp.wikia.com/wiki/Castle_Mane-ia
@@ -1328,110 +1342,159 @@ episodes:
     comment: |
       This episode centers on Daring Do and results in a Journal entry written
       immediately upon conclusion.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      were no Journal records between this episode and [Castle
+      Mane-ia](#ep-4x03).
   4x05:
     title: Flight to the Finish
     link: http://mlp.wikia.com/wiki/Flight_to_the_Finish
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Must precede Equestria Games, obviously. Notably, school is in
-      session. The events described probably require some time to happen and
-      the end might be spread a bit from the beginning.
     after:
       - 3x13
     before:
       - 4x24
       - 5x18
+    comment: |
+      Must precede Equestria Games, obviously. Notably, school is in
+      session. The events described probably require some time to happen and
+      the end might be spread a bit from the beginning.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows [Daring
+      Don't](#ep-4x04).
   4x06:
     title: Power Ponies
     link: http://mlp.wikia.com/wiki/Power_Ponies
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Most of it happens in the pocket space, but certain scenes take place in
-      the RPS Castle after the first visit to it.
     after:
       - 3x13
       - 4x03
+    comment: |
+      Most of this episode happens in the pocket space of a comic book, but
+      opening scenes take place in the RPS Castle after the first visit to it.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows [Flight
+      to the Finish](#ep-4x05).
   4x07:
     title: Bats!
     link: http://mlp.wikia.com/wiki/Bats!
     autumn: true
+    after:
+      - 3x13
+      - SM2-AU
     comment: |
       While Applejack says it's officially Apple Bucking Day, it's not certain
       whether it's the Applebuck Season. But the yellowing grass throughout
-      the episode implies autumn.
-    after:
-      - 3x13
+      the episode implies autumn. Due to Twilight having wings this can only
+      be the second year's autumn or later.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows [Power
+      Ponies](#ep-4x06).
   4x08:
     title: Rarity Takes Manehattan
     link: http://mlp.wikia.com/wiki/Rarity_Takes_Manehattan
     autumn: true
+    after:
+      - 3x13
+      - 4x03
+      - SM2-AU
+    before:
+      - 4x25-26
     comment: |
       The episode is set during Fashion Week, putting it on an integer year
       boundary from [The Saddle Row Review](#ep-6x09). Since in The Saddle Row
       Review, Rarity's statement fixes the season of that episode to autumn,
-      this one also has to be an autumn episode.
+      this one also has to be an autumn episode. Like the Saddle Row Review
+      itself, this episode cannot occur before the start of the second year's
+      autumn.
 
       This is a Chest of Harmony Key incident and Rarity writes in the
       Journal.
-    after:
-      - 3x13
-      - 4x03
-    before:
-      - 4x25-26
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows
+      [Bats!](#ep-4x07).
   4x09:
     title: Pinkie Apple Pie
     link: http://mlp.wikia.com/wiki/Pinkie_Apple_Pie
     autumn: true
     summer: true
     spring: true
-    comment: |
-      While this is not a Chest incident, the Apples and Pinkie argue about
-      who gets to write in the Journal.
     after:
       - 3x13
       - 4x03
     before:
       - 5x18
+    comment: |
+      While this is not a Chest incident, the Apples and Pinkie argue about
+      who gets to write in the Journal.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that follows [Rarity Takes
+      Manehattan](#ep-4x08) -- actually, six of them, two from Pinkie, one
+      from Granny Smith, one from Apple Bloom, one from Applejack, and one
+      from Big Mac. There was, however, a record immediately prior to them,
+      describing Twilight's reaction to reading the Journal of the Two Sisters
+      for some bizarre reason.
   4x10:
     title: Rainbow Falls
     link: http://mlp.wikia.com/wiki/Rainbow_Falls
     autumn: true
     summer: true
     spring: true
-    comment: |
-      This is a Chest of Harmony Key incident, Rainbow writes in the Journal,
-      and it is explicitly set before Equestria Games.
     after:
       - 3x13
       - 4x03
     before:
       - 4x24
       - 4x25-26
+    comment: |
+      This is a Chest of Harmony Key incident, Rainbow writes in the Journal,
+      and it is explicitly set before Equestria Games.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      were two Journal records for this episode (Rainbow, Fluttershy) that
+      immediately follow the block of records associated with [Pinkie Apple
+      Pie](#ep-4x09).
   4x11:
     title: Three's A Crowd
     link: http://mlp.wikia.com/wiki/Three%27s_A_Crowd
     autumn: true
     summer: true
     spring: true
-    comment: |
-      This is a very self-contained episode, which can float a good ways up
-      and down, but it ends with Twilight writing in the Journal, giving it
-      hard upper and lower bounds.
     after:
       - 3x13
       - 4x03
     before:
       - 4x25-26
+    comment: |
+      This is a very self-contained episode, which can float a good ways up
+      and down, but it ends with Twilight writing in the Journal, giving it
+      hard upper and lower bounds.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows the block
+      of records for [Rainbow Falls](#ep-4x10).
   4x12:
     title: Pinkie Pride
     link: http://mlp.wikia.com/wiki/Pinkie_Pride
     autumn: true
     summer: true
     spring: true
+    after:
+      - 2x07
+      - 2x13
+      - 3x13
+    before:
+      - 4x25-26
+      - 5x18
     comment: |
       It's Rainbow Dash's birthiversary. This is a Chest of Harmony Key
       incident, but Pinkie is not actually shown writing in the
@@ -1441,19 +1504,20 @@ episodes:
       Incidentally, a photo of Pinkie's cutie mark party includes Maud, and
       makes it her first on-screen appearance, though not the introduction to
       the Mane 6.
-    after:
-      - 2x07
-      - 2x13
-      - 3x13
-    before:
-      - 4x25-26
-      - 5x18
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows [Three's
+      A Crowd](#ep-4x11).
   4x13:
     title: Simple Ways
     link: http://mlp.wikia.com/wiki/Simple_Ways
     autumn: true
     summer: true
     spring: true
+    after:
+      - 3x13
+    before:
+      - 5x18
     comment: |
       This one is very independent and difficult to position. It is taking
       place immediately prior and during the Ponyville Days festival, which
@@ -1461,20 +1525,16 @@ episodes:
 
       Rarity narrates at the end, and it sounds like she's narrating a Journal
       record, but she is not shown actually writing.
-    after:
-      - 3x13
-    before:
-      - 5x18
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows [Pinkie
+      Pride](#ep-4x12).
   4x14:
     title: Filli Vanilli
     link: http://mlp.wikia.com/wiki/Filli_Vanilli
     autumn: true
     summer: true
     spring: true
-    comment: |
-      A very independent episode that can fall anywhere within the bounds of
-      season 4. Fluttershy is shown writing in the Journal. School is in
-      session.
     after:
       - 1x09
       - 3x13
@@ -1482,15 +1542,21 @@ episodes:
     before:
       - 4x25-26
       - 5x18
+    comment: |
+      A very independent episode that can fall anywhere within the bounds of
+      season 4. Fluttershy is shown writing in the Journal. School is in
+      session.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that follows [Simple
+      Ways](#ep-4x13) -- but between them are four pages of Pinkie rambling on
+      the use of the phrase "slippery when wet."
   4x15:
     title: Twilight Time
     link: http://mlp.wikia.com/wiki/Twilight_Time
     autumn: true
     summer: true
     spring: true
-    comment: |
-      School is in session. Among other things, the blueprint of the Chest of
-      Harmony is visible in the library. Sweetie Belle writes in the Journal.
     after:
       - 3x13
       - 4x01-02
@@ -1498,26 +1564,42 @@ episodes:
     before:
       - 4x25-26
       - 5x18
+    comment: |
+      School is in session. Among other things, the blueprint of the Chest of
+      Harmony is visible in the library. Sweetie Belle writes in the Journal.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows [Filli
+      Vanilli](#ep-4x14).
   4x16:
     title: It Ain't Easy Being Breezies
     link: http://mlp.wikia.com/wiki/It_Ain%27t_Easy_Being_Breezies
     autumn: true
     summer: true
     spring: true
-    comment: |
-      This is a Chest of Harmony Key incident. It has to occur after
-      Fluttershy first mentions breezies in Three's A Crowd.
     after:
       - 3x13
       - 4x11
     before:
       - 4x25-26
+    comment: |
+      This is a Chest of Harmony Key incident. It has to occur after
+      Fluttershy first mentions breezies in Three's A Crowd.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      were two Journal records for this episode *(Spike and Fluttershy)* that
+      immediately follow [Twilight Time](#ep-4x15).
   4x17:
     title: Somepony to Watch Over Me
     link: http://mlp.wikia.com/wiki/Somepony_to_Watch_Over_Me
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x12
+      - 2x03
+    before:
+      - 5x18
     comment: |
       This episode does not feature Twilight or Spike, which makes it possible
       to backdate it far away in the past. It must occur after Call of the
@@ -1533,62 +1615,71 @@ episodes:
       argued that this, as well as Lesson Zero itself, are results of recent
       exposure to Discord's magic, in which case this episode immediately
       follows Lesson Zero.
-    after:
-      - 1x12
-      - 2x03
-    before:
-      - 5x18
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows [It Ain't
+      Easy Being Breezies](#ep-4x16).
   4x18:
     title: Maud Pie
     link: http://mlp.wikia.com/wiki/Maud_Pie_(episode)
     autumn: true
     summer: true
     spring: true
-    comment: |
-      This episode is very self-contained around Maud.
     after:
       - 1x24
       - 2x07
       - 3x13
     before:
       - 4x25-26
+    comment: |
+      This episode is very self-contained around Maud.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows [Somepony
+      To Watch Over Me](#ep-4x17).
   4x19:
     title: For Whom the Sweetie Belle Toils
     link: http://mlp.wikia.com/wiki/For_Whom_the_Sweetie_Belle_Toils
     autumn: true
     summer: true
     spring: true
-    comment: |
-      This is a very floaty self-contained episode, and even Twilicorn only
-      shows up for a few frames. The only clear upper bound on it is the CMC
-      getting their marks.
     after:
       - 3x13
     before:
       - 5x18
+    comment: |
+      This is a very floaty self-contained episode, and even Twilicorn only
+      shows up for a few frames. The only clear upper bound on it is the CMC
+      getting their marks.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows [Maud
+      Pie](#ep-4x18).
   4x20:
     title: Leap of Faith
     link: http://mlp.wikia.com/wiki/Leap_of_Faith
     summer: true
+    spring: true
+    autumn: true
     after:
       - 4x03
+    before:
+      - 4x25-26
+      - 5x18
     comment: |
       This episode involves a lot of swimming, and thus is probably limited to
       summer. It features neither Twilicorn nor her castle, but Applejack
       writes in the Journal. This is a Chest of Harmony Key incident.
-    before:
-      - 4x25-26
-      - 5x18
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows [For Whom
+      the Sweetie Belle Toils](#ep-4x19).
   4x21:
     title: Testing Testing 1, 2, 3
     link: http://mlp.wikia.com/wiki/Testing_Testing_1,_2,_3
     autumn: true
     summer: true
     spring: true
-    comment: |
-      As a result of this episode, Rainbow Dash joins Wonderbolt Reserves, so
-      this must precede Rarity Investigates, precede Newbie Dash, and follow
-      Wonderbolt Academy.
     after:
       - 1x24
       - 3x07
@@ -1597,6 +1688,14 @@ episodes:
       - 5x15
       - 5x18
       - 6x07
+    comment: |
+      As a result of this episode, Rainbow Dash joins Wonderbolt Reserves, so
+      this must precede Rarity Investigates, precede Newbie Dash, and follow
+      Wonderbolt Academy.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      are two Journal records for this episode *(Twilight and Rainbow)* that
+      immediately follow [Leap of Faith](#ep-4x20).
   4x22:
     title: Trade Ya!
     link: http://mlp.wikia.com/wiki/Trade_Ya!
@@ -1607,16 +1706,16 @@ episodes:
       - 3x13
     comment: |
       Another episode with nearly no hard bounds.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows the block
+      of records for [Testing Testing 1-2-3](#ep-4x21).
   4x23:
     title: Inspiration Manifestation
     link: http://mlp.wikia.com/wiki/Inspiration_Manifestation
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Spike revisits the RPS Castle, Friendship Castle does not exist, but
-      otherwise this is quite undefined. Yet another presumably yearly
-      festival, the Foal and Filly Fair, occurs during this episode.
     after:
       - 1x24
       - 3x13
@@ -1624,6 +1723,16 @@ episodes:
     before:
       - 4x25-26
       - 5x18
+    comment: |
+      Spike revisits the RPS Castle, Friendship Castle does not exist, but
+      otherwise this is quite undefined. Yet another presumably yearly
+      festival, the Foal and Filly Fair, occurs during this episode.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that follows [Equestria
+      Games](#ep-4x24), after some commentary by Twilight on the Two Sisters
+      portion of the journal and four more pages of Pinkie rambling. This is
+      the only break of airing order the *Journal of Friendship* supposes.
   4x24:
     title: Equestria Games
     link: http://mlp.wikia.com/wiki/Equestria_Games
@@ -1631,11 +1740,6 @@ episodes:
     summer: true
     winter: true
     spring: true
-    comment: |
-      This episode has quite a few that have to precede it, but no strict
-      upper bound all the way up until Crusaders of the Lost Mark. Since it
-      happens in the Crystal Empire, I'm not even sure if it can be winter or
-      not.
     after:
       - 3x11-12
       - 3x13
@@ -1643,6 +1747,15 @@ episodes:
     before:
       - 5x18
       - 6x01-02
+    comment: |
+      This episode has quite a few that have to precede it, but no strict
+      upper bound all the way up until Crusaders of the Lost Mark. Since it
+      happens in the Crystal Empire, I'm not even sure if it can be winter or
+      not.
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows [Trade
+      Ya!](#ep-4x22).
   4x25-26:
     title: Twilight's Kingdom
     link: http://mlp.wikia.com/wiki/Twilight%27s_Kingdom_-_Part_1
@@ -1653,14 +1766,19 @@ episodes:
       - 1x09
       - 1x24
       - 3x13
+    before:
+      - 5x18
     comment: |
       This is a landmark episode: Friendship Castle appears.
 
       All incidents in which the Mane 6 acquired their keys must occur prior,
       while all incidents of seeing the castle on screen must occur
       afterwards.
-    before:
-      - 5x18
+
+      If the *Journal of Friendship* is accepted as a canonical source, there
+      was a Journal record for this episode that immediately follows the
+      record for [Inspiration Manifestation](#ep-4x24). This is the last
+      record in that journal.
   5x01-02:
     title: The Cutie Map
     link: http://mlp.wikia.com/wiki/The_Cutie_Map_-_Part_1
@@ -1918,12 +2036,11 @@ episodes:
   5x15:
     title: Rarity Investigates!
     link: http://mlp.wikia.com/wiki/Rarity_Investigates!
-    autumn: true
-    summer: true
     spring: true
     after:
       - 4x21
       - 5x14
+      - SM2-SP
     before:
       - 6x07
     comment: |
@@ -1932,6 +2049,12 @@ episodes:
       time, most of the upper bound markers we have cannot be observed in
       Canterlot, but it obviously has to precede Rainbow Dash actually
       becoming a Wonderbolt in Newbie Dash.
+
+      Rarity comments that "Ice irises are almost impossible to find in
+      spring!" which fixes the season of this episode to spring. There is no
+      way this can be the first year's spring, due to the Testing, Testing
+      1-2-3 being a dependency of this episode and containing a winged
+      Twilight, so it's at least the second year's.
   5x16-17:
     title: Made in Manehattan / Brotherhooves Social
     link: http://mlp.wikia.com/wiki/Made_in_Manehattan
@@ -2204,23 +2327,36 @@ episodes:
   6x01-02:
     title: The Crystalling
     link: http://mlp.wikia.com/wiki/The_Crystalling_-_Part_1
-    winter: true
     spring: true
-    comment: |
-      Starlight Glimmer behaves like this is her first morning in Twilight's
-      castle, or at least, the first week. Flurry Heart is a newborn, which
-      implies a pregnancy period has to have elapsed since The One Where
-      Pinkie Pie Knows.
-
-      We don't really see the season in Ponyville area, but Crystal Empire
-      probably has winter, seeing as how it's about to freeze over the moment
-      the Heart is broken. Tertiary canon *(Princess Cadance and the Spring
-      Hearts Garden)* also thinks Flurry Heart was born in winter or early
-      spring.
     after:
       - 3x13
       - 5x19
       - 5x25-26
+      - SM2-SP
+    comment: |
+      Starlight Glimmer behaves like this is her first morning in Twilight's
+      castle, or at least, the first week, which implies that the Cutie
+      Re-Mark happened very recently, and the montage at the end of that
+      episode covers future events.
+
+      Flurry Heart is a newborn, which implies a pregnancy period has to have
+      elapsed since The One Where Pinkie Pie Knows.
+
+      Crystal Empire clearly has winter, or very early spring, -- there is no
+      evidence to suppose Crystal Empire is capable of the same total weather
+      control as most of Equestria -- seeing as how it's about to freeze over
+      the moment the Heart is broken. *(There are episodes where the snow is
+      not observable around the Crystal Empire at all, so it definitely does
+      have seasonal changes.)* Ponyville area, however, has green grass, which
+      only leaves spring as the possible season.
+
+      Tertiary canon *(Princess Cadance and the Spring Hearts Garden)* also
+      claims Flurry Heart was born in winter or early spring.
+
+      All of that cannot occur earlier than the start of the spring of the
+      second year, because Twilight does not have wings during the entire
+      first winter.
+
   6x03:
     title: The Gift of the Maud Pie
     link: http://mlp.wikia.com/wiki/The_Gift_of_the_Maud_Pie
@@ -2342,6 +2478,12 @@ episodes:
     title: The Saddle Row Review
     link: http://mlp.wikia.com/wiki/The_Saddle_Row_Review
     autumn: true
+    after:
+      - 3x13
+      - 4x08
+      - 6x03
+      - 6x09
+      - SM2-AU
     comment: |
       The episode is set during Fashion Week, whenever that is, and therefore
       has to occur an integer amount of years after Rarity Takes Manehattan,
@@ -2351,11 +2493,8 @@ episodes:
       This episode also explicitly states the season: According to Rarity,
       "tonight is the last night of the Fall season." Fashion's "fall season"
       need not explicitly fall on calendar season boundaries, but it pretty
-      definitely has to be in autumn.
-    after:
-      - 3x13
-      - 4x08
-      - 6x09
+      definitely has to be in autumn, and it has to be at least the second
+      year's autumn.
   6x10:
     title: Applejack's "Day" Off
     link: http://mlp.wikia.com/wiki/Applejack%27s_%22Day%22_Off
@@ -2826,8 +2965,8 @@ order:
   - 4x20
   - 4x21
   - 4x22
-  - 4x23
   - 4x24
+  - 4x23
   - 4x25-26
   - 5x01-02
   - 5x03
