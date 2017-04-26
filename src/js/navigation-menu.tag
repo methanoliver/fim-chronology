@@ -101,7 +101,7 @@
                 })
             });
 
-            this.refs.download.href = 'data:application/csv;charset=utf-8,'
+            this.refs.download.href = 'data:text/csv;charset=utf-8,'
                                     + encodeURIComponent(Papa.unparse(blob));
             this.refs.download.download =
                 `my-little-chronology-${__BUILD_DATE__}-${__BUILD_NUMBER__.trim()}.csv`;
