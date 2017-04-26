@@ -740,23 +740,26 @@ episodes:
       - 1x12
       - 2x03
     before:
+      - SM2-AU
       - 3x13
       - 4x01-02
     comment: |
       Spike mentions it's his first birthday in Ponyville, so less than a year
       has to have passed before he first arrived to Ponyville in Friendship is
-      Magic.
+      Magic. This makes it impossible for the episode to occur after the start
+      of the autumn of year 2, and very unlikely for it to occur after the
+      start of the summer of year 2 -- a certain gap is possible depending on
+      how much summer was already out by the time Twilight arrived to
+      Ponyville.
 
       Since the only date that we are aware of that Spike can count as his
       birthday at all is the day of hatching, it probably has to be on an
       annual boundary with the day of school entrance examinations for the
       School for Gifted Unicorns, but we can't lock that one down even if we
       bring the comics in. Logically, it should be either spring or early
-      summer, before the next Summer Sun Celebration, which redundantly hard
-      locks this episode to precede Princess Twilight Sparkle, and this
-      likewise may preclude this episode from following [the start of the
-      second year's summer](#ep-SM2-SU) -- that depends on when exactly in a
-      summer the Summer Sun Celebration happens.
+      summer, and it has to have happened before the next Summer Sun
+      Celebration, which redundantly hard locks this episode to precede
+      Princess Twilight Sparkle.
 
       There is a possibility that this is the date when his egg was *laid*
       instead, but nobody has ever given any indication of knowing when the
@@ -800,10 +803,13 @@ episodes:
     title: Family Appreciation Day
     link: http://mlp.wikia.com/wiki/Family_Appreciation_Day
     autumn: true
+    spring: true
+    summer: true
     comment: |
       The CMC are at school during this episode. so this probably isn't
-      summer. Since we see the Zap Apples harvested, autumn seems more
-      likely. We see the CMC clubhouse, so it must be after Show Stoppers.
+      summer. Since we see the Zap Apples harvested, autumn seems more likely,
+      but we do not have enough information to lock the season. We see the CMC
+      clubhouse, so it must be after Show Stoppers.
 
       Notice that timber volves appear to only come close enough to Ponyville
       to be noticed during zap apple season, because this is an argument for
@@ -1214,6 +1220,12 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 2x16
+    before:
+      - 3x13
+      - 5x18
     comment: |
       Twilight is reading more books than usual, a sign that she moved up in
       her studies. Rainbow Dash is writing a story about a pony becoming a
@@ -1223,14 +1235,7 @@ episodes:
       Timber wolves actually show up near populated areas, which they
       apparently don't do unless it's near zap apple season, which soft-locks
       this episode on a yearly boundary with [Family Appreciation
-      Day.](#ep-2x12)
-    after:
-      - 1x01-02
-      - 2x16
-      - 3x09
-    before:
-      - 3x13
-      - 5x18
+      Day.](#ep-2x12) Notice that they may happen in the same year.
   3x10:
     title: Keep Calm and Flutter On
     link: http://mlp.wikia.com/wiki/Keep_Calm_and_Flutter_On
