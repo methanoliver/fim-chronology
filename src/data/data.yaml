@@ -5,6 +5,11 @@ episodes:
     title: Friendship is Magic
     link: http://mlp.wikia.com/wiki/Friendship_is_Magic,_part_1
     summer: true
+    after:
+      - SM1-SU
+    before:
+      - 3x13
+      - SM1-AU
     comment: |
       I think this is the only reference to days changing length in canon at
       all, but Twilight does say that Nightmare Moon will return on the
@@ -16,11 +21,6 @@ episodes:
       leaves precious few episodes that could have possibly occurred prior to
       this point, but some do exist, depending on how much stretching you wish
       to accommodate.
-    before:
-      - 3x13
-      - SM1-AU
-    after:
-      - SM1-SU
   1x03:
     title: The Ticket Master
     link: http://mlp.wikia.com/wiki/The_Ticket_Master
@@ -72,48 +72,52 @@ episodes:
     spring: true
     after:
       - 1x01-02
+    before:
+      - 3x13
     comment: |
       Rainbow Dash and Pinkie Pie don't seem to know each other very well, and
       Rainbow Dash refers to her friends as being "new." It could be argued that
       they're new compared to Gilda, but even then it sounds like they're new to
       Rainbow herself.
-    before:
-      - 3x13
   1x06:
     title: Boast Busters
     link: http://mlp.wikia.com/wiki/Boast_Busters
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+    before:
+      - 3x13
     comment: |
       The Mane 5 have no idea of the level of Twilight's skill in magic and
       generally they don't know much about her or each other.
 
       This episode introduces Trixie and is explicitly referred to as her
       first appearance since then.
-    after:
-      - 1x01-02
-    before:
-      - 3x13
   1x07:
     title: Dragonshy
     link: http://mlp.wikia.com/wiki/Dragonshy
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Fluttershy seems more assertive than in episodes before this.
     after:
       - 1x01-02
     before:
       - 3x13
       - 5x18
+    comment: |
+      Fluttershy seems more assertive than in episodes before this.
   1x08:
     title: Look Before You Sleep
     link: http://mlp.wikia.com/wiki/Look_Before_You_Sleep
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+    before:
+      - 3x13
     comment: |
       Applejack and Rarity don't know each other particularly well, and the
       experience of spending an extended period of time together is clearly
@@ -132,43 +136,39 @@ episodes:
       it entirely, so that it needs to be made up for the following week,
       sounds like exactly the sort of thing Rainbow Dash would do, which is
       why I'm putting this episode very early on.
-    after:
-      - 1x01-02
-    before:
-      - 3x13
   1x09:
     title: Bridle Gossip
     link: http://mlp.wikia.com/wiki/Bridle_Gossip
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+    before:
+      - 3x13
+      - 5x18
     comment: |
       This episode explicitly introduces Zecora. Nobody is friends with her,
       and beside Twilight, nobody even knows zebras exist.
 
       The CMC, likewise, have yet to form, since Apple Bloom never tries to
       involve her friends in the events.
-    after:
-      - 1x01-02
-    before:
-      - 3x13
-      - 5x18
   1x10:
     title: Swarm of the Century
     link: http://mlp.wikia.com/wiki/Swarm_of_the_Century
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Zecora reappears.
-
-      The episode ends with major damage to Ponyville, and requires a certain
-      time for repairs.
     after:
       - 1x01-02
       - 1x09
     before:
       - 3x13
+    comment: |
+      Zecora reappears.
+
+      The episode ends with major damage to Ponyville, and requires a certain
+      time for repairs.
   1x11:
     title: Winter Wrap Up
     link: http://mlp.wikia.com/wiki/Winter_Wrap_Up
@@ -262,6 +262,12 @@ episodes:
     title: Fall Weather Friends
     link: http://mlp.wikia.com/wiki/Fall_Weather_Friends
     autumn: true
+    after:
+      - 1x01-02
+      - SM1-AU
+    before:
+      - 3x13
+      - 5x18
     comment: |
       The running of the leaves ritual places this at the very end of an
       autumn. In [Tanks for the Memories,](#ep-5x05) we can observe the winter
@@ -272,23 +278,12 @@ episodes:
       The start of the first year's autumn is obviously a hard constraint on
       this episode. As far as we can tell, this *is* Twilight's first autumn
       in Ponyville, though it does not necessarily have to be.
-    after:
-      - 1x01-02
-      - SM1-AU
-    before:
-      - 3x13
-      - 5x18
   1x14:
     title: Suited For Success
     link: http://mlp.wikia.com/wiki/Suited_For_Success
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Since the Mane 6 are preparing to go to the Gala, this must be after The
-      Ticket Master. But, it must precede Swarm Of The Century, because the
-      dresses that Rarity made in [Suited For Success](#ep-1x14) appear on
-      screen.
     after:
       - 1x01-02
       - 1x03
@@ -296,27 +291,37 @@ episodes:
       - 1x26
       - 1x10
       - 3x13
+    comment: |
+      Since the Mane 6 are preparing to go to the Gala, this must be after The
+      Ticket Master. But, it must precede Swarm Of The Century, because the
+      dresses that Rarity made in [Suited For Success](#ep-1x14) appear on
+      screen.
   1x15:
     title: Feeling Pinkie Keen
     link: http://mlp.wikia.com/wiki/Feeling_Pinkie_Keen
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Twilight and Spike don't know about Pinkie Pie's Pinkie seances or her
-      pet alligator Gummy. But, since Fluttershy knows the Hop Skip and Jump
-      song, this must be after Dragonshy, when she learned it.
     after:
       - 1x01-02
       - 1x07
     before:
       - 3x13
+    comment: |
+      Twilight and Spike don't know about Pinkie Pie's Pinkie seances or her
+      pet alligator Gummy. But, since Fluttershy knows the Hop Skip and Jump
+      song, this must be after Dragonshy, when she learned it.
   1x16:
     title: Sonic Rainboom
     link: http://mlp.wikia.com/wiki/Sonic_Rainboom
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 1x03
+    before:
+      - 3x13
     comment: |
       Spike is absent, despite one scene happening in the library. This could
       take place a week after [Look Before You Sleep,](#ep-1x08) as we are
@@ -325,17 +330,19 @@ episodes:
       In The Ticket Master, Rainbow Dash said she hadn't perfected her
       signature move for the Wonderbolts, which probably refers to the Sonic
       Rainboom.
-    after:
-      - 1x01-02
-      - 1x03
-    before:
-      - 3x13
   1x17:
     title: Stare Master
     link: http://mlp.wikia.com/wiki/Stare_Master
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 1x09
+      - 1x12
+    before:
+      - 1x23
+      - 3x13
     comment: |
       The CMC are in the early stages of figuring out what they have to do to
       get their cutie marks, and there's clearly no clubhouse yet.
@@ -346,29 +353,22 @@ episodes:
       so unless Rarity was aware of the Stare before [Dragonshy,](#ep-1x07)
       *(which would happen if [Putting Your Hoof Down](#ep-2x19) precedes the
       series)* this has to happen after Dragonshy.
-    after:
-      - 1x01-02
-      - 1x09
-      - 1x12
-    before:
-      - 1x23
-      - 3x13
   1x18:
     title: The Show Stoppers
     link: http://mlp.wikia.com/wiki/The_Show_Stoppers
     autumn: true
     summer: true
     spring: true
-    comment: |
-      This episode introduces the CMC clubhouse and is probably spread across
-      a longer period of time than most episodes. The CMC know lots about each
-      other and have developed their own skills.
     after:
       - 1x01-02
       - 1x12
     before:
       - 3x13
       - 5x18
+    comment: |
+      This episode introduces the CMC clubhouse and is probably spread across
+      a longer period of time than most episodes. The CMC know lots about each
+      other and have developed their own skills.
   1x19:
     title: A Dog and Pony Show
     link: http://mlp.wikia.com/wiki/A_Dog_and_Pony_Show
@@ -391,6 +391,12 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 1x14
+    before:
+      - 3x13
+      - 5x18
     comment: |
       Rarity is less famous than Fluttershy gets in one day, Photo Finish
       basically ignores her, and nobody recognizes her. But we also see the
@@ -406,18 +412,16 @@ episodes:
       the printers at least two weeks before their official release date, with
       all the articles finalized, which makes this gap at least two weeks and
       at most six weeks wide.
-    after:
-      - 1x01-02
-      - 1x14
-    before:
-      - 3x13
-      - 5x18
   1x21:
     title: Over a Barrel
     link: http://mlp.wikia.com/wiki/Over_a_Barrel
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+    before:
+      - 3x13
     comment: |
       This is said to take place immediately before the first apple
       harvest.
@@ -427,10 +431,6 @@ episodes:
       which case this episode occurs in autumn of the first year, presumably,
       right before Applebuck Season. However, this is not a hard limit, and
       the episode can also occur in summer or spring.
-    after:
-      - 1x01-02
-    before:
-      - 3x13
   1x22:
     title: A Bird in the Hoof
     link: http://mlp.wikia.com/wiki/A_Bird_in_the_Hoof
@@ -455,36 +455,42 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      The CMC are more independent. But they ask the Mane 6 how they got their
-      cutie marks and the actual practice of crusading is not yet
-      developed, so this can't be too long alter Stare Master.
     after:
       - 1x01-02
       - 1x17
     before:
       - 3x13
       - 5x18
+    comment: |
+      The CMC are more independent. But they ask the Mane 6 how they got their
+      cutie marks and the actual practice of crusading is not yet
+      developed, so this can't be too long alter Stare Master.
   1x24:
     title: Owl's Well That Ends Well
     link: http://mlp.wikia.com/wiki/Owl%27s_Well_That_Ends_Well
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Since Owlowiscious is essentially invisible most of the time, his
-      introduction could have occurred at more or less any point. But, since
-      the CMC don't seem to know each other too well, this should take place
-      in the first autumn of the series, or at least before the first winter.
     after:
       - 1x01-02
     before:
       - 3x13
       - 5x18
+    comment: |
+      Since Owlowiscious is essentially invisible most of the time, his
+      introduction could have occurred at more or less any point. But, since
+      the CMC don't seem to know each other too well, this should take place
+      in the first autumn of the series, or at least before the first winter.
   1x25:
     title: Party of One
     link: http://mlp.wikia.com/wiki/Party_of_One
     spring: true
+    after:
+      - 1x01-02
+      - 1x15
+      - SM1-SP
+    before:
+      - 3x13
     comment: |
       Pinkie's birthday occurs during this episode.
 
@@ -500,12 +506,6 @@ episodes:
       Spike refers to this being a spring day explicitly, and Rarity refers to
       a "Spring has sprung" party Pinkie hosted previously sometime in recent
       memory, which locks it against the beginning of the first year's spring.
-    after:
-      - 1x01-02
-      - 1x15
-      - SM1-SP
-    before:
-      - 3x13
   1x26:
     title: The Best Night Ever
     link: http://mlp.wikia.com/wiki/The_Best_Night_Ever
@@ -543,11 +543,6 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      The CMC don't seem to know each other very well. But, there is a
-      flashback to Winter Wrap Up in this episode, so it must occur
-      afterwards. Friendship reports from Over a Barrel, A Dog and Pony Show,
-      Cutie Mark Chronicles, and Bridle Gossip are cited.
     after:
       - 1x01-02
       - 1x09
@@ -558,12 +553,23 @@ episodes:
     before:
       - 3x13
       - 5x18
+    comment: |
+      The CMC don't seem to know each other very well. But, there is a
+      flashback to Winter Wrap Up in this episode, so it must occur
+      afterwards. Friendship reports from Over a Barrel, A Dog and Pony Show,
+      Cutie Mark Chronicles, and Bridle Gossip are cited.
   2x03:
     title: Lesson Zero
     link: http://mlp.wikia.com/wiki/Lesson_Zero
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 1x12
+    before:
+      - 3x13
+      - 5x18
     comment: |
       Twilight Sparkle and Spike have been in Ponyville tor a while, and the
       Mane 5 are upset at the idea that Twilight could be taken away. And
@@ -610,12 +616,6 @@ episodes:
 
       That permits us to package four episodes into a thematically cohesive
       unit occupuing two weeks at the longest.
-    after:
-      - 1x01-02
-      - 1x12
-    before:
-      - 3x13
-      - 5x18
   2x04:
     title: Luna Eclipsed
     link: http://mlp.wikia.com/wiki/Luna_Eclipsed
@@ -637,6 +637,11 @@ episodes:
     link: http://mlp.wikia.com/wiki/Sisterhooves_Social
     autumn: true
     summer: true
+    after:
+      - 1x12
+      - 2x03
+    before:
+      - 5x18
     comment: |
       Sweetie Belle wouldn't have known Applebloom until Call of the Cutie, so
       this must occur afterwards. But, not too long afterwards, since Sweetie
@@ -653,11 +658,6 @@ episodes:
 
       So where do you think this episode should be? Its position is not
       currently correct.
-    after:
-      - 1x12
-      - 2x03
-    before:
-      - 5x18
   2x06:
     title: The Cutie Pox
     link: http://mlp.wikia.com/wiki/The_Cutie_Pox
@@ -684,6 +684,15 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 1x11
+      - 1x24
+      - 2x03
+      - SM1-SP
+    before:
+      - 3x13
+      - 5x05
     comment: |
       Owlowiscious reappears, and this episode introduces Tank.
 
@@ -696,15 +705,6 @@ episodes:
       book-related situation, which, before [Read it And Weep,](#ep-2x16)
       could be considered uncool. Rainbow ends the episode with an explicit
       letter to Princess Celestia, so Lesson Zero is a lower bound.
-    after:
-      - 1x01-02
-      - 1x11
-      - 1x24
-      - 2x03
-      - SM1-SP
-    before:
-      - 3x13
-      - 5x05
   2x08:
     title: The Mysterious Mare Do Well
     link: http://mlp.wikia.com/wiki/The_Mysterious_Mare_Do_Well
@@ -835,6 +835,12 @@ episodes:
     title: Hearth's Warming Eve
     link: http://mlp.wikia.com/wiki/Hearth%27s_Warming_Eve
     winter: true
+    after:
+      - 1x01-02
+      - SM1-WI
+    before:
+      - 3x13
+      - 5x18
     comment: |
       Being a holiday similar to Christmas, Hearth's Warming Eve *should*
       occur around the same time, in theory. It also cannot possibly occur
@@ -848,18 +854,16 @@ episodes:
       hibernating or shopping.
 
       Makes me want to see a "shopping for Hearthwarming" episode.
-    after:
-      - 1x01-02
-      - SM1-WI
-    before:
-      - 3x13
-      - 5x18
   2x12:
     title: Family Appreciation Day
     link: http://mlp.wikia.com/wiki/Family_Appreciation_Day
     autumn: true
     spring: true
     summer: true
+    after:
+      - 1x18
+    before:
+      - 5x18
     comment: |
       The CMC are at school during this episode. so this probably isn't
       summer. Since we see the Zap Apples harvested, autumn seems more likely,
@@ -869,10 +873,6 @@ episodes:
       Notice that timber volves appear to only come close enough to Ponyville
       to be noticed during zap apple season, because this is an argument for
       the placement of [Spike at Your Service.](#ep-3x09)
-    after:
-      - 1x18
-    before:
-      - 5x18
   2x13:
     title: Baby Cakes
     link: http://mlp.wikia.com/wiki/Baby_Cakes
@@ -901,6 +901,11 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+    before:
+      - 3x13
+      - 5x18
     comment: |
       The ponies seem to be rebuilding Ponyville, so it is likely to occur
       immediately after [Swarm of the Century](#ep-1x10) or [Secret of My
@@ -914,17 +919,17 @@ episodes:
       events of episode occur after [Lesson Zero](#ep-2x03), but she does not
       refer to them as having happened today or recently, and is not observed
       writing the letter, so this does not produce a hard bound.
-    after:
-      - 1x01-02
-    before:
-      - 3x13
-      - 5x18
   2x15:
     title: The Super Speedy Cider Squeezy 6000
     link: http://mlp.wikia.com/wiki/The_Super_Speedy_Cider_Squeezy_6000
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+    before:
+      - 3x13
+      - 5x18
     comment: |
       The trees still have apples, so we can assume that it's before Applebuck
       Season. Spike says it's not long until Sapphire Season, which *might* be
@@ -935,11 +940,6 @@ episodes:
       episode, she is not shown writing or sending it and it is not referred
       to inside the episode otherwise, making [Lesson Zero](#ep-2x03) a soft
       constraint.
-    after:
-      - 1x01-02
-    before:
-      - 3x13
-      - 5x18
   2x16:
     title: Read It and Weep
     link: http://mlp.wikia.com/wiki/Read_It_and_Weep
@@ -964,6 +964,11 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+    before:
+      - 3x13
+      - 5x18
     comment: |
       Hearts and Hooves Day is analogous to Valentine's day, but the scenes
       depicted obviously can't happen in winter, it looks more like
@@ -971,20 +976,12 @@ episodes:
       place right and needs further research.
 
       Unfortunately, the topic hasn't been brought up since.
-    after:
-      - 1x01-02
-    before:
-      - 3x13
-      - 5x18
   2x18:
     title: A Friend in Deed
     link: http://mlp.wikia.com/wiki/A_Friend_in_Deed
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Pinkie Pie is babysitting the Cake twins and Rainbow is reading Daring
-      Do.
     after:
       - 1x01-02
       - 1x09
@@ -993,6 +990,9 @@ episodes:
     before:
       - 3x13
       - 5x18
+    comment: |
+      Pinkie Pie is babysitting the Cake twins and Rainbow is reading Daring
+      Do.
   2x19:
     title: Putting Your Hoof Down
     link: http://mlp.wikia.com/wiki/Putting_Your_Hoof_Down
@@ -1037,6 +1037,11 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+    before:
+      - 3x13
+      - 5x18
     comment: |
       Twilight Sparkle's behavior is similar to that in [Lesson
       Zero,](#ep-2x03) so they could have been parts of the same chain of
@@ -1044,11 +1049,6 @@ episodes:
 
       See also the commentary on [Mare Do Well](#ep-2x08) which could possibly
       be a timeline erased by the events of this episode.
-    after:
-      - 1x01-02
-    before:
-      - 3x13
-      - 5x18
   2x21:
     title: Dragon Quest
     link: http://mlp.wikia.com/wiki/Dragon_Quest
@@ -1076,6 +1076,11 @@ episodes:
     spring: true
     summer: true
     autumn: true
+    after:
+      - 1x01-02
+      - 2x03
+    before:
+      - 3x13
     comment: |
       The pegasi are sending fresh water to Cloudsdale, which should put it in
       early spring. However, it could in theory be autumn as well, in
@@ -1088,27 +1093,22 @@ episodes:
 
       Rainbow Dash does not fangirl over Spitfire, making it more likely that
       this occurs after [Best Night Ever.](#ep-1x26)
-    after:
-      - 1x01-02
-      - 2x03
-    before:
-      - 3x13
   2x23:
     title: Ponyville Confidential
     link: http://mlp.wikia.com/wiki/Ponyville_Confidential
     autumn: true
     summer: true
     spring: true
-    comment: |
-      The school is in session, and the school year appears to have started
-      relatively recently, so it is likely to be happening in the early
-      autumn. The Cake Twins show up.
     after:
       - 1x01-02
       - 2x13
     before:
       - 3x13
       - 5x18
+    comment: |
+      The school is in session, and the school year appears to have started
+      relatively recently, so it is likely to be happening in the early
+      autumn. The Cake Twins show up.
   2x24:
     title: MMMystery on the Friendship Express
     link: http://mlp.wikia.com/wiki/MMMystery_on_the_Friendship_Express
@@ -1136,6 +1136,14 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 1x16
+      - 2x09
+    before:
+      - 3x01-02
+      - 3x13
+      - 5x18
     comment: |
       At this stage, Rarity has become better known as a designer, and the
       Mane 6 have gotten to know Celestia a bit more.
@@ -1147,34 +1155,32 @@ episodes:
       In the ending scenes, Rarity is dancing with Fancy Pants, which requires
       that Sweet and Elite, where she explicitly meets him for the first time,
       to happen prior.
-    after:
-      - 1x01-02
-      - 1x16
-      - 2x09
-    before:
-      - 3x01-02
-      - 3x13
-      - 5x18
   3x01-02:
     title: The Crystal Empire
     link: http://mlp.wikia.com/wiki/The_Crystal_Empire_-_Part_1
     autumn: true
     summer: true
     spring: true
-    comment: |
-      We see Cadance and Shining Armor again, so this must be after A
-      Canterlot Wedding.
     after:
       - 1x01-02
       - 2x25-26
     before:
       - 3x13
+    comment: |
+      We see Cadance and Shining Armor again, so this must be after A
+      Canterlot Wedding.
   3x03:
     title: Too Many Pinkie Pies
     link: http://mlp.wikia.com/wiki/Too_Many_Pinkie_Pies
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x01-02
+      - 2x07
+      - 2x16
+    before:
+      - 5x18
     comment: |
       Twilight is doing a hard spell, which could be a step up in her
       studies. Rainbow Dash is reading Daring Do. Tank briefly shows up. Fancy
@@ -1182,34 +1188,25 @@ episodes:
       for a brief weekend in nature, he would be having some dealings with
       Rarity, and that would mean this needs to be set after [Sweet and
       Elite](#ep-2x09).
-    after:
-      - 1x01-02
-      - 2x07
-      - 2x16
-    before:
-      - 5x18
   3x04:
     title: One Bad Apple
     link: http://mlp.wikia.com/wiki/One_Bad_Apple
     summer: true
-    comment: |
-      Applebloom mentions that the Summer Harvest Parade is coming up, so this
-      episode must occur in summer. This also ls probably the last episode for
-      the first summer of the series.
     after:
       - 1x01-02
     before:
       - 3x13
       - 5x18
+    comment: |
+      Applebloom mentions that the Summer Harvest Parade is coming up, so this
+      episode must occur in summer. This also ls probably the last episode for
+      the first summer of the series.
   3x05:
     title: Magic Duel
     link: http://mlp.wikia.com/wiki/Magic_Duel
     autumn: true
     summer: true
     spring: true
-    comment: |
-      We see Trixie again. It’s appears that Trixie has been away for a long
-      time.
     after:
       - 1x01-02
       - 1x06
@@ -1218,31 +1215,30 @@ episodes:
     before:
       - 3x13
       - 5x18
+    comment: |
+      We see Trixie again. It’s appears that Trixie has been away for a long
+      time.
   3x06:
     title: Sleepless in Ponyville
     link: http://mlp.wikia.com/wiki/Sleepless_in_Ponyville
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x18
+    before:
+      - 5x18
     comment: |
       CMC clubhouse shows up. It's possibly not long after that episode,
       because Sweetie Belle can’t sing too well in front of other ponies. And
       since the CMC and their sisters/ideals are camping, this could be in the
       summer.
-    after:
-      - 1x18
-    before:
-      - 5x18
   3x07:
     title: Wonderbolts Academy
     link: http://mlp.wikia.com/wiki/Wonderbolts_Academy
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Rainbow Dash has learned her lesson from Mare Do Well and has apparently
-      already met the Wonderbolts before, because the signs of fangirl
-      reaction are substantially reduced.
     after:
       - 1x01-02
       - 1x16
@@ -1250,6 +1246,10 @@ episodes:
       - 2x08
     before:
       - 3x13
+    comment: |
+      Rainbow Dash has learned her lesson from Mare Do Well and has apparently
+      already met the Wonderbolts before, because the signs of fangirl
+      reaction are substantially reduced.
   3x08:
     title: Apple Family Reunion
     link: http://mlp.wikia.com/wiki/Apple_Family_Reunion
@@ -1297,30 +1297,21 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      It appears that Discord has been a statue for a substantial time, so
-      this probably quite a while after The Return Of Harmony.
     after:
       - 1x01-02
       - 2x01-02
     before:
       - 3x13
       - 5x18
+    comment: |
+      It appears that Discord has been a statue for a substantial time, so
+      this probably quite a while after The Return Of Harmony.
   3x11-12:
     title: Just for Sidekicks / Games Ponies Play
     link: http://mlp.wikia.com/wiki/Just_for_Sidekicks
     autumn: true
     summer: true
     spring: true
-    comment: |
-      These two episodes occur simultaneously, so it's easier to treat them as
-      a two-parter.
-
-      We see the pets again. so this must be after the episodes they were
-      introduced in, and we get a closer look at the baby phoenix that Spike
-      got in Dragon Quest. We also see the Crystal Empire again, together with
-      Cadance and Shining Armor, giving this episode a lot of redundant hard
-      lower bounds.
     after:
       - 1x01-02
       - 1x09
@@ -1331,6 +1322,15 @@ episodes:
     before:
       - 3x13
       - 5x18
+    comment: |
+      These two episodes occur simultaneously, so it's easier to treat them as
+      a two-parter.
+
+      We see the pets again. so this must be after the episodes they were
+      introduced in, and we get a closer look at the baby phoenix that Spike
+      got in Dragon Quest. We also see the Crystal Empire again, together with
+      Cadance and Shining Armor, giving this episode a lot of redundant hard
+      lower bounds.
   3x13:
     title: Magical Mystery Cure
     link: http://mlp.wikia.com/wiki/Magical_Mystery_Cure
@@ -1845,6 +1845,11 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 3x13
+      - 4x25-26
+    before:
+      - 5x03
     comment: |
       The Cutie Map is introduced. It is highly unlikely the Mane 6 took more
       than a day or two after its appearance to sit in their thrones, which
@@ -1855,17 +1860,15 @@ episodes:
       that appear as the result of Castle Sweet Castle -- the other one, where
       the roots are conveniently out of the shot every time, is [The Lost
       Treasure of Griffonstone.](#ep-5x08)
-    after:
-      - 3x13
-      - 4x25-26
-    before:
-      - 5x03
   5x03:
     title: Castle Sweet Castle
     link: http://mlp.wikia.com/wiki/Castle_Sweet_Castle
     autumn: true
     summer: true
     spring: true
+    after:
+      - 3x13
+      - 5x01-02
     comment: |
       As a result of this episode, the look of the throne room changes to
       include the roots of the Golden Oak Library, requiring all subsequent
@@ -1876,30 +1879,36 @@ episodes:
       castle anxiety, so an episode may get squeezed between this and The
       Cutie Map. Applejack is planting trees, which in most worlds, you would
       want to do in spring, but we can't really be sure with earth pony magic.
-    after:
-      - 3x13
-      - 5x01-02
   5x04:
     title: Bloom & Gloom
     link: http://mlp.wikia.com/wiki/Bloom_%26_Gloom
     autumn: true
     summer: true
     spring: true
-    comment: |
-      While Twilight or the castle don't make an appearance, she is referred
-      to as a princess. The CMC clubhouse shows up. Babs Seed sends a letter
-      reporting that she got a cutie mark, but that doesn't give us much,
-      since she only has a few appearances.
     after:
       - 1x18
       - 3x08
       - 3x13
     before:
       - 5x18
+    comment: |
+      While Twilight or the castle don't make an appearance, she is referred
+      to as a princess. The CMC clubhouse shows up. Babs Seed sends a letter
+      reporting that she got a cutie mark, but that doesn't give us much,
+      since she only has a few appearances.
   5x05:
     title: Tanks for the Memories
     link: http://mlp.wikia.com/wiki/Tanks_for_the_Memories
     autumn: true
+    after:
+      - 2x07
+      - 3x13
+      - 4x25-26
+      - 5x01-02
+      - 5x03
+      - SM2-AU
+    before:
+      - 5x20
     comment: |
       The whole episode is based on Rainbow Dash delaying the approach of
       winter and causing it to occur explosively, so it's right on that
@@ -1922,31 +1931,22 @@ episodes:
       The opening establishing shot contains the Friendship Castle, and since
       Castle Sweet Castle has nothing comparable to the level of autumn
       observed on screen here, it also has to precede this.
-    after:
-      - 2x07
-      - 3x13
-      - 4x25-26
-      - 5x01-02
-      - 5x03
-      - SM2-AU
-    before:
-      - 5x20
   5x06:
     title: Appleoosa's Most Wanted
     link: http://mlp.wikia.com/wiki/Appleoosa%27s_Most_Wanted
     autumn: true
     summer: true
     spring: true
-    comment: |
-      This episode avoids the appearance of Twilight, mentioning that she's a
-      princess, and is actually quite mobile, since it can happen at more or
-      less any point after the formation of the CMC and before they get their
-      marks. It obviously happens after Over a Barrel, though.
     after:
       - 1x12
       - 1x21
     before:
       - 5x18
+    comment: |
+      This episode avoids the appearance of Twilight, mentioning that she's a
+      princess, and is actually quite mobile, since it can happen at more or
+      less any point after the formation of the CMC and before they get their
+      marks. It obviously happens after Over a Barrel, though.
   5x07:
     title: Make New Friends but Keep Discord
     link: http://mlp.wikia.com/wiki/Make_New_Friends_but_Keep_Discord
@@ -1957,13 +1957,13 @@ episodes:
       - 3x10
       - 3x13
       - 4x18
+    before:
+      - 5x18
     comment: |
       Grand Galloping Gala is a yearly event, so if the first one, in [The
       Best Night Ever](#ep-1x26) was in spring, this one also is. Contains
       appearances of Maud Pie and a redeemed Discord, but also, markless CMC,
       which are the only known hard bounds so far.
-    before:
-      - 5x18
   5x08:
     title: The Lost Treasure of Griffonstone
     link: http://mlp.wikia.com/wiki/The_Lost_Treasure_of_Griffonstone
@@ -1986,11 +1986,6 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Being Matilda and Cranky's wedding, this episode has to follow A Friend
-      In Deed, but that is redundant, because it also contains Twilicorn. The
-      final distance shot of Ponyville does contain the Friendship Castle. The
-      only obvious upper bound is the CMC cutie marks.
     after:
       - 1x09
       - 2x18
@@ -1998,24 +1993,39 @@ episodes:
       - 5x01-02
     before:
       - 5x18
+    comment: |
+      Being Matilda and Cranky's wedding, this episode has to follow A Friend
+      In Deed, but that is redundant, because it also contains Twilicorn. The
+      final distance shot of Ponyville does contain the Friendship Castle. The
+      only obvious upper bound is the CMC cutie marks.
   5x10:
     link: http://mlp.wikia.com/wiki/Princess_Spike
     title: Princess Spike
     autumn: true
     summer: true
     spring: true
+    after:
+      - 3x13
     comment: |
       The Grand Equestria Pony Summit is definitely not a regular event. There
       is little to date this episode, [Equestria Games](#ep-4x24) sounds like
       a good lower bound story-wise, but I'm not definite on that.
-    after:
-      - 3x13
   5x11:
     title: Party Pooped
     link: http://mlp.wikia.com/wiki/Party_Pooped
     autumn: true
     summer: true
     spring: true
+    after:
+      - 2x14
+      - 3x07
+      - 3x13
+      - 4x25-26
+      - 5x01-02
+      - 5x03
+    before:
+      - 5x18
+      - 5x19
     comment: |
       Yakyakistan being out of contact until now should put this episode
       relatively early after the rediscovery of the Crystal Empire, but no
@@ -2028,22 +2038,17 @@ episodes:
       The Last Roundup as a redundant lower bound. Wonderbolt Academy cadets
       appear in Pinkie's adventure as well, adding another redundant lower
       bound.
-    after:
-      - 2x14
-      - 3x07
-      - 3x13
-      - 4x25-26
-      - 5x01-02
-      - 5x03
-    before:
-      - 5x18
-      - 5x19
   5x12:
     title: Amending Fences
     link: http://mlp.wikia.com/wiki/Amending_Fences
     autumn: true
     summer: true
     spring: true
+    after:
+      - 3x13
+      - 5x01-02
+    before:
+      - 5x25-26
     comment: |
       Starlight Glimmer shows up spying on Twilight, limiting this to within
       the endcaps of season 5.
@@ -2051,17 +2056,20 @@ episodes:
       Twilight complains of a week of nonstop princess duties which contained
       three unspecified events, which soft-sets this as immediately following
       either [Princess Spike,](#ep-5x10) [Party Pooped,](#ep-5x11) or both.
-    after:
-      - 3x13
-      - 5x01-02
-    before:
-      - 5x25-26
   5x13:
     title: Do Princesses Dream of Magic Sheep?
     link: http://mlp.wikia.com/wiki/Do_Princesses_Dream_of_Magic_Sheep%3F
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x24
+      - 2x07
+      - 3x13
+      - 5x01-02
+    before:
+      - 5x18
+      - 6x01-02
     comment: |
       Redundantly, it's pet grooming day, so pet introductory episodes must
       precede. Friendship Castle hard-limits it to start of season 5, and
@@ -2071,28 +2079,20 @@ episodes:
       The hard upper bound is Starlight Glimmer becoming a live-in student,
       since she would never avoid participating in this adventure while being
       one.
-    after:
-      - 1x24
-      - 2x07
-      - 3x13
-      - 5x01-02
-    before:
-      - 5x18
-      - 6x01-02
   5x14:
     title: Canterlot Boutique
     link: http://mlp.wikia.com/wiki/Canterlot_Boutique
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Rarity opens up her Canterlot boutique, and there's little doubt that
-      Manehattan boutique isn't even in the cards yet. Twilight is the most
-      popular princess, but this can happen with or without the castle.
     after:
       - 3x13
     before:
       - 6x03
+    comment: |
+      Rarity opens up her Canterlot boutique, and there's little doubt that
+      Manehattan boutique isn't even in the cards yet. Twilight is the most
+      popular princess, but this can happen with or without the castle.
   5x15:
     title: Rarity Investigates!
     link: http://mlp.wikia.com/wiki/Rarity_Investigates!
@@ -2120,6 +2120,14 @@ episodes:
     link: http://mlp.wikia.com/wiki/Made_in_Manehattan
     autumn: true
     summer: true
+    after:
+      - 2x05
+      - 3x04
+      - 3x13
+      - 4x08
+      - 5x03
+    before:
+      - 5x18
     comment: |
       These two episodes are known to occur simutaneously, so they're best
       treated as a two-parter.
@@ -2133,25 +2141,22 @@ episodes:
       policepony seen in Manehattan is wearing a summer uniform, which would
       imply the season is probably summer, **but** [Sisterhooves
       Social](#ep-2x05) is a yearly event, and has to occur an integer number
-      of years after the episode of the same name -- so if the first one is
-      autumn, so is this one.
+      of years after the episode of the same name.
 
-      At the same time, Made in Manehattan is centered around Midsummer
-      Theater Revival event, which would have to occur in summer -- unless the
-      theater is called "Midsummer" for some stupid reason -- and if the pony
-      calendar is anything like ours, it's the middle of it, i.e. June.
-    after:
-      - 2x05
-      - 3x04
-      - 3x13
-      - 4x08
-      - 5x03
-    before:
-      - 5x18
+      Made in Manehattan is centered around Midsummer Theater Revival event,
+      which would have to occur in summer -- unless the theater is called
+      "Midsummer" for some stupid reason -- and if the pony calendar is
+      anything like ours, it's the middle of it, i.e. June.
   5x18:
     title: Crusaders of the Lost Mark
     link: http://mlp.wikia.com/wiki/Crusaders_of_the_Lost_Mark
     autumn: true
+    after:
+      - 2x01-02
+      - 3x13
+      - 4x25-26
+    before:
+      - 6x04
     comment: |
       School is in session. The CMC finally get their cutie marks, so every
       appearance of a Crusader with a mark must follow this episode. Notably,
@@ -2168,16 +2173,16 @@ episodes:
       cycle, more likely than not, start of the school year -- which is more
       likely to be the start of autumn. A disabled, rather than full, fountain
       in one of the shots corroborates that.
-    after:
-      - 2x01-02
-      - 3x13
-      - 4x25-26
-    before:
-      - 6x04
   5x19:
     title: The One Where Pinkie Pie Knows
     link: http://mlp.wikia.com/wiki/The_One_Where_Pinkie_Pie_Knows
     summer: true
+    after:
+      - 2x13
+      - 3x13
+      - 5x18
+    before:
+      - 6x01-02
     comment: |
       A pool/lake birthday party for Shady Daze implies summer, when playing
       in water is desirable. Cadance is pregnant with Flurry Heart, and yet
@@ -2190,16 +2195,19 @@ episodes:
       to believe pony pregnancies taking *over* a year -- so there is a rubber
       band between this episode and the Crystalling, which can't be longer
       than 12 months and shouldn't be shorter than five or so.
-    after:
-      - 2x13
-      - 3x13
-      - 5x18
-    before:
-      - 6x01-02
   5x20:
     title: Hearthbreakers
     link: http://mlp.wikia.com/wiki/Hearthbreakers
     winter: true
+    after:
+      - 2x11
+      - 3x13
+      - 4x09
+      - 4x18
+      - 5x18
+      - SM2-WI
+    before:
+      - 6x01-02
     comment: |
       This Hearthwarming is set after Pinkie's discovery she might be related
       to Apples, after the introduction of Maud to Applejack, and features the
@@ -2213,15 +2221,6 @@ episodes:
 
       Winter of year 2 is a hard lower bound, since it's clear Twilight did
       not yet have wings during the winter of year 1.
-    after:
-      - 2x11
-      - 3x13
-      - 4x09
-      - 4x18
-      - 5x18
-      - SM2-WI
-    before:
-      - 6x01-02
   5x21:
     title: Scare Master
     link: http://mlp.wikia.com/wiki/Scare_Master
@@ -2244,6 +2243,15 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 1x09
+      - 1x24
+      - 3x10
+      - 3x13
+      - 5x01-02
+    before:
+      - 5x25-26
+      - 6x01-02
     comment: |
       Quite a self-contained episode, but a shot with obvious hair of
       Starlight Glimmer hiding behind the bush forces it to stay within the
@@ -2256,15 +2264,6 @@ episodes:
       except Fluttershy is on good enough terms with Discord to spend a
       weekend around him -- but they aren't hard lower bounds, because we can't
       really rule out this relationship swinging back and forth.
-    after:
-      - 1x09
-      - 1x24
-      - 3x10
-      - 3x13
-      - 5x01-02
-    before:
-      - 5x25-26
-      - 6x01-02
   5x23:
     title: The Hooffields and McColts
     link: http://mlp.wikia.com/wiki/The_Hooffields_and_McColts
@@ -2299,10 +2298,6 @@ episodes:
     summer: true
     link: http://mlp.wikia.com/wiki/The_Cutie_Re-Mark_-_Part_1
     spring: true
-    comment: |
-      While the CMC do not appear themselves, the incident of acquiring marks
-      simultaneously is part of Twilight's lecture. But otherwise, most of
-      this episode happens entirely outside the primary timeline.
     after:
       - 1x09
       - 3x13
@@ -2311,6 +2306,10 @@ episodes:
       - 5x18
     before:
       - 6x01-02
+    comment: |
+      While the CMC do not appear themselves, the incident of acquiring marks
+      simultaneously is part of Twilight's lecture. But otherwise, most of
+      this episode happens entirely outside the primary timeline.
   EG1:
     title: Equestria Girls
     link: http://mlp.wikia.com/wiki/Equestria_Girls
@@ -2338,6 +2337,8 @@ episodes:
     after:
       - EG1
       - 5x01-02
+    before:
+      - EG3
     comment: |
       We have no clear information regarding the relative passage of time
       between the two worlds, but it's definitely not winter in Equestria,
@@ -2348,8 +2349,6 @@ episodes:
       Sweet Castle or before, but the Mane 6 are making a show of adjusting to
       their new throne room, so it has to be soonish after they first set hoof
       in it.
-    before:
-      - EG3
   EG3:
     title: "Equestria Girls: Friendship Games"
     link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Friendship_Games
@@ -2423,13 +2422,13 @@ episodes:
     autumn: true
     summer: true
     spring: true
-    comment: |
-      Rarity has met Maud already. This explicitly precedes the opening of her
-      boutique in Manehattan, which happens in Saddle Row Review.
     after:
       - 4x18
     before:
       - 6x09
+    comment: |
+      Rarity has met Maud already. This explicitly precedes the opening of her
+      boutique in Manehattan, which happens in Saddle Row Review.
   6x04:
     title: On Your Marks
     link: http://mlp.wikia.com/wiki/On_Your_Marks
@@ -2452,6 +2451,9 @@ episodes:
     summer: true
     winter: true
     spring: true
+    after:
+      - 3x13
+      - 5x01-02
     comment: |
       This is a very floaty episode, most of which occurs in unexplored dragon
       lands, and the only clear marker we get is that the Friendship Castle
@@ -2461,9 +2463,6 @@ episodes:
       It could be argued that [Princess Spike](#ep-5x10) is unlikely to happen
       after this episode, since Spike gets a confidence boost and a new friend
       in the process, but that's about it.
-    after:
-      - 3x13
-      - 5x01-02
   6x06:
     title: No Second Prances
     link: http://mlp.wikia.com/wiki/No_Second_Prances
@@ -2488,6 +2487,12 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 3x13
+      - 5x15
+      - 5x18
+    before:
+      - 6x11
     comment: |
       Rainbow Dash is officially a Wonderbolt as of this episode, so every
       time she expresses the desire to become one has to occur before, and
@@ -2495,12 +2500,6 @@ episodes:
       Flutter Brutter the upper bound and Rarity Investigates the closest
       lower bound. But this episode can occur before the [Cutie
       Re-Mark,](#ep-5x25-26) and probably should.
-    after:
-      - 3x13
-      - 5x15
-      - 5x18
-    before:
-      - 6x11
   6x08:
     title: A Hearth's Warming Tail
     link: http://mlp.wikia.com/wiki/A_Hearth%27s_Warming_Tail
@@ -2561,21 +2560,25 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    after:
+      - 3x13
+      - 6x07
     comment: |
       There are few of the usual markers in this one, even the Friendship
       Castle never shows up, and the moons aren't helping any. But Rainbow
       Dash refers to "Wonderbolt practice," which hard marks this episode to
       follow Newbie Dash. The cold open scene is separated from the rest of
       the episode by at least a few "moons."
-    after:
-      - 3x13
-      - 6x07
   6x11:
     title: Flutter Brutter
     link: http://mlp.wikia.com/wiki/Flutter_Brutter
     autumn: true
     summer: true
     spring: true
+    after:
+      - 3x13
+      - 5x03
+      - 6x07
     comment: |
       The events depicted in this episode stretch across a substantial time
       period, but must follow Fluttershy saving Equestria at least twice,
@@ -2585,10 +2588,6 @@ episodes:
       For the purposes of this chronology, we're referring to "the events of
       this episode" being the sequence when Zephyr Breeze returns to
       Ponyville, as we cannot reliably date the other sequences.
-    after:
-      - 3x13
-      - 5x03
-      - 6x07
   6x12:
     title: Spice Up Your Life
     link: http://mlp.wikia.com/wiki/Spice_Up_Your_Life
