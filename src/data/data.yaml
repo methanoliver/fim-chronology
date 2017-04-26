@@ -190,26 +190,74 @@ episodes:
   1x12:
     title: Call of the Cutie
     link: http://mlp.wikia.com/wiki/Call_of_the_Cutie
-    autumn: true
     summer: true
-    spring: true
-    comment: |
-      Apple Bloom has just started school and doesn't seem to know anypony
-      very well yet, and this is the episode in which she befriends the rest
-      of the CMC.
-
-      It is also the time period during which Diamond Tiara and Twist get
-      their cutie marks.
-
-      We do not have a strict definition, but so far all evidence remains
-      consistent with school year starting in autumn, just like ours, making
-      this the first episode of the first autumn of the series. That, however,
-      appears to result in a dependency loop.
     after:
       - 1x01-02
     before:
+      - SM1-AU
       - 3x13
       - 5x18
+    comment: |
+      This episode requires some crafty interpretation, that is reflected in
+      the hard constraints presented. If you substantially disagree with this
+      interpretation, you run into a dependency loop problem anyway.
+
+      * It is important for the plot of this and subsequent CMC episodes that
+        this is the first time they meet closely enough to get
+        introduced. While they do cower together during Friendship is Magic,
+        this does not, strictly speaking, require them to learn each other's
+        names, or even remember much details.
+      * In subsequent CMC episodes, the class composition differs from the one
+        seen here, requiring something to happen to change it. But the new
+        composition includes both Diamond Tiara, Silver Spoon *and* the CMC.
+      * The entire episode occupies no more than a week's time, since at the
+        beginning, Diamond Tiara issues an open invitation to a party that is
+        to happen "this weekend."
+      * Twilight is present in the middle of that week, and Apple Bloom
+        addresses her like she has known her for a substantial time.
+
+      This also the time period during which Twist gets her cutie mark, and
+      Diamond Tiara received hers no more than a week prior to the start of
+      this episode, but that's beside the point.
+
+      The problem with the whole thing is that so far, all evidence remains
+      consistent with school year starting in autumn, just like ours --
+      whatever it is, the CMC get large stretches of time where they are left
+      almost entirely unsupervised, and they're all set in greener
+      seasons. Accepting this, however, produces a dependency loop, since this
+      episode would have to be the *last* episode of a school year for the
+      class to get rearranged, which is impossible due to Twilight's presence,
+      while putting it in the first autumn of the series causes a conflict
+      between [Sisterhooves Social](#ep-2x05) and [Made in
+      Manehattan](#ep-5x16-17), which are in a rigid temporal relationship.
+
+      The best way out of this I can see so far is to posit that what we're
+      seeing on screen here is a *remedial* class in summer. This has the
+      following results:
+
+      * This permits this episode to happen in the first summer of the series,
+        before autumn rolls in, and resolve the dependency loop without
+        leaving us with a completely unknown school year schedule.
+      * Whatever combination of foals and fillies we see on screen is
+        temporary, and a new class will start in autumn, which will include
+        both CMC and DT/SS.
+      * This would explain also why a class is studying something so
+        fundamentally basic in the first place, even though most of the
+        children in it already have cutie marks.
+
+      Some snags remain:
+
+      * It is odd that Diamond Tiara and Silver Spoon are in a remedial class,
+        while Snips and Snails aren't. This can be explained by the girls
+        having had an unspecified rich girl engagement that prevented them
+        from attending school. They are, notably, the only ones who *complain*
+        about the subject of the lecture. Snips and Snails, however, might
+        turn out to be smarter than they appear. See also [Buckball
+        Season](#ep-6x18).
+      * It reflects rather poorly on Cherilee's otherwise celebrated teaching
+        skill. That can be explained by most of the ponies in the remedial
+        class being children of recently arrived families, and thus outside of
+        Cherilee's fault.
   1x13:
     title: Fall Weather Friends
     link: http://mlp.wikia.com/wiki/Fall_Weather_Friends
@@ -2905,8 +2953,8 @@ order:
   - 1x20
   - 1x10
   - 2x14
-  - SM1-AU
   - 1x12
+  - SM1-AU
   - 2x05
   - 1x17
   - 1x22
