@@ -1,10 +1,10 @@
 This is a piece of "software," for lack of a better word, made with the intent to discuss the issues of episode ordering for *My Little Pony: Friendship is Magic* in a way that is more conductive to getting something reasoned out than an Excel table or a simple textual list.
 
-It should be obvious that the problem of episode ordering exists, if only from the placement of **Hearthbreakers** immediately before **Scare Master** in the airing order, but you can't just swap those two and move on, it goes much deeper than that.
+It should be obvious that the problem of episode ordering exists, if only from the placement of **Hearthbreakers** immediately before **Scare Master** in the airing order, or **Winter Wrap-Up** sitting in-between two episodes worth of green hills, but you can't just swap those and move on, it goes much deeper than that.
 
 ## Assumptions
 
-This list/program was made with the following assumptions, many of which were at one point or another challenged by the pony fandom:
+We're working from the following assumptions, many of which were at one point or another challenged by the pony fandom:
 
 * Equestria has a year with a set length.
 * This year contains summer, autumn, winter, and spring, in that order, of approximately equal lengths.
@@ -13,7 +13,7 @@ This list/program was made with the following assumptions, many of which were at
 * Pony calendar has months, 12 of them, and a "moon" is *roughly* equal to one.
 * While it is not *that* relevant for the purposes of this chronology, ponies have a week that is 7 days long, and the days themselves are very much like ours.
 
-We're starting from the assumption that pony calendar is reasonably sane, pony climate and seasons are reasonably sane, that episodes are aired in anachronic order, and work from there. We don't know where the calendar year boundary is, but since we can use the first summer of the series as our zero point, it will serve.
+I.e. we posit that pony calendar is reasonably sane, pony climate and seasons are reasonably sane, that episodes are aired in anachronic order, and work from there. We don't know where the calendar year boundary is, but since we can use the first summer of the series as our zero point, it will serve.
 
 You can read some of the reasoning on why the calendar is this way, and not some other way, [in one of my blog posts on the subject.](https://www.fimfiction.net/blog/729198/rtac-13-strange-loops) Only the TV show and the movies are listed here, because all the printed derivatives introduce even worse timing problems. They can be dealt with afterwards anyway.
 
@@ -23,19 +23,23 @@ Well, I say it's their problem.
 
 ## Explanations
 
-The entire point of coding this little piece of horror is to programmatically account for certain known "markers" which permit us to split at least some of the rest of the episodes into "before" and "after" states, like "Twilight's Ascension" or "CMC getting cutie marks" or "Zecora being befriended," as well as introduce other restrictions based on observed phenomena.
-
-Many, if not most, will be redundant, but that's not a problem when we have software taking care of them. The idea is to write in as many such restrictions as possible, write up everything which looks like a restriction but isn't definite, and then shove the episodes around until they start making sense. Ideally, we want every episode to have at least one "must precede" episode and at least one "must follow" episode, and it's still far from having all the existing hard constraints listed. Something coherently continuous should emerge, if enough people play with it and send me their input.
-
-The default reordering resented here as starting data and many of the original arguments that I started with, particularly where it concerns seasons 1 to 3, belong to someone else. A few of them are probably wrong. Unfortunately, I can't seem to find the original source anymore, and I basically had to OCR it out of images someone rendered them as. This was the longest reordered timeline I managed to locate, and I find that it works very well, particularly if you make a playlist of episodes in chronological order -- with certain exceptions which I marked up.
+The entire point of coding this is to account for certain known "markers" which permit us to split at least some of the rest of the episodes into "before" and "after" states, like "Twilight's Ascension" or "CMC getting cutie marks" or "Zecora being befriended," as well as introduce other restrictions based on observed phenomena, and observe them automatically while moving episodes around.
 
 The marker rules are described where reasonable: if we see the Friendship Castle, the episode occurs after it is created, if we see a character, this has to happen after they were introduced, etc.
+
+The idea is to write in as many such restrictions as possible, write up everything which looks like a restriction but isn't definite, and then shove the episodes around until they start making sense. We're still far from having all the existing hard constraints listed. Something coherently continuous should eventually emerge, if enough people play with it and send me their input.
+
+The default reordering presented here as starting data and many of the original arguments that I started with, particularly where it concerns seasons 1 to 3, belong to someone else. Unfortunately, I can't seem to find the original source anymore, and I basically had to OCR it out of images someone rendered them as. This was the longest reordered timeline I managed to locate, and I find that it works very well, particularly if you make a playlist of episodes in chronological order.
+
+That said, the default order is *known* to be wrong in several places.
 
 ## Seasons
 
 Since few episodes can be conclusively limited to happening during a specific time of year, episodes are marked with times of year they *can* occur in. These are soft constraints -- for your information only. The possible seasons are marked with obvious icons.
 
-In addition to that, a number of virtual season-change episodes hard-locked against each other are provided, and certain episodes are hard-locked against some of them, rather than just other real episodes, because they are are explicitly set at specific points in a year, or at least in specific seasons. We do not know when the pony calendar year starts or ends. For this reason, this cycle starts at Summer, year 1, and continues on through the Summer-Autumn-Winter-Spring cycle.
+In addition to that, a number of virtual season-change episodes hard-locked against each other are provided, and certain episodes are hard-locked against them, rather than just other real episodes.
+
+We do not know when the pony calendar year starts or ends. For this reason, this cycle starts at Summer, year 1, and continues on through Summer - Autumn - Winter - Spring.
 
 ## Usage
 
