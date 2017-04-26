@@ -195,9 +195,16 @@ episodes:
     spring: true
     comment: |
       Apple Bloom has just started school and doesn't seem to know anypony
-      very well yet, and this it the episode in which she befriends the rest
-      of the CMC. It is also the time period during which Diamond Tiara and
-      Twist get their cutie marks.
+      very well yet, and this is the episode in which she befriends the rest
+      of the CMC.
+
+      It is also the time period during which Diamond Tiara and Twist get
+      their cutie marks.
+
+      We do not have a strict definition, but so far all evidence remains
+      consistent with school year starting in autumn, just like ours, making
+      this the first episode of the first autumn of the series. That, however,
+      appears to result in a dependency loop.
     after:
       - 1x01-02
     before:
@@ -2898,11 +2905,11 @@ order:
   - 1x20
   - 1x10
   - 2x14
+  - SM1-AU
   - 1x12
   - 2x05
   - 1x17
   - 1x22
-  - SM1-AU
   - 2x04
   - 1x24
   - 2x15
