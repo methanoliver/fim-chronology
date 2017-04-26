@@ -13,12 +13,12 @@
                 return false;
             }
             // Then check the blockers:
+            let target = this.chronology.newOrder[index + direction];
             let blockerList = this.blockers(episode, direction > 0 ? 'before' : 'after');
-            if (blockerList && blockerList.includes(this.chronology.newOrder[index+direction])) {
+            if (blockerList && blockerList.includes(target)) {
                 return false;
             }
             // Now check the blocker list on the episode we would swap with.
-            let target = this.chronology.newOrder[index+direction];
             // Notice the reverse blocker.
             let reverseBlockerList = this.blockers(target, direction < 0 ? 'before' : 'after');
             if (reverseBlockerList && reverseBlockerList.includes(episode)) {
