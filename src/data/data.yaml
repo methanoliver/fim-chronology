@@ -1138,8 +1138,8 @@ episodes:
       dictating, and while she narrates, *Celestia herself is on screen within
       five meters from her.* She finishes this speech with "How's that for a
       lesson, Princess Celestia?" spoken out of narration directly to
-      Celestia. I'm not sure if this should be seen as a hard lower bound
-      against Lesson Zero or not.
+      Celestia, which Celestia ignores. I'm not sure if this should be seen as
+      a hard lower bound against Lesson Zero or not.
   2x25-26:
     title: A Canterlot Wedding
     link: http://mlp.wikia.com/wiki/A_Canterlot_Wedding_-_Part_1
@@ -2945,7 +2945,51 @@ episodes:
       School is in session, because the sick foals got sick on a school
       picture day, and I suspect this implies that this is autumn, probably
       early autumn.
+  7x04:
+    title: Rock Solid Friendship
+    link: http://mlp.wikia.com/wiki/Rock_Solid_Friendship
+    autumn: true
+    summer: true
+    after:
+      - 6x01-02
+      - 6x03
+      - 5x24
+      - 6x05
+      - 6x06
+      - 6x21
+    comment: |
+      Friendship Castle and student-Starlight are in evidence.
 
+      This is explicitly Maud's first visit to Ponyville since the moment
+      Friendship Castle grew, and establishes she did not visit at least since
+      before [Twilight's Kingdom](#ep-4x25-26). This indirectly establishes a
+      redundant upper bound on [Maud Pie](#ep-4x18).
+
+      The cave first seen in Gauntlet of Fire makes an appearance and suffers
+      significant remodeling, requiring this episode to occur afterwards.
+
+      Rarity mentions working on an order for Countess Coloratura, requiring
+      this episode to occur after their introduction to each other.
+
+      This can't happen before The Gift of the Maud Pie, since Maud does not
+      yet have her rocktorate there.
+
+      Trixie was explicitly the first friend Starlight made beside the Mane 6,
+      so this can't happen earlier than No Second Prances *and* Every Little
+      Thing She Does, because it undeniably contains a friendship lesson, and
+      no friendship lesson for Starlight can occur between these two episodes.
+
+      There are no mentions of Starlight saving the day whatsoever, so we
+      can't position this episode around [To Where and Back
+      Again](#ep-6x25-26) with any certainty.
+
+      Market selling canned preserves makes it unlikely for this episode to
+      happen in spring.
+
+      This is a landmark episode: Maud completes her rocktorate and moves to
+      the cave near Ponyville, requiring any episode that features her as a
+      denizen of Ponyville to follow. We don't know yet if any will follow,
+      but some might.
 order:
   - SM1-SU
   - 1x01-02
@@ -3094,6 +3138,7 @@ order:
   - 6x25-26
   - 7x01
   - 7x02
+  - 7x04
   - SM3-WI
   - 6x08
   - SM3-SP
