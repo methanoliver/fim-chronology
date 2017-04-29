@@ -1034,15 +1034,25 @@ episodes:
   2x20:
     title: It's About Time
     link: http://mlp.wikia.com/wiki/It%27s_About_Time
-    autumn: true
-    summer: true
     spring: true
     after:
       - 1x01-02
+      - SM1-SP
     before:
       - 3x13
       - 5x18
     comment: |
+      Spike comments that "we forgot to celebrate Arbor Day." We do not know
+      when ponies could possibly have such a holiday, and this phrase is the
+      only evidence of its existence. However, an "arbor day" is unambiguously
+      a day when individuals are encouraged to plant a tree, which would only
+      happen when planting a tree is a good idea. With earth pony magic, the
+      time stretch for an arbor day could conceivably be extended, but
+      Twilight is not an earth pony. This episode can not, therefore, happen
+      earlier than the first spring of the series, and relatively early into
+      it. Months later into a summer or an autumn, Spike himself would have
+      forgotten about it himself.
+
       Twilight Sparkle's behavior is similar to that in [Lesson
       Zero,](#ep-2x03) so they could have been parts of the same chain of
       events.
