@@ -1325,6 +1325,9 @@ episodes:
     after:
       - 1x01-02
       - 2x16
+      - 3x07
+    opt_after:
+      - 3x07
     before:
       - 3x13
       - 5x18
@@ -1332,7 +1335,9 @@ episodes:
       Twilight is reading more books than usual, a sign that she moved up in
       her studies. Rainbow Dash is writing a story about a pony becoming a
       captain of the Wonderbolts, which can't happen before Read it and Weep,
-      and is unlikely to happen before [Wonderbolts Academy.](#ep-3x07)
+      and is unlikely to happen before [Wonderbolts Academy,](#ep-3x07) since
+      it represents a significant step up in ambition from wanting to *just*
+      be a Wonderbolt.
 
       Timber wolves actually show up near populated areas, which they
       apparently don't do unless it's near zap apple season, which soft-locks
