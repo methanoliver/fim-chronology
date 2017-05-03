@@ -1013,14 +1013,22 @@ episodes:
     comment: |
       Pinkie Pie is babysitting the Cake twins and Rainbow is reading Daring
       Do.
+
+      This episode introduces Cranky Doodle, and since this is the episode
+      during which he moves into Ponyville, all episodes featuring him must
+      follow.
   2x19:
     title: Putting Your Hoof Down
     link: http://mlp.wikia.com/wiki/Putting_Your_Hoof_Down
     autumn: true
     summer: true
     spring: true
+    after:
+      - 2x03
     opt_after:
       - 2x03
+    before:
+      - 6x11
     comment: |
       This one is a bit controversial.
 
@@ -1052,7 +1060,8 @@ episodes:
       almost no hard constraints whatsoever, not even an establishing shot
       that would allow us to place it before or after the existence of the
       Friendship Castle. The visuals rule out winter, and suggest it's
-      probably not summer, but that's it.
+      probably not summer, but that's it. The only hard upper bound is Flutter
+      Brutter, in which a picture of Iron Will turns up.
   2x20:
     title: It's About Time
     link: http://mlp.wikia.com/wiki/It%27s_About_Time
@@ -1383,6 +1392,9 @@ episodes:
       got in Dragon Quest. We also see the Crystal Empire again, together with
       Cadance and Shining Armor, giving this episode a lot of redundant hard
       lower bounds.
+
+      This episode introduces Mrs. Harshwhinny, requiring other episodes where
+      she is seen being familiar with any of the cast to follow
   3x13:
     title: Magical Mystery Cure
     link: http://mlp.wikia.com/wiki/Magical_Mystery_Cure
@@ -2747,6 +2759,11 @@ episodes:
       - 3x13
       - 5x03
       - 6x07
+      - 2x19
+      - 5x12
+      - 2x18
+      - 4x12
+      - 3x11-12
     comment: |
       The events depicted in this episode stretch across a substantial time
       period, but must follow Fluttershy saving Equestria at least twice,
@@ -2756,6 +2773,11 @@ episodes:
       For the purposes of this chronology, we're referring to "the events of
       this episode" being the sequence when Zephyr Breeze returns to
       Ponyville, as we cannot reliably date the other sequences.
+
+      Pinkie's wallet contains pictures of Moondancer, Cranky Doodle, Cheese
+      Sandwich, and Iron Will, and she also mentions Mrs. Harshwhinny,
+      requiring certain episodes to precede and producing the only known hard
+      bound on Putting Your Hoof Down.
   6x12:
     title: Spice Up Your Life
     link: http://mlp.wikia.com/wiki/Spice_Up_Your_Life
