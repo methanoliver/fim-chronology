@@ -1518,12 +1518,15 @@ episodes:
       - 3x13
       - SM2-AU
     opt_after:
+      - SM2-AU
       - 4x06
     comment: |
       While Applejack says it's officially Apple Bucking Day, it's not certain
       whether it's the Applebuck Season. But the yellowing grass throughout
       the episode implies autumn. Due to Twilight having wings this can only
-      be the second year's autumn or later.
+      be the second year's autumn or later, but since there's still
+      considerable confusion about whether apples can be seen as season
+      indicators in Equestria, this is a soft lock.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       was a Journal record for this episode that immediately follows [Power
