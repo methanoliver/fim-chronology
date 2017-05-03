@@ -99,7 +99,7 @@
         });
 
         this.toggleOptBlocker = (blocker, list) => {
-            let blocklist = this.blockers(this.episode, list);
+            let blocklist = (this.blockers(this.episode, list) || []);
             if (blocklist.includes(blocker)) {
                 const index = blocklist.indexOf(blocker);
                 blocklist.splice(index, 1);
