@@ -109,10 +109,10 @@ let DataMixin = {
         return this.blockers(episode, 'after');
     },
     isBefore: function(episode, target) {
-        return this.before(episode).includes(target);
+        return (this.before(episode) || []).includes(target);
     },
     isAfter: function(episode, target) {
-        return this.after(episode).includes(target);
+        return (this.after(episode) || []).includes(target);
     },
     optBefore: function(episode) {
         return this.blockers(episode, 'opt_before');
