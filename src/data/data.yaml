@@ -522,6 +522,8 @@ episodes:
       - 1x03
       - 1x14
       - SM1-SP
+    opt_after:
+      - SM1-SP
     before:
       - 3x13
     comment: |
@@ -535,14 +537,11 @@ episodes:
       In Ticket Master, Fluttershy mentions that for the night of the Gala and
       that night only, all the flowers in the gardens bloom, and speaks of it
       as if it were a natural event. This can't happen in autumn or winter, so
-      it has to be spring or summer.
-
-      In Suited for Success, Rarity describes Fluttershy's dress as "it just
-      sings spring," further suggesting that the Gala has to occur during a
-      spring month.
-
-      Since we have some rather strong season locks, there's a hard lock
-      against the beginning of first year's springs.
+      it has to be spring or summer. In Suited for Success, Rarity describes
+      Fluttershy's dress as "it just sings spring," further suggesting that
+      the Gala has to occur during a spring month. Since we have some rather
+      strong season locks, there's a default sort lock against the beginning
+      of first year's spring.
   2x01-02:
     title: The Return of Harmony
     link: http://mlp.wikia.com/wiki/The_Return_of_Harmony_Part_1
@@ -696,6 +695,8 @@ episodes:
       - 1x24
       - 2x03
       - SM1-SP
+    opt_after:
+      - 2x16
     before:
       - 3x13
       - 5x05
@@ -801,9 +802,14 @@ episodes:
       - 1x12
       - 2x03
     before:
+      - SM2-SU
       - SM2-AU
       - 3x13
       - 4x01-02
+    opt_before:
+      - SM2-SU
+    opt_after:
+      - 1x18
     comment: |
       Spike mentions it's his first birthday in Ponyville, so less than a year
       has to have passed before he first arrived to Ponyville in Friendship is
@@ -847,6 +853,8 @@ episodes:
     before:
       - 3x13
       - 5x18
+    opt_before:
+      - SM1-SP
     comment: |
       Being a holiday similar to Christmas, Hearth's Warming Eve *should*
       occur around the same time, in theory. It also cannot possibly occur
@@ -889,6 +897,8 @@ episodes:
       - 1x01-02
     before:
       - 3x13
+    opt_after:
+      - 2x03
     comment: |
       The Cake Twins are newly born in the opening scenes, but most of the
       episode occurs a month after that. For the purposes of this chronology
@@ -912,6 +922,8 @@ episodes:
     before:
       - 3x13
       - 5x18
+    opt_after:
+      - 2x03
     comment: |
       The ponies seem to be rebuilding Ponyville, so it is likely to occur
       immediately after [Swarm of the Century](#ep-1x10) or [Secret of My
@@ -936,6 +948,8 @@ episodes:
     before:
       - 3x13
       - 5x18
+    opt_after:
+      - 2x03
     comment: |
       The trees still have apples, so we can assume that it's before Applebuck
       Season. Spike says it's not long until Sapphire Season, which *might* be
@@ -1005,6 +1019,8 @@ episodes:
     autumn: true
     summer: true
     spring: true
+    opt_after:
+      - 2x03
     comment: |
       This one is a bit controversial.
 
@@ -1044,6 +1060,8 @@ episodes:
     after:
       - 1x01-02
       - SM1-SP
+    opt_after:
+      - SM1-SP
     before:
       - 3x13
       - 5x18
@@ -1054,10 +1072,10 @@ episodes:
       a day when individuals are encouraged to plant a tree, which would only
       happen when planting a tree is a good idea. With earth pony magic, the
       time stretch for an arbor day could conceivably be extended, but
-      Twilight is not an earth pony. This episode can not, therefore, happen
-      earlier than the first spring of the series, and relatively early into
-      it. Months later into a summer or an autumn, Spike himself would have
-      forgotten about it himself.
+      Twilight is not an earth pony. This episode should not, therefore,
+      happen earlier than the first spring of the series, and should be
+      relatively early into it. Months later into a summer or an autumn, Spike
+      would have forgotten about the Arbor Day himself.
 
       Twilight Sparkle's behavior is similar to that in [Lesson
       Zero,](#ep-2x03) so they could have been parts of the same chain of
@@ -1073,6 +1091,8 @@ episodes:
     spring: true
     after:
       - 1x01-02
+    opt_after:
+      - 2x03
     before:
       - 3x13
     comment: |
@@ -1095,6 +1115,9 @@ episodes:
     after:
       - 1x01-02
       - 2x03
+      - 1x26
+    opt_after:
+      - 1x26
     before:
       - 3x13
     comment: |
@@ -1118,9 +1141,12 @@ episodes:
     after:
       - 1x01-02
       - 2x13
+      - SM1-AU
     before:
       - 3x13
       - 5x18
+    opt_after:
+      - SM1-AU
     comment: |
       The school is in session, and the school year appears to have started
       relatively recently, so it is likely to be happening in the early
@@ -1133,6 +1159,8 @@ episodes:
     spring: true
     after:
       - 1x01-02
+    opt_after:
+      - 2x03
     before:
       - 3x13
     comment: |
@@ -1144,8 +1172,8 @@ episodes:
       dictating, and while she narrates, *Celestia herself is on screen within
       five meters from her.* She finishes this speech with "How's that for a
       lesson, Princess Celestia?" spoken out of narration directly to
-      Celestia, which Celestia ignores. I'm not sure if this should be seen as
-      a hard lower bound against Lesson Zero or not.
+      Celestia, which Celestia ignores. I'm not entirely sure the letter
+      actually existed.
   2x25-26:
     title: A Canterlot Wedding
     link: http://mlp.wikia.com/wiki/A_Canterlot_Wedding_-_Part_1
@@ -1184,7 +1212,8 @@ episodes:
       - 3x13
     comment: |
       We see Cadance and Shining Armor again, so this must be after A
-      Canterlot Wedding.
+      Canterlot Wedding, but otherwise, very little happens to time this
+      episode.
   3x03:
     title: Too Many Pinkie Pies
     link: http://mlp.wikia.com/wiki/Too_Many_Pinkie_Pies
@@ -1195,6 +1224,8 @@ episodes:
       - 1x01-02
       - 2x07
       - 2x16
+    opt_after:
+      - 2x09
     before:
       - 5x18
     comment: |
@@ -1363,7 +1394,7 @@ episodes:
     comment: |
       Twilight gets her wings in this episode, so this must occur after every
       appearance of wingless Twilight. This is our biggest landmark
-      episode.
+      episode, splitting the first six seasons in half.
 
       Since it is very unlikely that more than a few months have elapsed
       between ascension and coronation and [Princess Twilight
@@ -1380,9 +1411,27 @@ episodes:
       - 3x13
       - SM2-SU
     before:
+      - SM2-AU
       - 5x18
+    opt_before:
+      - SM2-AU
     comment: |
       The time is explicitly immediately before the Summer Sun Celebration,
+      though nobody specifies exactly which year it is. However, there is
+      little doubt that it has to be the summer of the second year. While
+      people often complain that it is highly unlikely that all the events of
+      the first three seasons could fit into a single year, the [May The Best
+      Pet Win](#ep-2x07) / [Tanks For The Memories](#ep-5x05) loop interlocks
+      with the loop this episode makes with [Friendship is
+      Magic](#ep-1x01-02), forcing no more than one summer to occur between
+      the two episodes -- and it has to be whichever one this episode is in.
+
+      You can, if you like, stretch the first three seasons to occupy two
+      years instead of one, but since you can't stretch Season 4 to occupy
+      more than six months, I don't really see why would you want
+      to. Nevertheless, the seasonal lock against the autumn of the second
+      year is a soft lock.
+
       Discord is reformed and nobody except Fluttershy trusts him at all.
 
       Since the Summer Sun Celebration is, obviously, a summer event, and
@@ -1433,6 +1482,8 @@ episodes:
     before:
       - 4x24
       - 5x18
+    opt_after:
+      - 4x04
     comment: |
       Must precede Equestria Games, obviously. Notably, school is in
       session. The events described probably require some time to happen and
@@ -1450,6 +1501,8 @@ episodes:
     after:
       - 3x13
       - 4x03
+    opt_after:
+      - 4x05
     comment: |
       Most of this episode happens in the pocket space of a comic book, but
       opening scenes take place in the RPS Castle after the first visit to it.
@@ -1464,6 +1517,8 @@ episodes:
     after:
       - 3x13
       - SM2-AU
+    opt_after:
+      - 4x06
     comment: |
       While Applejack says it's officially Apple Bucking Day, it's not certain
       whether it's the Applebuck Season. But the yellowing grass throughout
@@ -1483,6 +1538,8 @@ episodes:
       - SM2-AU
     before:
       - 4x25-26
+    opt_after:
+      - 4x07
     comment: |
       The episode is set during Fashion Week, putting it on an integer year
       boundary from [The Saddle Row Review](#ep-6x09). Since in The Saddle Row
@@ -1508,6 +1565,8 @@ episodes:
       - 4x03
     before:
       - 5x18
+    opt_after:
+      - 4x08
     comment: |
       While this is not a Chest incident, the Apples and Pinkie argue about
       who gets to write in the Journal.
@@ -1531,6 +1590,8 @@ episodes:
     before:
       - 4x24
       - 4x25-26
+    opt_after:
+      - 4x09
     comment: |
       This is a Chest of Harmony Key incident, Rainbow writes in the Journal,
       and it is explicitly set before Equestria Games.
@@ -1550,6 +1611,8 @@ episodes:
       - 4x03
     before:
       - 4x25-26
+    opt_after:
+      - 4x10
     comment: |
       This is a very self-contained episode, which can float a good ways up
       and down, but it ends with Twilight writing in the Journal, giving it
@@ -1571,6 +1634,8 @@ episodes:
     before:
       - 4x25-26
       - 5x18
+    opt_after:
+      - 4x11
     comment: |
       It's Rainbow Dash's birthiversary. This is a Chest of Harmony Key
       incident, but Pinkie is not actually shown writing in the
@@ -1594,6 +1659,8 @@ episodes:
       - 3x13
     before:
       - 5x18
+    opt_after:
+      - 4x12
     comment: |
       This one is very independent and difficult to position. It is taking
       place immediately prior and during the Ponyville Days festival, which
@@ -1618,6 +1685,8 @@ episodes:
     before:
       - 4x25-26
       - 5x18
+    opt_after:
+      - 4x13
     comment: |
       A very independent episode that can fall anywhere within the bounds of
       season 4. Fluttershy is shown writing in the Journal. School is in
@@ -1640,6 +1709,8 @@ episodes:
     before:
       - 4x25-26
       - 5x18
+    opt_after:
+      - 4x14
     comment: |
       School is in session. Among other things, the blueprint of the Chest of
       Harmony is visible in the library. Sweetie Belle writes in the Journal.
@@ -1658,6 +1729,8 @@ episodes:
       - 4x11
     before:
       - 4x25-26
+    opt_after:
+      - 4x15
     comment: |
       This is a Chest of Harmony Key incident. It has to occur after
       Fluttershy first mentions breezies in Three's A Crowd.
@@ -1676,6 +1749,8 @@ episodes:
       - 2x03
     before:
       - 5x18
+    opt_after:
+      - 4x16
     comment: |
       This episode does not feature Twilight or Spike, which makes it possible
       to backdate it far away in the past. It must occur after Call of the
@@ -1707,6 +1782,8 @@ episodes:
       - 3x13
     before:
       - 4x25-26
+    opt_after:
+      - 4x17
     comment: |
       This episode is very self-contained around Maud.
 
@@ -1723,6 +1800,8 @@ episodes:
       - 3x13
     before:
       - 5x18
+    opt_after:
+      - 4x18
     comment: |
       This is a very floaty self-contained episode, and even Twilicorn only
       shows up for a few frames. The only clear upper bound on it is the CMC
@@ -1742,6 +1821,8 @@ episodes:
     before:
       - 4x25-26
       - 5x18
+    opt_after:
+      - 4x19
     comment: |
       This episode involves a lot of swimming, and thus is probably limited to
       summer. It features neither Twilicorn nor her castle, but Applejack
@@ -1764,6 +1845,8 @@ episodes:
       - 5x15
       - 5x18
       - 6x07
+    opt_after:
+      - 4x20
     comment: |
       As a result of this episode, Rainbow Dash joins Wonderbolt Reserves, so
       this must precede Rarity Investigates, precede Newbie Dash, and follow
@@ -1780,6 +1863,8 @@ episodes:
     spring: true
     after:
       - 3x13
+    opt_after:
+      - 4x21
     comment: |
       Another episode with nearly no hard bounds.
 
@@ -1799,6 +1884,8 @@ episodes:
     before:
       - 4x25-26
       - 5x18
+    opt_after:
+      - 4x24
     comment: |
       Spike revisits the RPS Castle, Friendship Castle does not exist, but
       otherwise this is quite undefined. Yet another presumably yearly
@@ -1823,6 +1910,8 @@ episodes:
     before:
       - 5x18
       - 6x01-02
+    opt_after:
+      - 4x22
     comment: |
       This episode has quite a few that have to precede it, but no strict
       upper bound all the way up until Crusaders of the Lost Mark. Since it
@@ -1844,6 +1933,8 @@ episodes:
       - 3x13
     before:
       - 5x18
+    opt_after:
+      - 4x24
     comment: |
       This is a landmark episode: Friendship Castle appears.
 
@@ -1868,9 +1959,9 @@ episodes:
       - 5x03
     comment: |
       The Cutie Map is introduced. It is highly unlikely the Mane 6 took more
-      than a day or two after its appearance to sit in their thrones, which
-      means that Twilight's Kingdom has to immediately precede this
-      episode.
+      than a day or two after its appearance to sit in their thrones,
+      whereupon the Map appears, which means that Twilight's Kingdom has to
+      immediately precede this episode.
 
       This is also one of the two episodes with no roots in the throne room
       that appear as the result of Castle Sweet Castle -- the other one, where
@@ -1925,6 +2016,9 @@ episodes:
       - SM2-AU
     before:
       - 5x20
+      - SM2-WI
+    opt_before:
+      - SM2-WI
     comment: |
       The whole episode is based on Rainbow Dash delaying the approach of
       winter and causing it to occur explosively, so it's right on that
@@ -1940,9 +2034,10 @@ episodes:
       in autumn -- so it's hard locked to follow the autumn of the second
       year.
 
-      This episode is *probably* still located within year 2. In any case, it
-      will *have* to rubberband May The Best Pet Win after itself if it moves
-      to year 3 or later.
+      This episode is *probably* still located within year 2, which is why
+      there's a soft lock against that winter. In any case, it will *have* to
+      rubberband May The Best Pet Win after itself if it moves to year 3 or
+      later.
 
       The opening establishing shot contains the Friendship Castle, and since
       Castle Sweet Castle has nothing comparable to the level of autumn
@@ -2014,6 +2109,9 @@ episodes:
       In Deed, but that is redundant, because it also contains Twilicorn. The
       final distance shot of Ponyville does contain the Friendship Castle. The
       only obvious upper bound is the CMC cutie marks.
+
+      A lot of people would prefer if this episode never existed, but luckily
+      for them, it's easy to dismiss out of the timeline entirely.
   5x10:
     link: http://mlp.wikia.com/wiki/Princess_Spike
     title: Princess Spike
@@ -2022,6 +2120,8 @@ episodes:
     spring: true
     after:
       - 3x13
+    opt_after:
+      - 4x24
     comment: |
       The Grand Equestria Pony Summit is definitely not a regular event. There
       is little to date this episode, [Equestria Games](#ep-4x24) sounds like
@@ -2063,8 +2163,13 @@ episodes:
     after:
       - 3x13
       - 5x01-02
+      - 5x11
+      - 5x12
     before:
       - 5x25-26
+    opt_after:
+      - 5x10
+      - 5x11
     comment: |
       Starlight Glimmer shows up spying on Twilight, limiting this to within
       the endcaps of season 5.
@@ -2106,7 +2211,7 @@ episodes:
     before:
       - 6x03
     comment: |
-      Rarity opens up her Canterlot boutique, and there's little doubt that
+      Rarity opens up her Canterlot boutique, and there's no doubt that
       Manehattan boutique isn't even in the cards yet. Twilight is the most
       popular princess, but this can happen with or without the castle.
   5x15:
@@ -2171,6 +2276,9 @@ episodes:
       - 2x01-02
       - 3x13
       - 4x25-26
+      - SM2-AU
+    opt_after:
+      - SM2-AU
     before:
       - 6x04
     comment: |
@@ -2187,8 +2295,10 @@ episodes:
       The plot of the episode implies that the elections of the Student Pony
       President coincide with a particular point in the yearly education
       cycle, more likely than not, start of the school year -- which is more
-      likely to be the start of autumn. A disabled, rather than full, fountain
-      in one of the shots corroborates that.
+      likely to be the start of autumn, and there is no way it can be the
+      first year's autumn. It can still happen in some other season, even
+      though a disabled, rather than full, fountain in one of the shots
+      corroborates the assertion that it's autumn.
   5x19:
     title: The One Where Pinkie Pie Knows
     link: http://mlp.wikia.com/wiki/The_One_Where_Pinkie_Pie_Knows
@@ -2224,6 +2334,8 @@ episodes:
       - SM2-WI
     before:
       - 6x01-02
+    opt_before:
+      - 6x01-02
     comment: |
       This Hearthwarming is set after Pinkie's discovery she might be related
       to Apples, after the introduction of Maud to Applejack, and features the
@@ -2233,7 +2345,8 @@ episodes:
       depicted in [A Hearth's Warming Tail,](#ep-6x08) because the latter
       features all of the Mane Six together, and since no hide or hair of
       Starlight Glimmer can be seen for obvious reasons, I'm going to say that
-      The Crystalling is an upper bound on it.
+      The Crystalling is an upper bound on it -- however, it is not a hard
+      bound.
 
       Winter of year 2 is a hard lower bound, since it's clear Twilight did
       not yet have wings during the winter of year 1.
@@ -2265,6 +2378,11 @@ episodes:
       - 3x10
       - 3x13
       - 5x01-02
+      - 5x07
+      - 4x25-26
+    opt_after:
+      - 5x07
+      - 4x25-26
     before:
       - 5x25-26
       - 6x01-02
@@ -2291,11 +2409,15 @@ episodes:
       - 5x03
       - 5x08
       - 5x16-17
+    opt_after:
+      - 5x08
+      - 5x16-17
     comment: |
       This is a Cutie Map mission and the throne room has roots. Twilight is
       excited about the mission so much, that it's clear that both The Lost
       Treasure of Griffonstone and Made in Manehattan have already occurred
-      and she's bored because she still didn't get a go.
+      and she's bored because she still didn't get a go. However, a case could
+      still be made for this to happen earlier.
   5x24:
     title: The Mane Attraction
     link: http://mlp.wikia.com/wiki/The_Mane_Attraction
@@ -2324,8 +2446,11 @@ episodes:
       - 6x01-02
     comment: |
       While the CMC do not appear themselves, the incident of acquiring marks
-      simultaneously is part of Twilight's lecture. But otherwise, most of
-      this episode happens entirely outside the primary timeline.
+      simultaneously is part of Twilight's lecture.
+
+      Most of this episode happens entirely outside the primary timeline. The
+      montage at the end is, apparently, spread over a substantial period of
+      time.
   EG1:
     title: Equestria Girls
     link: http://mlp.wikia.com/wiki/Equestria_Girls
@@ -2415,8 +2540,9 @@ episodes:
       episode covers future events. It is, at the very least, her first
       official friendship lesson.
 
-      Flurry Heart is a newborn, which implies a pregnancy period has to have
-      elapsed since The One Where Pinkie Pie Knows.
+      Flurry Heart is a newborn, at most a few days old, which implies a
+      pregnancy period has to have elapsed since The One Where Pinkie Pie
+      Knows.
 
       Crystal Empire clearly has winter, or very early spring, -- there is no
       evidence to suppose Crystal Empire is capable of the same total weather
@@ -2471,15 +2597,18 @@ episodes:
     after:
       - 3x13
       - 5x01-02
+      - 5x10
+    opt_after:
+      - 5x10
     comment: |
       This is a very floaty episode, most of which occurs in unexplored dragon
       lands, and the only clear marker we get is that the Friendship Castle
       exists. Pretty much nopony you would expect to see in there is
       present. The season in Ponyville is never clearly seen.
 
-      It could be argued that [Princess Spike](#ep-5x10) is unlikely to happen
-      after this episode, since Spike gets a confidence boost and a new friend
-      in the process, but that's about it.
+      [Princess Spike](#ep-5x10) is unlikely to happen after this episode,
+      since Spike gets a confidence boost and a new friend in the process, but
+      that's about it for the observable soft bounds.
   6x06:
     title: No Second Prances
     link: http://mlp.wikia.com/wiki/No_Second_Prances
@@ -2491,14 +2620,18 @@ episodes:
       - 3x13
       - 5x25-26
       - 6x01-02
+    opt_after:
+      - 6x07
     comment: |
       Starlight Glimmer is a friendship student for long enough not to bump
       into things, but most other markers we get in this episode are clearly
       redundant.
 
       Among other things, Rainbow Dash offers to introduce Starlight Glimmer
-      to Spitfire, which is rather unlikely before [Newbie Dash](#ep-6x07),
-      and probably has to happen a significant time afterwards.
+      to Spitfire, which is somewhat unlikely before [Newbie Dash](#ep-6x07),
+      and probably has to happen a significant time afterwards. However, in
+      Newbie Dash, Spitfire addresses Rainbow on friendly terms already, so
+      this is a matter of argument.
 
       This episode introduces the Starlight/Trixie partnership, requiring all
       further episodes in which they interact to occur afterwards.
@@ -2530,6 +2663,9 @@ episodes:
       - 5x18
       - 5x25-26
       - 6x01-02
+      - SM2-WI
+      - SM3-WI
+    opt_after:
       - SM3-WI
     comment: |
       Starlight feels more or less at home in the Friendship Castle, so a
@@ -2552,8 +2688,8 @@ episodes:
       since Twilight clearly did not have wings yet during that one. It is
       likewise impossible for this story to happen on Hearth's Warming of year
       2, unless Hearthbreakers happens in the winter of the year 3 somehow,
-      which would be incredibly odd. This makes the winter of year 3 a hard
-      lower bound.
+      which would be incredibly odd. This makes the winter of year 2 a hard
+      lower bound and the winter of year 3 a soft one.
   6x09:
     title: The Saddle Row Review
     link: http://mlp.wikia.com/wiki/The_Saddle_Row_Review
@@ -2741,6 +2877,11 @@ episodes:
     spring: true
     after:
       - 1x21
+      - 1x05
+      - 1x06
+    opt_after:
+      - 1x05
+      - 1x06
     comment: |
       This episode lacks almost all markers. Twilight, Spike, Rarity,
       Friendship Castle, the CMC never appear.
@@ -2974,9 +3115,9 @@ episodes:
       Friendship Castle and student-Starlight are in evidence.
 
       This is explicitly Maud's first visit to Ponyville since the moment
-      Friendship Castle grew, and establishes she did not visit at least since
-      before [Twilight's Kingdom](#ep-4x25-26). This indirectly establishes a
-      redundant upper bound on [Maud Pie](#ep-4x18).
+      Friendship Castle grew, and establishes that she did not visit the town
+      at least since before [Twilight's Kingdom](#ep-4x25-26). This indirectly
+      establishes a redundant upper bound on [Maud Pie](#ep-4x18).
 
       The cave first seen in Gauntlet of Fire makes an appearance and suffers
       significant remodeling, requiring this episode to occur afterwards.
