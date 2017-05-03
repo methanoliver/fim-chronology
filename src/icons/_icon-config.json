@@ -1,5 +1,5 @@
 {
-  "lastCodepoint": 104,
+  "lastCodepoint": 106,
   "icons": {
     "autumn": 97,
     "spring": 98,
@@ -8,6 +8,8 @@
     "arrow-down": 101,
     "arrow-up": 102,
     "eye-crossed": 103,
-    "eye": 104
+    "eye": 104,
+    "checkmark-empty": 105,
+    "checkmark": 106
   }
 }

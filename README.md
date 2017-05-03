@@ -35,6 +35,8 @@ episodes:
       - 3x13
       - 5x25-26
       - 6x01-02
+    opt_after:
+      - 1x01-02
     comment: |
       This is a Cutie Map mission, and is explicitly referred to as being the
       first mission since Starlight broke the map in the Cutie Re-Mark.
@@ -62,7 +64,16 @@ season. A missing flag is undefined, and therefore false. Ponyville seasons
 are assumed always, since that's the place we see most of the time.
 
 `before` and `after` are optional lists of episode IDs that this episode must
-be placed before and must be placed after, respectively.
+be placed before and must be placed after, respectively -- the so-called hard
+constraints. Every such constraint is a constraint on *both* episodes
+mentioned at once, so they do not necessarily have to be duplicated.
+
+`opt_before` and `opt_after` are optional list of soft constraints --
+restrictions on episode motion which are a matter of argument or
+interpretation, which the user can enable or disable by clicking a
+checkbox. The same episode ID may be present both in hard and soft constraints
+of an episode, in which case it is treated as a soft constraint that is
+enabled by default.
 
 `comment` is the commentary text. Markdown is allowed inside. Links to other
 episodes can be done in the usual Markdown way, with `#ep-<episode id>` as the

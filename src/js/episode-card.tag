@@ -71,6 +71,18 @@
             <ul data-is="episode-blocker-list"
                 list="{before(episode)}"></ul>
         </div>
+        <div if="{optAfter(episode)}"
+             class="blockers optional-blockers">
+            Could follow:
+            <ul data-is="episode-blocker-list"
+                list="{optAfter(episode)}" where="{episode}" which="after"></ul>
+        </div>
+        <div if="{optBefore(episode)}"
+             class="blockers optional-blockers">
+            Could precede:
+            <ul data-is="episode-blocker-list"
+                list="{optBefore(episode)}" where="{episode}" which="before"></ul>
+        </div>
     </div>
     <script>
         import "./raw-html.tag";
@@ -85,6 +97,19 @@
             this.epData(this.episode).collapse = data;
             this.update();
         });
+
+        this.toggleOptBlocker = (blocker, list) => {
+            let blocklist = this.blockers(this.episode, list);
+            if (blocklist.includes(blocker)) {
+                const index = blocklist.indexOf(blocker);
+                blocklist.splice(index, 1);
+            } else {
+                blocklist.push(blocker);
+                blocklist.sort();
+            }
+            this.epData(this.episode)[list] = blocklist;
+            this.dispatch('order-update', this.episode);
+        };
 
     </script>
 </episode-card>

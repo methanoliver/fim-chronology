@@ -97,6 +97,8 @@
                     "winter": episode.winter || false,
                     "must_be_before": this.before(el) ? episode.before.join(" ") : "",
                     "must_be_after": this.after(el) ? episode.after.join(" ") : "",
+                    "could_be_before": this.optBefore(el) ? episode.opt_before.join(" "): "",
+                    "could_be_after": this.optAfter(el) ? episode.opt_after.join(" "): "",
                     "comment": episode.comment
                 })
             });

@@ -48,13 +48,17 @@ Move the episode cards up and down with the provided buttons. If there's a hard 
 * Clicking the button once will keep it selected once the episode has moved. Pressing `Enter` or `Space` afterwards will keep moving the episode in the same direction, until you click another button, or bump into a hard rule preventing the move.
 * Holding down `Shift` while triggering a move button will move the episode as far as it will go at once.
 
-If there is a soft observation that gives some clues to the possible positioning of the episode, it will be mentioned in the text on the card. Juggle them around and see if you can come up with something that makes sense.
+Some of the restrictions are "hard locks," i.e. based on definite observations. If an episode includes a shot of the Friendship Castle, it's very difficult to argue it happens before that castle existed. Other restrictions are listed as "soft locks," when they are a matter of argument or interpretation. Some of these default to enabled, while others don't. If an episode has a list of soft locks, they are listed on the card under "Could follow" and "Could precede," and you can toggle their state by clicking the accompanying checkbox.
+
+Details and arguments for both types are typically described in the text on the card.
+
+Juggle them around and see if you can come up with something that makes sense.
 
 ### Saving and loading
 
 There is no central server storing the data anywhere after you change it, but you can still save your results and share them for discussion.
 
 * You can use the button in the navigation bar above to export the entire set of episodes as a CSV table. This will upload seamlessly to Google Docs.
-* There's a button marked `Save` in the navigation bar. Clicking it will produce a special URL, following which will recreate the episode order you had at the time of clicking on the button. You can bookmark this link, or right-click and `Copy link address` on the button, and share it.
+* There's a button marked `Save` in the navigation bar. Clicking it will produce a special URL, following which will recreate the episode order you had at the time of clicking on the button. You can bookmark this link, or right-click and `Copy link address` on the button, and share it. Beware: the list of currently selected soft locks is not getting saved in this version, and will be reset to default upon loading.
   * If you plan to post your episode ordering on Fimfiction, you might want to use an URL shortener, like [goo.gl](https://goo.gl) or [tinyurl](https://tinyurl.com), as Fimfiction does not like long URLs containing data like that.
   * If you actually saved this file to your own disk, it will become slightly more complicated: The actual part containing the data is everything after the `#!`. Find a copy of this program on the public Internet, and append the entire part of the link starting with `#!` to the end, it should work.

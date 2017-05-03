@@ -108,6 +108,18 @@ let DataMixin = {
     after: function(episode) {
         return this.blockers(episode, 'after');
     },
+    isBefore: function(episode, target) {
+        return this.before(episode).includes(target);
+    },
+    isAfter: function(episode, target) {
+        return this.after(episode).includes(target);
+    },
+    optBefore: function(episode) {
+        return this.blockers(episode, 'opt_before');
+    },
+    optAfter: function(episode) {
+        return this.blockers(episode, 'opt_after');
+    },
     removeHash: function() {
         history.pushState("", document.title, window.location.pathname
                           + window.location.search);

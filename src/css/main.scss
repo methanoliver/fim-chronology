@@ -70,7 +70,7 @@ seasons, [data-is="seasons"] {
 }
 
 .blockers {
-    font-size: 70%;
+    font-size: 12px;
     ul {
         display: inline;
         list-style: none;
@@ -83,6 +83,15 @@ seasons, [data-is="seasons"] {
         li:last-child:after {
             content: ".";
         }
+    }
+    .option {
+        cursor: pointer;
+        ._icon {
+            vertical-align: baseline;
+        }
+    }
+    .option:hover {
+        color: $success;
     }
 }
 
