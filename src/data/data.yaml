@@ -3214,6 +3214,8 @@ episodes:
       - 6x19
       - 6x04
       - 6x09
+    opt_after:
+      - 7x04
     comment: |
       Sassy Saddles' statement that they're having a winter to spring
       transition in terms of fashion lines fixes the season of this episode to
@@ -3227,6 +3229,10 @@ episodes:
 
       Rarity mentions she runs three shops, placing it after the opening of
       her Manehattan boutique.
+
+      Rarity orders her stones rather than digs for them herself, and it's
+      possible to make a case this episode has to follow Rock Solid
+      Friendship.
 order:
   - SM1-SU
   - 1x01-02
