@@ -2698,9 +2698,9 @@ episodes:
       spring or summer of a year that includes events all the way to the [To
       Where and Back Again](#ep-6x25-26) and accompanying episodes, and at the
       time of writing, this would make this episode the chronologically latest
-      one. This is further supported by the observation that Starlight treats
-      Twilight more like an equal than a teacher than in many subsequently
-      aired episodes.
+      one, with the possible exception of [Forever Filly](#ep-7x06). This is
+      further supported by the observation that Starlight treats Twilight more
+      like an equal than a teacher than in many subsequently aired episodes.
 
       The one snag for this interpretation is the absence of Trixie, but
       wouldn't she have family somewhere far away to pester on Hearth's
@@ -3203,6 +3203,30 @@ episodes:
       against early Fluttershy episodes, almost all of these would be
       redundant, with the possible exception of Putting Your Hoof Down, which
       can't happen after this show of assertiveness by Fluttershy.
+  7x06:
+    title: Forever Filly
+    link: http://mlp.wikia.com/wiki/Forever_Filly
+    spring: true
+    after:
+      - SM2-SP
+      - 6x14
+      - 5x18
+      - 6x19
+      - 6x04
+      - 6x09
+    comment: |
+      Sassy Saddles' statement that they're having a winter to spring
+      transition in terms of fashion lines fixes the season of this episode to
+      spring. Despite some apples being present in the trees around the CMC
+      clubhouse, that's what it has to be, and probably, it has to be very
+      early in that spring. This cannot be the spring of year 1, but it still
+      can be the spring of year 2.
+
+      This episode references numerous other episodes of Season 6 primarily by
+      means of a wall of photos, serving as an upper bound for them.
+
+      Rarity mentions she runs three shops, placing it after the opening of
+      her Manehattan boutique.
 order:
   - SM1-SU
   - 1x01-02
@@ -3356,6 +3380,7 @@ order:
   - SM3-WI
   - 6x08
   - SM3-SP
+  - 7x06
   - SM4-SU
   - SM4-AU
   - SM4-WI
