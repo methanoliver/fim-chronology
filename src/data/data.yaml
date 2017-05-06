@@ -3180,6 +3180,28 @@ episodes:
       the cave near Ponyville, requiring any episode that features her as a
       denizen of Ponyville to follow. We don't know yet if any will follow,
       but some might.
+  7x05:
+    title: Fluttershy Leans In
+    link: http://mlp.wikia.com/wiki/Fluttershy_Leans_In
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 2x19
+      - 5x23
+      - 6x01-02
+    comment: |
+      This is one of those disconnected episodes.
+
+      Friendship Castle does not appear on screen, but Starlight does, setting
+      this to after the Crystalling.
+
+      The events of The Hooffelds and McColts are referred to.
+
+      While there might be a case for making a lot of hard or soft constraint
+      against early Fluttershy episodes, almost all of these would be
+      redundant, with the possible exception of Putting Your Hoof Down, which
+      can't happen after this show of assertiveness by Fluttershy.
 order:
   - SM1-SU
   - 1x01-02
@@ -3323,6 +3345,7 @@ order:
   - 6x24
   - EG4
   - SM3-SU
+  - 7x05
   - SM3-AU
   - 7x03
   - 6x25-26
