@@ -3188,13 +3188,14 @@ episodes:
     spring: true
     after:
       - 2x19
+      - 5x18
       - 5x23
       - 6x01-02
     comment: |
       This is one of those disconnected episodes.
 
       Friendship Castle does not appear on screen, but Starlight does, setting
-      this to after the Crystalling.
+      this to after the Crystalling. The CMC sport their cutie marks.
 
       The events of The Hooffelds and McColts are referred to.
 
