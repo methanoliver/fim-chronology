@@ -3237,6 +3237,24 @@ episodes:
       Rarity orders her stones rather than digs for them herself, and it's
       possible to make a case this episode has to follow Rock Solid
       Friendship.
+  7x07:
+    title: Parental Glideance
+    link: http://mlp.wikia.com/wiki/Parental_Glideance
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 6x24
+      - 6x07
+    comment: |
+      Rainbow Dash is a Wonderbolt, so Newbie Dash has come and gone. Numerous
+      other episodes relating to Rainbow's long road to become a Wonderbolt
+      are referred to, but since they are all also prerequisites for Newbie
+      Dash, they're redundant.
+
+      While most of the other obvious markers like Starlight or the Friendship
+      Castle are missing, Sky Stinger and Vapor Trail turn up in Wonderbolt
+      trainee uniforms, requiring this episode to follow Top Bolt.
 order:
   - SM1-SU
   - 1x01-02
@@ -3387,6 +3405,7 @@ order:
   - 7x01
   - 7x02
   - 7x04
+  - 7x07
   - SM3-WI
   - 6x08
   - SM3-SP
