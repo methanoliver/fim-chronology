@@ -47,3 +47,6 @@ src/font/*
 
 # Just notes I have yet to doublecheck.
 notes.txt
+# My playlist generator heavily depends on local conditions and is thus useless to anyone else,
+# but I want to keep it in the project.
+playlist.py
