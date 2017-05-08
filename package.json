@@ -45,7 +45,7 @@
         "start": "serve-this",
         "build": "webpack",
         "deploy": "webpack -p && ./build.sh",
-        "icons": "icon.font -t woff2 -p 28 -s src/icons -d src/font"
+        "icons": "icon.font -t woff -p 28 -s src/icons -d src/font"
     },
     "serve-this": {
         "folder": "dist",

@@ -36,8 +36,10 @@
                     <a onclick="{download}"
                        ref="download"
                        class="button is-primary"
-                       title="Download the order as a CSV file"
-                       target="_blank">Export CSV</a>
+                       download="{downloadFilename()}"
+                       title="Download the order as a CSV file">
+                        Export CSV
+                    </a>
                 </p>
             </div>
         </div>
@@ -81,6 +83,10 @@
             this.dispatch('collapse-change', this.collapsed);
         };
 
+        this.downloadFilename = () => {
+            return `my-little-chronology-${__BUILD_DATE__}-${__BUILD_NUMBER__.trim()}.csv`;
+        };
+
         this.download = e => {
             this.passthrough();
             let blob = [];
@@ -103,10 +109,14 @@
                 })
             });
 
-            this.refs.download.href = 'data:text/csv;charset=utf-8,'
-                                    + encodeURIComponent(Papa.unparse(blob));
-            this.refs.download.download =
-                `my-little-chronology-${__BUILD_DATE__}-${__BUILD_NUMBER__.trim()}.csv`;
+            let csvData = new Blob([Papa.unparse(blob)], {type: 'text/csv;charset=utf-8;'});
+            if (navigator.msSaveBlob) {
+                // IE/Edge family.
+                e.preventDefault();
+                navigator.msSaveBlob(csvData, this.downloadFilename());
+            } else {
+                this.refs.download.href = window.URL.createObjectURL(csvData);;
+            }
         };
 
         this.reset = e => {
