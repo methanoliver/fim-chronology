@@ -21,15 +21,17 @@ var babel_options = {
         ['env', {
             "targets": {
                 "browsers": [
-                    // "last 2 versions",
-                    "> 5%"
+                    "> 5%",
+                    "last 2 edge versions",
+                    "last 2 firefox versions",
+                    "last 2 chrome versions"
                 ]
             },
+            // Uncomment this to see what actually gets selected:
+            "debug": true,
             "modules": false,
             // this enables the polyfill selector:
             "useBuiltIns": true
-            // Uncomment this to see what actually gets selected:
-            //"debug": true
         }]
     ]
 };
