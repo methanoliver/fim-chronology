@@ -973,6 +973,9 @@ episodes:
       - 5x18
     opt_after:
       - 2x03
+    opt_before:
+      - 1x19
+      - 1x04
     comment: |
       The trees still have apples, so we can assume that it's before Applebuck
       Season. Spike says it's not long until Sapphire Season, which *might* be
