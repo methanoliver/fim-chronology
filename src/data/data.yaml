@@ -90,10 +90,31 @@ episodes:
     after:
       - 1x01-02
     before:
+      - 1x16
+      - 1x19
+      - 1x10
+      - 2x01-02
+      - 2x03
+      - 2x08
+      - 2x20
+      - 2x25-26
+      - 3x01-02
+      - 3x05
+      - 3x10
       - 3x13
     comment: |
-      The Mane 5 have no idea of the level of Twilight's skill in magic and
-      generally they don't know much about her or each other.
+      The Mane 5 appear not to know that much about each other or Twilight,
+      which makes it obvious this should be somewhere within the first ten
+      episodes, but that in itself is not a hard lock.
+
+      Importantly, this episode introduces Mane 5 to the fact that Twilight is
+      a prodigy. Every episode in which Twilight performs spectacular magic
+      beyond average has to follow this, up until Magical Mystery Cure. I
+      believe that Sonic Rainboom, A Dog and Pony Show, Swarm of the Century,
+      The Return of Harmony, Lesson Zero, The Mysterious Mare Do Well, It's
+      About Time, A Canterlot Wedding, The Crystal Empire and Too Many Pinkie
+      Pies qualify, and others that do qualify have one of these as a
+      prerequisite. Obviously, it can't happen after Magic Duel.
 
       This episode introduces Trixie and is explicitly referred to as her
       first appearance since then.
@@ -924,6 +945,8 @@ episodes:
       - 5x18
     opt_after:
       - 2x03
+      - 1x10
+      - 2x10
     comment: |
       The ponies seem to be rebuilding Ponyville, so it is likely to occur
       immediately after [Swarm of the Century](#ep-1x10) or [Secret of My
