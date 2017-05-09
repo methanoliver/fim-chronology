@@ -1,4 +1,4 @@
-This is a piece of "software," for lack of a better word, made with the intent to discuss the issues of episode ordering for *My Little Pony: Friendship is Magic* in a way that is more conductive to getting something reasoned out than an Excel table or a simple textual list. It is not so much a chronology by itself, as it is a tool to *think* about it, which I made because messing around with tables and textual documents quickly got tiresome and started producing stupid errors.
+This is a piece of "software," for lack of a better word, made with the intent to discuss the issues of episode ordering for *My Little Pony: Friendship is Magic* in a way that is more conductive to getting something reasoned out than an Excel table or a simple textual list. This is not so much a chronology by itself, as it is a tool to *think* about it, which I made because messing around with tables and textual documents quickly got tiresome and started producing stupid errors.
 
 It should be obvious that the problem of episode ordering exists, if only from the placement of **Hearthbreakers** immediately before **Scare Master** in the airing order, or **Winter Wrap-Up** sitting in-between two episodes worth of green hills, but certain statements on screen make it clear that the problem goes much deeper.
 
@@ -23,34 +23,34 @@ Well, I say it's their problem.
 
 ## Explanations
 
-The entire point of coding this was to account for certain known "markers" which permit us to split at least some of the rest of the episodes into "before" and "after" states, like "Twilight's Ascension" or "CMC getting cutie marks" or "Zecora being befriended," as well as introduce other restrictions based on observed phenomena, and observe them automatically while moving episodes around.
+The entire point of coding this was to account for certain known "markers" which permit us to split at least some of the rest of the episodes into "before" and "after" states, like "Twilight's Ascension" or "CMC getting cutie marks" or "Zecora being befriended," as well as introduce other restrictions based on phenomena seen on screen, and observe these restrictions automatically while moving episodes around.
 
-The marker rules are described where reasonable: if we see the Friendship Castle, the episode occurs after it is created, if we see a character, this has to happen after they were introduced, etc.
+The rules are described in episode commentary where reasonable: if we see the Friendship Castle, the episode occurs after it is created, if we see a character, this has to happen after they were introduced, etc.
 
 The idea is to write in as many such restrictions as possible, write up everything which looks like a restriction but isn't definite, and then shove the episodes around until they start making sense. We're still far from having all the existing hard constraints listed. Something coherently continuous should eventually emerge, if enough people play with it and send me their input.
 
 The default reordering presented here as starting data and many of the original arguments that I started with, particularly where it concerns seasons 1 to 3, belong to someone else. Unfortunately, I can't seem to find the original source anymore, and I basically had to OCR it out of images someone rendered them as. This was the longest reordered timeline I managed to locate, and I find that it works very well, particularly if you make a playlist of episodes in chronological order.
 
-That said, the default order is *known* to be wrong in several places, so don't treat this stack of cards as immutable. It isn't.
+That said, the default order is *known* to be wrong in several places, so don't treat this stack of cards as immutable truth. The rules on the episodes themselves, though, should be pretty solid.
 
 ## Seasons
 
-Since few episodes can be conclusively limited to happening during a specific time of year, episodes are marked with times of year they *can* occur in. These are soft constraints -- for your information only. The possible seasons are marked with obvious icons.
+Since few episodes can be conclusively limited to happening during a specific time of year, episodes are marked with times of year they *can* occur in with obvious icons. These are for your information only.
 
-In addition to that, a number of virtual season-change episodes hard-locked against each other are provided, and certain episodes are hard-locked against them, rather than just other real episodes.
+In addition to that, a number of virtual season-change episodes hard-locked against each other are provided, and certain episodes are locked against them, rather than just other real episodes.
 
-We do not know when the pony calendar year starts or ends. For this reason, this cycle starts at Summer, year 1, and continues on through Summer - Autumn - Winter - Spring.
+We do not know when the pony calendar year begins. For this reason, this cycle starts at Summer, year 1, and continues on through Summer - Autumn - Winter - Spring. Default configuration lists only four years of this cycle, because so far, we can't conclusively demonstrate that the series timeline ran for longer than that.
 
 ## Usage
 
-Move the episode cards up and down with the provided buttons. If there's a hard rule preventing the move, the button will be disabled.
+Move the episode cards up and down with the provided buttons. If there's an active rule preventing the move, the button will be disabled.
 
 * Clicking the button once will keep it selected once the episode has moved. Pressing `Enter` or `Space` afterwards will keep moving the episode in the same direction, until you click another button, or bump into a hard rule preventing the move.
 * Holding down `Shift` while triggering a move button will move the episode as far as it will go at once.
 
-Some of the restrictions are "hard locks," i.e. based on definite observations. If an episode includes a shot of the Friendship Castle, it's very difficult to argue it happens before that castle existed. Other restrictions are listed as "soft locks," when they are a matter of argument or interpretation. Some of these default to enabled, while others don't. If an episode has a list of soft locks, they are listed on the card under "Could follow" and "Could precede," and you can toggle their state by clicking the accompanying checkbox.
+Some of the restrictions are "hard locks," i.e. based on definite observations. If an episode includes a shot of the Friendship Castle, it's very difficult to argue it happens before that castle existed. Other restrictions are listed as "soft locks," when they are a matter of argument or interpretation, and you can toggle them on and off. Some of these default to enabled, while others don't. If an episode has a list of soft locks, they are listed on the card under "Could follow" and "Could precede," and you can change their state by clicking the accompanying checkbox icon.
 
-Details and arguments for both types are typically described in the text on the card.
+Details and arguments for both types are typically given in the text on the card.
 
 Juggle them around and see if you can come up with something that makes sense.
 
