@@ -2508,16 +2508,25 @@ episodes:
     spring: true
     after:
       - 3x13
+    before:
+      - EG2
+      - 4x11
+      - 4x24
+      - 4x25-26
+      - 5x09
     comment: |
       The parts of the movie that actually do happen in Equestria occur in
       Crystal Empire, and there's no sign of snow on the horizon, at least
       excluding winter for good. Twilight is already a princess, but this is
       her first "princess summit," and she explicitly isn't accustomed to her
-      new wings yet. Cadance hasn't seen Twilight since her coronation.
+      new wings yet.
+
+      Cadance hasn't seen Twilight since her coronation, which requires this
+      to happen prior to every other instance of Cadance meeting a winged
+      Twilight, which gets progressively more redundant after Twilight's
+      Kingdom.
 
       The events of the movie are condensed into at most five days.
-    before:
-      - EG2
   EG2:
     title: "Equestria Girls: Rainbow Rocks"
     link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Rainbow_Rocks
@@ -2548,11 +2557,16 @@ episodes:
     after:
       - EG2
       - 5x25-26
+    before:
+      - 6x01-02
     comment: |
       We see very, very little of Equestria in this movie at all, but at the
       end Twilight appears and references the events of The Cutie Re-Mark
       about as explicitly as it was possible without being an outright
-      spoiler, and mentions that they have just occurred.
+      spoiler, and mentions that they have just occurred. As such, it has to
+      happen strictly between The Cutie Re-Mark and The Crystalling, because
+      in the latter episode Twilight leaves for an extended trip to the
+      Crystal Empire.
 
       No snow is visible in the portal to Ponyville, so it's not winter in
       Equestria.
@@ -2920,10 +2934,15 @@ episodes:
       - 5x11
     before:
       - 6x01-02
+    opt_before:
+      - 6x01-02
     comment: |
-      Starlight Glimmer is completely absent, and would never avoid
-      interacting with the events if she were present on the premises. The
-      events of Party Pooped are referred to.
+      Starlight Glimmer is completely absent. She would never avoid
+      interacting with the events in the castle if she were present on the
+      premises, and otherwise, she would probably come with the Mane
+      6. However, she could, conceivably, be absent for some other reason.
+
+      The events of Party Pooped are referred to.
 
       This episode would make more sense if it occurred before [What about
       Discord?](#ep-5x22) rather than after, since it can serve as an
