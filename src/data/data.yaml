@@ -169,15 +169,14 @@ episodes:
     after:
       - 1x01-02
     before:
-      - 3x13
-      - 5x18
-      - 1x22
+      - 1x03
       - 1x10
       - 1x22
       - 2x04
       - 2x19
       - 3x10
-      - 1x03
+      - 3x13
+      - 5x18
     opt_before:
       - 1x03
     comment: |
