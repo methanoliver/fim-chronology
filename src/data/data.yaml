@@ -387,6 +387,8 @@ episodes:
     after:
       - 1x01-02
       - 1x03
+    opt_after:
+      - 1x03
     before:
       - 3x13
     comment: |
@@ -395,8 +397,10 @@ episodes:
       told in that episode that Spike is in Canterlot.
 
       In The Ticket Master, Rainbow Dash said she hadn't perfected her
-      signature move for the Wonderbolts, which probably refers to the Sonic
-      Rainboom.
+      signature move for the Wonderbolts, which should, in theory, refer to
+      the Sonic Rainboom. However, she never lists Sonic Rainboom among the
+      moves she actually describes in any of the instances she does describe
+      her routine.
   1x17:
     title: Stare Master
     link: http://mlp.wikia.com/wiki/Stare_Master
