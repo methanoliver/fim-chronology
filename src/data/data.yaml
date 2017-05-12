@@ -66,22 +66,39 @@ episodes:
     after:
       - 1x01-02
       - SM1-AU
-    before:
-      - 3x13
     opt_after:
       - 1x03
+    before:
+      - 3x13
+      - SM1-WI
+    opt_before:
+      - SM1-WI
     comment: |
       Applebuck season is the day all apples get bucked off the trees. Since
       it's a "season," there's the implication that it's the last time in the
-      year this happens, even if multiple harvests are collected per year, so
-      it cannot happen earlier than the first autumn of the series.
+      year this happens, even if multiple harvests are collected per year.
+
+      Furthermore, Fluttershy is busy with the bunny census. Bunnies, at least
+      in our world, mate seasonally from February to October, subject to
+      weather and resource availability, and it would be rather silly to start
+      doing that before they *stop,* seeing as how a single female can produce
+      up to about 84 offspring a year, and environmental changes late in the
+      mating period can wildly skew the result. This further settles the
+      position of this episode as one of the last episodes of an autumn. Due
+      to the general level of familiarity between the Mane 6 shown, I think we
+      have to keep it within the first autumn.
+
+      Twilight teleports about 20 meters when there really wasn't any need to
+      do this, and repeatedly teleports in quick succession with no sign of
+      being tired by this.
 
       There's a fan theory that the injury Big Mac sports in this episode is
       due to the bet that Applejack mentions in [Ticket Master,](#ep-1x03)
       regarding hauling apples around and having to walk down the street in a
       girdle, and if that is true, Ticket Master has to immediately precede
       this episode. Later episodes seem to suggest Big Mac is sufficiently
-      secure in his masculinity to actually do that, though.
+      secure in his masculinity to actually do that, though, and Ticket Master
+      is season locked to summer.
   1x05:
     title: Griffon the Brush Off
     link: http://mlp.wikia.com/wiki/Griffon_the_Brush_Off
@@ -93,10 +110,19 @@ episodes:
     before:
       - 3x13
     comment: |
-      Rainbow Dash and Pinkie Pie don't seem to know each other very well, and
-      Rainbow Dash refers to her friends as being "new." It could be argued that
-      they're new compared to Gilda, but even then it sounds like they're new to
-      Rainbow herself.
+      Rainbow Dash and Pinkie Pie don't know each other very well -- Rainbow
+      doesn't know Pinkie is a prankster and spent most of the morning
+      unsuccessfully avoiding her, which ends with "You know Pinkie Pie,
+      you're not as annoying as I thought."
+
+      Rainbow Dash refers to her friends as being "new." It could be argued
+      that they're new compared to Gilda, but even then it sounds like they're
+      new to Rainbow herself.
+
+      Celestia's room has a burning fireplace for some unclear reason, with
+      actual logs and a flame in it, suggesting it's *not* summer, however, or
+      at least, an unusually cool day in Canterlot.
+
   1x06:
     title: Boast Busters
     link: http://mlp.wikia.com/wiki/Boast_Busters
