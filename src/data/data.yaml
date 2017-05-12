@@ -171,8 +171,34 @@ episodes:
     before:
       - 3x13
       - 5x18
+      - 1x22
+      - 1x10
+      - 1x22
+      - 2x04
+      - 2x19
+      - 3x10
+      - 1x03
+    opt_before:
+      - 1x03
     comment: |
-      Fluttershy seems more assertive than in episodes before this.
+      This is the only episode featuring Angel Bunny's personal dwelling, and
+      in all subsequent episodes featuring Fluttershy's cottage, Angel lives
+      inside Fluttershy's cottage itself, there's no trace of his ~~dog~~
+      rabbithouse. The only reasonable interpretation is that he moved in soon
+      afterwards, and his house was disassembled, which means that every other
+      episode featuring an outside view of Fluttershy's cottage has to follow
+      this one. All of these are listed, except those that occur after the
+      Twilicorn landmark, since those are be redundant constraints.
+
+      Episodes that feature the cottage but do not actually give a clear view
+      of the front are likewise not constrained by this one -- that includes
+      [May The Best Pet Win](#ep-2x07).
+
+      Since it is unlikely that Angel Bunny was close enough to Fluttershy to
+      hang out with her all the time until he moved in, this also *should,*
+      but not necessarily *does* happen before the Ticket Master, where he
+      briefly steals the tickets for her and accompanies her on the
+      butter-up-to-Twilight mission.
   1x08:
     title: Look Before You Sleep
     link: http://mlp.wikia.com/wiki/Look_Before_You_Sleep
@@ -1096,44 +1122,32 @@ episodes:
     summer: true
     spring: true
     after:
+      - 1x07
       - 2x03
     opt_after:
       - 2x03
     before:
       - 6x11
     comment: |
-      This one is a bit controversial.
+      There was a theory for this episode that placed it before the beginning
+      of the series. However, in that case it would have to feature Angel
+      Bunny's home, which it does not, Angel lives with Fluttershy inside her
+      cottage already. We're only left with my own theory:
 
-      A theory puts this episode before the series begins. Twilight or Spike
-      are absent and are never mentioned and there are no other hard
-      constraints preventing it from moving up. Fluttershy's behavior in
-      [Dragonshy](#ep-1x07) and [Stare Master](#ep-1x17) makes more sense if
-      this episode precedes them, because then she has at least some sense of
-      progression in assertiveness. The letter to Celestia in this episode
-      mandated by the events of Lesson Zero can be explained away by this
-      episode being a flashback, because Fluttershy is never shown dictating
-      it, she narrates it, and does not even refer to the event as if it
-      happened today while doing so.
-
-      This interpretation implies that Fluttershy, Rarity and Pinkie were
-      friends before the arrival of Twilight, which *does* seem dubious, but
-      then there's that scene in [A Celestial Advice](#ep-7x01)... which is
-      part of a flashback that is itself dubious... Moving on.
-
-      An alternate theory, which is the one I am currently using, places it
-      immediately after [The Return of Harmony,](#ep-2x01-02) (next to
-      [Somepony to Watch Over Me](#ep-4x17) which shows a similarly crazy
-      behavior by Applejack and possibly, [Party of One,](#ep-1x25) not to
-      mention [Lesson Zero](#ep-2x03) itself) based on the idea that
+      It should happen immediately after [The Return of Harmony,](#ep-2x01-02)
+      (next to [Somepony to Watch Over Me](#ep-4x17) which shows a similarly
+      crazy behavior by Applejack and possibly, [Party of One,](#ep-1x25) not
+      to mention [Lesson Zero](#ep-2x03) itself) based on the idea that
       Fluttershy's exceeding submissiveness is the aftereffect of Discord's
-      influence.
+      influence. Lesson Zero is not a hard bound, however, since Fluttershy
+      narrates the letter, but is not shown writing or sending it.
 
-      The whole thing is complicated by the fact that this episode contains
-      almost no hard constraints whatsoever, not even an establishing shot
-      that would allow us to place it before or after the existence of the
-      Friendship Castle. The visuals rule out winter, and suggest it's
-      probably not summer, but that's it. The only hard upper bound is Flutter
-      Brutter, in which a picture of Iron Will turns up.
+      This episode has very few hard constraints, and an exhaustive search was
+      required to find the ones that it *does* have. There isn't even an
+      establishing shot that would allow us to place it before or after the
+      existence of the Friendship Castle. The visuals rule out winter, and
+      suggest it's probably not summer, but that's it. The only hard upper
+      bound is Flutter Brutter, in which a picture of Iron Will turns up.
   2x20:
     title: It's About Time
     link: http://mlp.wikia.com/wiki/It%27s_About_Time
