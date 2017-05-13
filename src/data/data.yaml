@@ -2559,6 +2559,11 @@ episodes:
       Most of this episode happens entirely outside the primary timeline. The
       montage at the end is, apparently, spread over a substantial period of
       time.
+
+      There is one important marker, but unfortunately we don't know when
+      exactly does it change: Starlight's cottage in Our Town gets replaced by
+      a tree at some point. The montage in the end of this episode still
+      contains a cottage, rather than a tree.
   EG1:
     title: Equestria Girls
     link: http://mlp.wikia.com/wiki/Equestria_Girls
@@ -3149,6 +3154,7 @@ episodes:
       - 6x01-02
       - 6x06
       - 6x16
+      - 5x25-26
     comment: |
       Starlight is friends with Trixie already, which places this after No
       Second Prances, and it features Thorax, which places it after The Times
@@ -3171,6 +3177,10 @@ episodes:
 
       If that theory is correct, though, the Mane 5 are getting kidnapped
       while Twilight is playing with Flurry Heart...
+
+      Starlight's cottage in Our Town has been torn down and replaced by a
+      tree at some point, so there's a redundant hard lock against The Cutie
+      Re-Mark.
   7x01:
     title: A Celestial Advice
     link: http://mlp.wikia.com/wiki/Celestial_Advice
@@ -3359,6 +3369,38 @@ episodes:
       While most of the other obvious markers like Starlight or the Friendship
       Castle are missing, Sky Stinger and Vapor Trail turn up in Wonderbolt
       trainee uniforms, requiring this episode to follow Top Bolt.
+  7x08:
+    title: Hard to Say Anything
+    link: http://mlp.wikia.com/wiki/Hard_to_Say_Anything
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 5x25-26
+      - 5x18
+      - 6x01-02
+      - 7x06
+    opt_after:
+      - 6x01-02
+      - 7x06
+    comment: |
+      Most of the episode happens in Our Town and most of the usual major
+      markers are not visible. The blooms in trees and bushes suggest spring,
+      but the season is not defined clearly in spoken lines.
+
+      There is a hard lock against The Cutie Re-Mark, because, even though
+      Starlight is neither present nor is conclusively referred to as a
+      friend, her cottage in Our Town has already been torn down.
+
+      The dialogue between Sweetie Belle and Scootaloo regarding the words
+      "when I was younger" may be interpreted as a reference to the events of
+      Forever Filly, but is far too ambiguous to be a solid hard lock. It is
+      also somewhat unlikely that the picture of Big Mac and Cherilee together
+      would still hang in the CMC Clubhouse as seen in Forever Filly after the
+      events of this episode.
+
+      Big Mac and Sugar Belle are established as special someponies, which
+      should become a solid marker, but probably won't.
 order:
   - SM1-SU
   - 1x01-02
@@ -3514,6 +3556,7 @@ order:
   - 6x08
   - SM3-SP
   - 7x06
+  - 7x08
   - SM4-SU
   - SM4-AU
   - SM4-WI
