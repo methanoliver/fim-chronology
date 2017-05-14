@@ -3401,6 +3401,35 @@ episodes:
 
       Big Mac and Sugar Belle are established as special someponies, which
       should become a solid marker, but probably won't.
+  7x09:
+    title: Honest Apple
+    link: http://mlp.wikia.com/wiki/Honest_Apple
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 5x18
+      - 5x24
+      - 5x14
+      - 6x09
+    opt_after:
+      - 6x09
+    comment: |
+      Apple Bloom has her cutie mark, however, we don't see Twilicorn or
+      Starlight or the Friendship Castle. We do see Photo Finish and Hoity
+      Toity again, but the presence of Apple Bloom's mark makes marking their
+      episodes redundant.
+
+      Pinkie Pie mentions Sassy Saddles as a potential contest judge, which
+      requires Canterlot Boutique to exist.
+
+      Spike mentions Coloratura as a potential contest judge, which he
+      wouldn't do unless Rarity was already acquainted with her, which
+      requires The Mane Attraction to have happened.
+
+      Hoity Toity refers to "Miss Pommel's debut in Manehattan last week."
+      This could have happened both before and after the opening of Rarity's
+      Manehattan boutique, but is more likely to have happened after.
 order:
   - SM1-SU
   - 1x01-02
@@ -3552,6 +3581,7 @@ order:
   - 7x02
   - 7x04
   - 7x07
+  - 7x09
   - SM3-WI
   - 6x08
   - SM3-SP
