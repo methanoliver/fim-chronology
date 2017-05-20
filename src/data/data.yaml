@@ -234,15 +234,30 @@ episodes:
     spring: true
     after:
       - 1x01-02
+      - 1x06
+    opt_after:
+      - 1x06
     before:
       - 3x13
       - 5x18
+      - SM1-AU
     comment: |
       This episode explicitly introduces Zecora. Nobody is friends with her,
       and beside Twilight, nobody even knows zebras exist.
 
-      The CMC, likewise, have yet to form, since Apple Bloom never tries to
-      involve her friends in the events.
+      Rainbow says "Well, *that's* interesting to hear coming from Miss Magic
+      Pants herself." That implies the magnitude of Twilight's skill is magic
+      is already known, which suggests that Boast Busters has already
+      happened, but does not make it definite.
+
+      Zecora comes to town "once a month," resulting in the shutdown of most
+      of the businesses in town. Even assuming Twilight could miss one or two
+      visits, it's extremely unlikely she could miss them for the entire
+      summer, so this episode has to precede the beginning of the first year's
+      autumn.
+
+      The CMC have yet to form, since Apple Bloom never tries to involve her
+      friends in the events.
   1x10:
     title: Swarm of the Century
     link: http://mlp.wikia.com/wiki/Swarm_of_the_Century
@@ -252,10 +267,16 @@ episodes:
     after:
       - 1x01-02
       - 1x09
+    opt_after:
+      - 1x04
     before:
       - 3x13
     comment: |
       Zecora reappears.
+
+      While Twilight's statement "Nopony can herd like Applejack" can be
+      interpreted as a reference to Applebuck Season, this is not definite, as
+      Twilight could have observed Applejack in action at a different time.
 
       The episode ends with major damage to Ponyville, and requires a certain
       time for repairs.
@@ -3430,6 +3451,25 @@ episodes:
       Hoity Toity refers to "Miss Pommel's debut in Manehattan last week."
       This could have happened both before and after the opening of Rarity's
       Manehattan boutique, but is more likely to have happened after.
+  7x10:
+    title: A Royal Problem
+    link: http://mlp.wikia.com/wiki/A_Royal_Problem
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 6x01-02
+      - 6x12
+    comment: |
+      This episode is all about student-era Starlight, and thus has to happen
+      after she became one. This is also a Cutie Map mission, so it must
+      happen after the map was repaired.
+
+      There are, however, no clear hard markers that would allow to date it
+      beyond that, as Starlight never refers to Trixie or Maud, nor anything
+      else that could have placed it more precisely, and my hunch is that it
+      should go *before* [To Where and Back Again](#ep-6x25-26) rather than
+      after.
 order:
   - SM1-SU
   - 1x01-02
@@ -3576,6 +3616,7 @@ order:
   - 7x05
   - SM3-AU
   - 7x03
+  - 7x10
   - 6x25-26
   - 7x01
   - 7x02
