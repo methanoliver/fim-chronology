@@ -3470,6 +3470,37 @@ episodes:
       else that could have placed it more precisely, and my hunch is that it
       should go *before* [To Where and Back Again](#ep-6x25-26) rather than
       after.
+  7x11:
+    title: Not Asking for Trouble
+    link: http://mlp.wikia.com/wiki/Not_Asking_for_Trouble
+    autumn: true
+    summer: true
+    after:
+      - 5x11
+    before:
+      - 6x17
+    opt_before:
+      - 6x17
+    comment: |
+      Since this episode features the yaks, it must occur after Party Pooped,
+      when they reopened the borders.
+
+      Starlight is not in evidence, permitting this episode to be backdated
+      rather far away.
+
+      It's not winter in Ponyville, and Applejack is picking apples, but later
+      on, Rutherford says that yaks will wait until spring. Which implies that
+      it has to be either summer or autumn, not that it helps much. We don't
+      know what season Yaksurbertfest would happen in, and while the
+      association with Oktoberfest might imply autumn, such associations can
+      be deceptive.
+
+      The premise of the episode -- attending a traditional yak holiday to
+      improve the understanding of the yak culture -- and the solution to the
+      problem that Pinkie elects to use makes a lot more sense *(or any
+      sense)* if it precedes the goodwill tour to Yakyakistan that occurs
+      during [Dungeons and Discords,](#ep-6x17) or at least happens more or
+      less during the same timeframe.
 order:
   - SM1-SU
   - 1x01-02
@@ -3576,6 +3607,7 @@ order:
   - 5x09
   - 5x10
   - 5x11
+  - 7x11
   - 5x12
   - 5x13
   - 5x14
