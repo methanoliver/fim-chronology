@@ -29,7 +29,7 @@
         "postcss-flexbugs-fixes": "^3.0.0",
         "postcss-loader": "^2.0.5",
         "raw-loader": "^0.5.1",
-        "riot": "^3.5.0",
+        "riot": "^3.5.1",
         "riot-tag-loader": "^1.0.0",
         "sass-loader": "^6.0.5",
         "scroll-into-view": "^1.8.0",
