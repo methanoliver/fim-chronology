@@ -381,6 +381,9 @@ episodes:
     before:
       - 3x13
       - 5x18
+      - SM1-WI
+    opt_before:
+      - SM1-WI
     comment: |
       The running of the leaves ritual places this at the very end of an
       autumn. In [Tanks for the Memories,](#ep-5x05) we can observe the winter
@@ -390,7 +393,8 @@ episodes:
 
       The start of the first year's autumn is obviously a hard constraint on
       this episode. As far as we can tell, this *is* Twilight's first autumn
-      in Ponyville, though it does not necessarily have to be.
+      in Ponyville, though it does not necessarily have to be, which means a
+      soft constraint against the start of the first winter.
   1x14:
     title: Suited For Success
     link: http://mlp.wikia.com/wiki/Suited_For_Success
