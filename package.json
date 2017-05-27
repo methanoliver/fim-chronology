@@ -45,7 +45,7 @@
     "scripts": {
         "start": "serve-this",
         "build": "webpack",
-        "deploy": "webpack -p && ./build.sh",
+        "deploy": "webpack --define process.env.NODE_ENV=\"production\" && ./build.sh",
         "icons": "icon.font -t woff -p 28 -s src/icons -d src/font"
     },
     "serve-this": {
