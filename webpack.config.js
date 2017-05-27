@@ -5,6 +5,9 @@ var childProcess = require('child_process');
 var dateFormat = require('dateformat');
 var es6_files = /\.(js|jsx|es6)($|\?)/i;
 
+// Workaround, see https://github.com/webpack-contrib/uglifyjs-webpack-plugin/issues/33
+var UglifyJSPlugin = require('uglifyjs-webpack-plugin');
+
 var ExtractTextPlugin = require("extract-text-webpack-plugin");
 
 var extractSass = new ExtractTextPlugin({
@@ -84,7 +87,7 @@ module.exports = {
             append: ""
         }),
 
-        new webpack.optimize.UglifyJsPlugin({
+        new UglifyJSPlugin({
             sourceMap: true
         }),
 
