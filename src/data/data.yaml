@@ -3540,6 +3540,24 @@ episodes:
       during [No Second Prances](#ep-6x06). We do not know when did it move,
       but if it did, and the spa doesn't just have a second location in town,
       this also has to precede that episode.
+  7x13:
+    title: The Perfect Pear
+    link: http://mlp.wikia.com/wiki/The_Perfect_Pear
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 5x18
+    comment: |
+      This episode is highly chronologically disconnected, and mostly consists
+      of flashbacks. However, it makes the more sense the earlier it happens,
+      as the further it is in the future, the more silly the whole mystery of
+      the Apple Parents becomes. The only hard lower bound on this episode so
+      far identified is Apple Bloom's cutie mark.
+
+      This episode introduces Grand Pear, however, it is unlikely he will be a
+      recurring character. Nevertheless, any episodes in which he is mentioned
+      will have to occur afterwards.
 order:
   - SM1-SU
   - 1x01-02
@@ -3654,6 +3672,7 @@ order:
   - 5x16-17
   - 5x18
   - 6x15
+  - 7x13
   - 5x19
   - 5x21
   - 6x17
