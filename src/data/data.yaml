@@ -571,6 +571,9 @@ episodes:
     after:
       - 1x01-02
       - 1x14
+      - 1x10
+    opt_after:
+      - 1x10
     before:
       - 3x13
     comment: |
