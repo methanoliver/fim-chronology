@@ -610,11 +610,18 @@ episodes:
     before:
       - 3x13
       - 5x18
+      - SM1-WI
+    opt_before:
+      - SM1-WI
     comment: |
       Since Owlowiscious is essentially invisible most of the time, his
       introduction could have occurred at more or less any point. But, since
-      the CMC don't seem to know each other too well, this should take place
-      in the first autumn of the series, or at least before the first winter.
+      the CMC don't seem to know each other too well, and in fact don't
+      interact with anyone other than their own Mane 6 members at all, this
+      should take place in the first autumn of the series, or at least before
+      the first winter. This is further supported by Twilight saying "Gosh,
+      it's cold tonight." -- a summer in Equestria shouldn't have cold nights,
+      should it?
   1x25:
     title: Party of One
     link: http://mlp.wikia.com/wiki/Party_of_One
