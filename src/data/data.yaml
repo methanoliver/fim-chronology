@@ -610,9 +610,11 @@ episodes:
     before:
       - 3x13
       - 5x18
+      - 1x19
       - SM1-WI
     opt_before:
       - SM1-WI
+      - 1x19
     comment: |
       Since Owlowiscious is essentially invisible most of the time, his
       introduction could have occurred at more or less any point. But, since
@@ -622,6 +624,12 @@ episodes:
       the first winter. This is further supported by Twilight saying "Gosh,
       it's cold tonight." -- a summer in Equestria shouldn't have cold nights,
       should it?
+
+      In [A Dog And Pony Show](#ep-1x19) Spike, apparently, loses the unique
+      red cart that he is seen using here -- because he never gets an
+      opportunity to bring it back, and when the Mane 6 go home, loaded with
+      looted gems, he does not have it. If that is accepted as a chronology
+      marker, it provides an upper bound on this episode.
   1x25:
     title: Party of One
     link: http://mlp.wikia.com/wiki/Party_of_One
