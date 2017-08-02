@@ -638,8 +638,12 @@ episodes:
       - 1x01-02
       - 1x15
       - SM1-SP
+      - 1x14
     before:
       - 3x13
+      - SM2-SU
+    opt_before:
+      - SM2-SU
     comment: |
       Pinkie's birthday occurs during this episode.
 
@@ -650,11 +654,18 @@ episodes:
       possibly, [Lesson Zero](#ep-2x03) itself, which is a constraint on
       Putting Your Hoof Down.
 
-      Since Twilight knows Gummy, it must follow Feeling Pinkie Keen.
+      Since Twilight knows Gummy, it must follow Feeling Pinkie Keen. No more
+      than a year can pass between this and Feeling Pinkie Keen, since Gummy
+      is turning one year old. This makes it ridiculously difficult, though
+      not impossible, for this episode to occur in any spring other than the
+      spring of the first year.
 
       Spike refers to this being a spring day explicitly, and Rarity refers to
       a "Spring has sprung" party Pinkie hosted previously sometime in recent
       memory, which locks it against the beginning of the first year's spring.
+
+      The Gala dresses can be observed in the Boutique, requiring this episode
+      to follow their introduction.
   1x26:
     title: The Best Night Ever
     link: http://mlp.wikia.com/wiki/The_Best_Night_Ever
