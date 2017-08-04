@@ -709,14 +709,20 @@ episodes:
       - 1x19
       - 1x21
       - 1x23
+      - 1x04
+      - 1x13
     before:
       - 3x13
       - 5x18
     comment: |
-      The CMC don't seem to know each other very well. But, there is a
-      flashback to Winter Wrap Up in this episode, so it must occur
-      afterwards. Friendship reports from Over a Barrel, A Dog and Pony Show,
-      Cutie Mark Chronicles, and Bridle Gossip are cited.
+      The CMC tease each other and come to blows -- they never did anything of
+      the sort since Stare Master, suggesting that it's still relatively early
+      in their friendship, but that is a matter of interpretation.
+
+      Friendship reports from Over a Barrel, A Dog and Pony Show, Cutie Mark
+      Chronicles, and Bridle Gossip are cited, flashbacks from Applebuck
+      Season, Friendship is Magic, Winter Wrap-Up and Fall Weather Friends are
+      shown -- providing us with a wealth of hard markers.
   2x03:
     title: Lesson Zero
     link: http://mlp.wikia.com/wiki/Lesson_Zero
