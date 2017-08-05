@@ -732,14 +732,26 @@ episodes:
     after:
       - 1x01-02
       - 1x12
+    opt_after:
+      - 1x22
     before:
       - 3x13
       - 5x18
     comment: |
       Twilight Sparkle and Spike have been in Ponyville tor a while, and the
-      Mane 5 are upset at the idea that Twilight could be taken away. And
-      they seem to know the princess quite well by now. The CMC are playing
-      together, so this at least follows Call of the Cutie.
+      Mane 5 are upset at the idea that Twilight could be taken away. They
+      also appear to know the princess quite well by now, indicating that [A
+      Bird In The Hoof](#ep-1x22) is probably in the past. The CMC are playing
+      together, so this at least follows Call of the Cutie, but they also
+      tease each other in a manner more consistent with their behavior in
+      [Stare Master](#ep-1x17) and [The Return of
+      Harmony](#ep-2x01-02). Twilight teleports casually throughout the entire
+      second half of this episode.
+
+      At the same time, placing this episode close to its airing order
+      requires reinterpreting many other episodes which contain communications
+      from the Mane 6 to Celestia as retrospective to satisfy other
+      constraints.
 
       My current best theory is that Lesson Zero and a few other episodes are
       part of a package immediately following The Return of Harmony.
