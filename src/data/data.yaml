@@ -816,25 +816,28 @@ episodes:
     summer: true
     after:
       - 1x12
+      - 1x14
+    opt_after:
       - 2x03
     before:
       - 5x18
     comment: |
       Sweetie Belle wouldn't have known Applebloom until Call of the Cutie, so
-      this must occur afterwards. But, not too long afterwards, since Sweetie
-      Belle seems new to living with Rarity in Ponyville.
+      this must occur afterwards.
 
-      This episode contains a friendship report Rarity and Sweetie Belle
-      definitely committed in real time, which sets it after Lesson Zero. As a
-      result, it is not correctly positioned at the moment.
+      A rack containing all the Gala dresses is present in the Boutique,
+      requiring this episode to occur after their creation.
+
+      This episode contains a friendship report by Rarity and Sweetie Belle,
+      which should set it after Lesson Zero -- however, the montage during the
+      report suggests at least a week passed between the Social and the
+      writing of the report itself, and it is possible for it to refer to
+      entirely backdated events.
 
       An integer number of years must pass between this and [Brootherhooves
       Social / Made in Manehattan,](#ep-5x16-17) since the latter two occur
       simultaneously, while Brotherhooves Social depicts another Sisterhooves
       Social event.
-
-      So where do you think this episode should be? Its position is not
-      currently correct.
   2x06:
     title: The Cutie Pox
     link: http://mlp.wikia.com/wiki/The_Cutie_Pox
