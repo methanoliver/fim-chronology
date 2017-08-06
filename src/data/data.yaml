@@ -848,16 +848,23 @@ episodes:
       - 1x01-02
       - 1x09
       - 2x03
+      - 1x18
+    opt_after:
+      - 1x18
     before:
       - 3x13
       - 5x18
     comment: |
-      The CMC have been trying for a while to get their Cutie Marks, so it's
-      probably a while after Call Of The Cutie. Since Scootaloo is shown to be
-      skilled at riding her scooter, this is after Show Stoppers.
+      The CMC have been trying for a while to get their cutie marks and have
+      developed the practice of crusading, they tend to avoid teasing each
+      other despite ample opportunity.
+
+      Scootaloo is shown to be skilled at riding her scooter, which suggests
+      this takes place after Show Stoppers.
 
       Apple Bloom dictates a letter to Princess Celestia at Twilight's
-      request, setting this strictly after Lesson Zero.
+      request, immediately after the events, with no cuts, setting this
+      strictly after Lesson Zero.
   2x07:
     title: May the Best Pet Win!
     link: http://mlp.wikia.com/wiki/May_the_Best_Pet_Win!
