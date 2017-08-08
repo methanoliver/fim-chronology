@@ -938,13 +938,18 @@ episodes:
     before:
       - 2x25-26
       - 3x13
+      - 1x26
+      - 5x07
+    opt_before:
+      - 1x26
+      - 5x07
     comment: |
       Twilight's birthday occurs during this episode.
 
-      Rarity's career is a little more successful, so this must be after
-      Suited For Success, and Green Isn't Your Color, which can only happen
-      after Suited for Success, but needs to have happened immediately
-      afterwards.
+      Rarity is caught in her Gala dress, which means that both Suited for
+      Success and Green Isn't Your Color, which can only happen after Suited
+      for Success, and needs to have happened immediately afterwards, must
+      have occurred prior.
 
       At the same time it needs to be before [The Best Night Ever,](#ep-1x26)
       because Twilight thinks Rarity is going to sell dresses for the Gala and
