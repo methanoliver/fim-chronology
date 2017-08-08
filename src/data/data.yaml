@@ -1024,7 +1024,10 @@ episodes:
       episode earlier.
 
       Due to the large amount of destruction Spike inflicted, this episode
-      implies a certain gap afterwards required to rebuild Ponyville.
+      implies a certain gap afterwards required to rebuild Ponyville. Notably,
+      the destruction pattern observed in the restoration work seen during The
+      Last Roundup appears to be closer to the one Spike inflicted here,
+      rather than to the effects of the Swarm of the Century.
 
       The CMC appear and Scootaloo sports a scooter, which gives us [The Show
       Stoppers](#ep-1x18) as a soft lower bound and Call of the Cutie as the
@@ -1106,6 +1109,7 @@ episodes:
     spring: true
     after:
       - 1x01-02
+      - 2x10
     before:
       - 3x13
       - 5x18
@@ -1117,7 +1121,8 @@ episodes:
       The ponies seem to be rebuilding Ponyville, so it is likely to occur
       immediately after [Swarm of the Century](#ep-1x10) or [Secret of My
       Excess,](#ep-2x10) but neither is a hard bound, because we don't know
-      *which* it is.
+      *which* it is. At the same time, the damage to the town hall seen
+      resembles the one seen during Secret of My Excess more.
 
       This does contradict Amy Keating Rogers' rebuttal regarding Derpy, but
       eh, I think that's her problem.
