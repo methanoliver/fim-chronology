@@ -1226,9 +1226,16 @@ episodes:
       Pinkie Pie is babysitting the Cake twins and Rainbow is reading Daring
       Do.
 
+      Pinkie is exercising in the twins' room, watched by the Baby Cakes.
+
       This episode introduces Cranky Doodle, and since this is the episode
-      during which he moves into Ponyville, all episodes featuring him must
-      follow.
+      during which he moves into Ponyville, all episodes featuring him within
+      Ponyville must follow.
+
+      One particular chronology problem this episode introduces is Pinkie's
+      statement that her birthday is in 75 days. Since [Pinkie's birthday is
+      in spring,](#ep-1x25) this would put this episode smack in the middle of
+      a winter, which is not in evidence.
   2x19:
     title: Putting Your Hoof Down
     link: http://mlp.wikia.com/wiki/Putting_Your_Hoof_Down
@@ -1272,19 +1279,29 @@ episodes:
     opt_after:
       - SM1-SP
     before:
+      - 2x25-26
       - 3x13
       - 5x18
     comment: |
-      Spike comments that "we forgot to celebrate Arbor Day." We do not know
-      when ponies could possibly have such a holiday, and this phrase is the
-      only evidence of its existence. However, an "arbor day" is unambiguously
-      a day when individuals are encouraged to plant a tree, which would only
-      happen when planting a tree is a good idea. With earth pony magic, the
-      time stretch for an arbor day could conceivably be extended, but
-      Twilight is not an earth pony. This episode should not, therefore,
-      happen earlier than the first spring of the series, and should be
-      relatively early into it. Months later into a summer or an autumn, Spike
-      would have forgotten about the Arbor Day himself.
+      Spike comments that "we forgot to celebrate Arbor Day" when shown a
+      calendar, which indicates that either today or tomorrow is the 4th of an
+      unknown month. We do not know when ponies could possibly have such a
+      holiday, and this phrase is the only evidence of its existence. However,
+      an "arbor day" is unambiguously a day when individuals are encouraged to
+      plant a tree, which would only happen when planting a tree is a good
+      idea. With earth pony magic, the time stretch for an arbor day could
+      conceivably be extended, but Twilight is not an earth pony. This episode
+      should not, therefore, happen earlier than the first spring of the
+      series, and should be relatively early into it -- especially considering
+      that it starts on a 3rd or 4th of a certain undetermined month. Months
+      later into a summer or an autumn, Spike would have forgotten about the
+      Arbor Day himself.
+
+      Twilight insists that the Future Twilight is "not scientifically
+      possible," which she would never do if she knew that changelings
+      exist. We don't know when she learned that, but at least, after [A
+      Canterlot Weddng](#ep-2x25-26) it would be impossible for her to stay
+      ignorant of that.
 
       Twilight Sparkle's behavior is similar to that in [Lesson
       Zero,](#ep-2x03) so they could have been parts of the same chain of
@@ -1300,9 +1317,12 @@ episodes:
     spring: true
     after:
       - 1x01-02
-    opt_after:
       - 2x03
+      - 2x15
+    opt_after:
+      - 2x15
     before:
+      - 2x18
       - 3x13
     comment: |
       The dragons are migrating. While there could be other reasons for dragon
@@ -1310,11 +1330,18 @@ episodes:
       that, because it happens once per generation, anyway, and we don't even
       know *whose* generation.
 
-      Spike finishes this episode by writing a letter to Princess
-      Celestia. However, we cannot be certain that this happened as a result
-      of the program established in [Lesson Zero,](#ep-2x03) because during
-      the episode he also *receives* a personal letter from Princess Celestia,
-      making this a soft, rather than hard constraint.
+      One leg of Spike's journey is performed on a raft driven by the very
+      obvious Cranky Doodle -- who is wearing the toupee that got destroyed in
+      [**A Friend in Deed**](#ep-2x18).
+
+      Spike finishes this episode by writing a [Lesson Zero](#ep-2x03)-pattern
+      letter to Princess Celestia. Since this is also the moment the phoenix
+      egg hatches, and all the other eggs in the nest hatched while Spike has
+      still been there, it implies that the events of the episode were still
+      very recent. A photographs unambiguously referring to the events of
+      [Luna Eclipsed](#ep-2x03) is seen shortly after, and a photograph that
+      might, but does not have to, refer to the events of [Super Speedy Cider
+      Squeezy 6000](#ep-2x15) follows.
   2x22:
     title: Hurricane Fluttershy
     link: http://mlp.wikia.com/wiki/Hurricane_Fluttershy
