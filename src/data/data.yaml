@@ -1378,6 +1378,8 @@ episodes:
     spring: true
     after:
       - 1x01-02
+      - 1x18
+      - 2x03
       - 2x13
       - SM1-AU
     before:
@@ -1388,7 +1390,10 @@ episodes:
     comment: |
       The school is in session, and the school year appears to have started
       relatively recently, so it is likely to be happening in the early
-      autumn. The Cake Twins show up.
+      autumn. The Cake Twins show up, and so does the CMC clubhouse.
+
+      A photo of Big Mac with Smartypants appears in one of the Gabby Gums
+      publications, requiring this episode to happen after Lesson Zero.
   2x24:
     title: MMMystery on the Friendship Express
     link: http://mlp.wikia.com/wiki/MMMystery_on_the_Friendship_Express
@@ -1465,6 +1470,7 @@ episodes:
     opt_after:
       - 2x09
     before:
+      - 3x13
       - 5x18
     comment: |
       Twilight is doing a hard spell, which could be a step up in her
@@ -3635,10 +3641,6 @@ episodes:
       - 5x07
     opt_after:
       - 5x07
-    before:
-      - 6x06
-    opt_before:
-      - 6x06
     comment: |
       This episode is highly chronologically disconnected. None of the usual
       markers appear, and it can conceivably occur at any time after [Keep
@@ -3646,11 +3648,6 @@ episodes:
       progression reasons, it probably occurs after [Make New Friends But Keep
       Discord,](#ep-5x07).
 
-      In one of the frames, Discord passes by the spa building, which, at the
-      time, is located in central Ponyville. This is not where it is found
-      during [No Second Prances](#ep-6x06). We do not know when did it move,
-      but if it did, and the spa doesn't just have a second location in town,
-      this also has to precede that episode.
   7x13:
     title: The Perfect Pear
     link: http://mlp.wikia.com/wiki/The_Perfect_Pear
