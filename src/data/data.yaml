@@ -3666,6 +3666,81 @@ episodes:
       This episode introduces Grand Pear, however, it is unlikely he will be a
       recurring character. Nevertheless, any episodes in which he is mentioned
       will have to occur afterwards.
+
+  7x14:
+    title: Fame and Misfortune
+    link: http://mlp.wikia.com/wiki/Fame_and_Misfortune
+    summer: true
+    spring: true
+    after:
+      - 6x01-02
+    comment: |
+      We could cite a lot of redundant markers here, since multiple Season 4
+      events are referenced by the *Journal of Friendship* indirectly,
+      however, the presence of Starlight in the Friendship Castle results in
+      just one hard lower bound identified so far -- The Crystalling.
+
+      Apple Bloom references the as of yet unaired episode Marks and
+      Recreation as happening in a reasonably near future, which introduces an
+      implicit seasonal position for this episode -- it can only happen in a
+      spring or summer of the same year that Marks and Recreation will be
+      dated to.
+
+  7x15:
+    title: Triple Threat
+    link: http://mlp.wikia.com/wiki/Triple_Threat
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 6x05
+      - 7x01
+      - 7x11
+    opt_after:
+      - 7x11
+    comment: |
+      Featuring the newtype Thorax, this episode needs to happen after Thorax
+      has acquired this state -- and since it would be quite silly for the
+      events described here to happen before A Celestial Advice, which
+      happens immediately afterwards, the hard lock is against that, instead
+      of To Where and Back Again.
+
+      Ember likewise introduces a hard lock against Gauntlet of Fire, which
+      is probably redundant.
+
+      The use of the "Official Friendship Ambassador" title for Spike
+      introduces a soft lock against Not Asking For Trouble, which is where,
+      as far as we're aware, the idea of such a post is first coined.
+
+      Thorax references the as of yet unaired episode To Change a Changeling,
+      which will require it to happen later.
+
+  7x16:
+    title: Campfire Tales
+    link: http://mlp.wikia.com/wiki/Campfire Tales
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 5x18
+      - 3x06
+    comment: |
+      This episode is primarily devoted to stories which have no direct
+      relevance to current events, but it is, nevertheless, dated pretty
+      strictly: It is an *annual* camping trip, the tradition of which was
+      started in Sleepless in Ponyville. That episode is referenced quite
+      explicitly, producing an anniversary lock between seasons 3 and 7.
+
+      The spoken lines leave some room for interpretation, but they rather
+      heavy-handedly imply that this is the *first* such trip since Sleepless
+      in Ponyville that the entire six-sister team attends. If you don't
+      accept that, you have to accept that torturing Scootaloo with scary
+      stories is a multi-year tradition, so pick whichever option you hate the
+      least.
+
+      At the same time, since both of these episodes do not have a lot of hard
+      dependencies so far, this is not as constraining as it could be.
+
 order:
   - SM1-SU
   - 1x01-02
@@ -3822,6 +3897,9 @@ order:
   - 7x04
   - 7x07
   - 7x09
+  - 7x14
+  - 7x15
+  - 7x16
   - SM3-WI
   - 6x08
   - SM3-SP
