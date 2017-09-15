@@ -1465,20 +1465,37 @@ episodes:
     spring: true
     after:
       - 1x01-02
-      - 2x07
       - 2x16
+      - 2x09
     opt_after:
       - 2x09
     before:
       - 3x13
       - 5x18
+    opt_before:
+      - 2x18
     comment: |
-      Twilight is doing a hard spell, which could be a step up in her
-      studies. Rainbow Dash is reading Daring Do. Tank briefly shows up. Fancy
-      Pants appears briefly in the background, and unless he's just visiting
-      for a brief weekend in nature, he would be having some dealings with
-      Rarity, and that would mean this needs to be set after [Sweet and
+      One of the activities Pinkie wishes to participate in this episode is
+      swimming, and Rainbow Dash is sunbathing, which you probably wouldn't do
+      unless it's late spring or summer.
+
+      Twilight has not had success with transformation magic that would turn
+      an apple into an orange before, but this offers us very little.
+
+      Rainbow Dash is reading Daring Do, and notably, she's still reading the
+      first book, which implies that Read It And Weep hasn't happened very
+      long ago. While a tortoise briefly shows up, we don't have enough
+      information to unambiguously identify it as Tank.
+
+      Fancy Pants appears briefly in the background, and unless he's just
+      visiting for a brief weekend in nature, he would be having some dealings
+      with Rarity, and that would mean this needs to be set after [Sweet and
       Elite](#ep-2x09).
+
+      Applejack is raising a barn. This is the only time when we see a side
+      wall of the barn being raised not painted beforehand, which suggests
+      this is the barn Applejack is painting during the Smile Song montage in
+      A Friend In Deed.
   3x04:
     title: One Bad Apple
     link: http://mlp.wikia.com/wiki/One_Bad_Apple
