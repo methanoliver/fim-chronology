@@ -1469,15 +1469,16 @@ episodes:
       - 2x09
     opt_after:
       - 2x09
+      - 2x03
     before:
       - 3x13
       - 5x18
     opt_before:
       - 2x18
     comment: |
-      One of the activities Pinkie wishes to participate in this episode is
-      swimming, and Rainbow Dash is sunbathing, which you probably wouldn't do
-      unless it's late spring or summer.
+      One of the activities Pinkie wishes to participate in during this
+      episode is swimming, and Rainbow Dash is sunbathing, which you probably
+      wouldn't do unless it's late spring or summer.
 
       Twilight has not had success with transformation magic that would turn
       an apple into an orange before, but this offers us very little.
@@ -1496,6 +1497,10 @@ episodes:
       wall of the barn being raised not painted beforehand, which suggests
       this is the barn Applejack is painting during the Smile Song montage in
       A Friend In Deed.
+
+      While Pinkie ends the episode with a Lesson Zero pattern letter to
+      Celestia, it cannot be definitely thought to be taking place immediately
+      after the events depicted, so this is a soft, rather than a hard bound.
   3x04:
     title: One Bad Apple
     link: http://mlp.wikia.com/wiki/One_Bad_Apple
