@@ -1511,9 +1511,12 @@ episodes:
       - 3x13
       - 5x18
     comment: |
-      Applebloom mentions that the Summer Harvest Parade is coming up, so this
-      episode must occur in summer. This also ls probably the last episode for
-      the first summer of the series.
+      Applebloom mentions that the Summer Harvest Parade is coming up, and it
+      happens in the conclusion of the episode, so this episode must occur in
+      summer. This probably is the last episode for that summer -- and
+      probably, this should be the first summer of the series. Since the
+      adults play essentially no part in this episode, other episodes might
+      occupy the same time period.
   3x05:
     title: Magic Duel
     link: http://mlp.wikia.com/wiki/Magic_Duel
@@ -1525,12 +1528,24 @@ episodes:
       - 1x06
       - 1x09
       - 1x24
+      - 1x11
+      - 2x13
     before:
       - 3x13
       - 5x18
     comment: |
-      We see Trixie again. It’s appears that Trixie has been away for a long
-      time.
+      We see Trixie again. It appears that Trixie has been away for a long
+      time. Notice that this might not be the first time Trixie returned to
+      Ponyville -- her flashback presents us with a defaced wagon that she had
+      to have had replaced, and known Ponyville ponies laughing at her --
+      however, the veracity of this flashback is in question and nopony
+      corroborates this statement.
+
+      Spike mentions the events of Winter Wrap-Up.
+
+      Zecora, Pumpkin Cake and Owlowiscious appear, requiring their
+      introductory episodes to happen earlier.
+
   3x06:
     title: Sleepless in Ponyville
     link: http://mlp.wikia.com/wiki/Sleepless_in_Ponyville
