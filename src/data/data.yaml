@@ -3733,6 +3733,8 @@ episodes:
       - 6x05
       - 7x01
       - 7x11
+    before:
+      - 7x17
     opt_after:
       - 7x11
     comment: |
@@ -3749,8 +3751,7 @@ episodes:
       introduces a soft lock against Not Asking For Trouble, which is where,
       as far as we're aware, the idea of such a post is first coined.
 
-      Thorax references the as of yet unaired episode To Change a Changeling,
-      which will require it to happen later.
+      Thorax references To Change a Changeling as an upcoming event.
 
   7x16:
     title: Campfire Tales
@@ -3823,6 +3824,38 @@ episodes:
 
       Other remarks, like the mention of the parasprite infestation in
       Fillydelphia, suggest it could be a very early episode.
+
+  7x19:
+    title: It Isn't the Mane Thing About You
+    link: http://mlp.wikia.com/wiki/It_Isn%27t_the_Mane_Thing_About_You
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 6x01-02
+      - 7x08
+      - 7x13
+      - 2x13
+    comment: |
+      The usual markers for the Starlight-Student period are present --
+      Twilicorn, Starlight, Friendship Castle are in evidence.
+
+      In the background, we see Apple Bloom chatting with Burnt Oak, and
+      Granny Smith is hanging out with Grand Pear, setting this after the
+      Apple Parents reveal.
+
+      Big Mac can be seen hanging out with Sugar Belle in one of the shots,
+      requiring this relationship to already be a thing.
+
+      During this episode, Pinkie Pie celebrates "an anniversary of the first
+      sneeze" of the Cake Twins. This should not be far behind their actual
+      birthdays, requiring this episode to be located between 11 and 23 months
+      away from Baby Cakes.
+
+      As a result of this episode, Rarity spends at least a month, and
+      possibly longer, sporting the punk look, which would require any episode
+      showing her usual hairstyle to happen after the conclusion of this
+      period.
 
 order:
   - SM1-SU
@@ -3990,6 +4023,7 @@ order:
   - SM3-SP
   - 7x06
   - 7x08
+  - 7x19
   - SM4-SU
   - SM4-AU
   - SM4-WI
