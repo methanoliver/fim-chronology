@@ -1554,13 +1554,23 @@ episodes:
     spring: true
     after:
       - 1x18
+      - 1x16
+    opt_after:
+      - 2x05
     before:
       - 5x18
     comment: |
-      CMC clubhouse shows up. It's possibly not long after that episode,
-      because Sweetie Belle can’t sing too well in front of other ponies. And
-      since the CMC and their sisters/ideals are camping, this could be in the
-      summer.
+      CMC clubhouse shows up, giving us a hard lock.
+
+      Camping like that would most likely be a summer activity, however, there
+      is no clear indication of a season in this episode, and the nights do
+      get cold.
+
+      The manipulative way Sweetie Belle pressures Rarity to go suggests, but
+      does not require, that Sisterhoves Social happened relatively recently.
+
+      Scootaloo directly refers to the events of Sonic Rainboom.
+
   3x07:
     title: Wonderbolts Academy
     link: http://mlp.wikia.com/wiki/Wonderbolts_Academy
