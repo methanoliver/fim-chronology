@@ -1585,9 +1585,20 @@ episodes:
     before:
       - 3x13
     comment: |
-      Rainbow Dash has learned her lesson from Mare Do Well and has apparently
-      already met the Wonderbolts before, because the signs of fangirl
-      reaction are substantially reduced.
+
+      The use of sunglasses by Rarity and the parasol employed by Twilight
+      imply summer, but there are no definite statements regarding season.
+
+      Rainbow Dash has clearly already met the Wonderbolts before, because the
+      signs of fangirl reaction are pretty much nonexistent. Every episode
+      where she is swooning at the opportunity to *just* see the Wonderbolts
+      has to precede this one for that reason.
+
+      If The Mysterious Mare Do Well is not invalidated by timeline
+      shenanigans, it likewise needs to precede this episode, because the
+      lesson Rainbow received during her stint as superhero is entirely about
+      the change in attitude she demonstrates here.
+
   3x08:
     title: Apple Family Reunion
     link: http://mlp.wikia.com/wiki/Apple_Family_Reunion
@@ -1600,13 +1611,20 @@ episodes:
     before:
       - 5x18
     comment: |
-      Because we see Babs Seed again, this must be after One Bad Apple. She
-      talks about her new school, so this is probably in early autumn --
-      assuming ponies have a similar school year to most modern Western
-      countries.
+      Babs Seed reappears, requiring One Bad Apple to precede.
+
+      Babs Seed mentions a new school, which would otherwise hint at a
+      seasonal position of the episode -- but in this case doesn't, because
+      it's quite likely that Babs changed schools due to bullying reported
+      during her introduction.
 
       Applejack is shown writing a Lesson Zero-pattern letter to Princess
       Celestia, setting this after Lesson Zero.
+
+      The involvement of the rest of the Mane 6 in this episode is very
+      peripheral, so this episode can coincide with any episode that leaves
+      the Apple Trio uninvolved, and seeing as is has relatively few upper
+      bounds, it can and probably should be forward dated.
   3x09:
     title: Spike at Your Service
     link: http://mlp.wikia.com/wiki/Spike_at_Your_Service
@@ -2303,8 +2321,8 @@ episodes:
     comment: |
       While Twilight or the castle don't make an appearance, she is referred
       to as a princess. The CMC clubhouse shows up. Babs Seed sends a letter
-      reporting that she got a cutie mark, but that doesn't give us much,
-      since she only has a few appearances.
+      reporting that she got a cutie mark, which means that her last
+      appearance without one must precede.
   5x05:
     title: Tanks for the Memories
     link: http://mlp.wikia.com/wiki/Tanks_for_the_Memories
