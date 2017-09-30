@@ -3908,6 +3908,38 @@ episodes:
       episodes. It occupies these four for anywhere between three days and,
       presumably, a week.
 
+  7x21:
+    title: Marks and Recreation
+    link: http://mlp.wikia.com/wiki/Marks_and_Recreation
+    summer: true
+    after:
+      - 3x07
+      - 7x14
+      - 6x07
+      - 5x24
+    opt_after:
+      - 6x07
+      - 5x24
+    comment: |
+      The cold open part of this episode explicitly precedes Fame and
+      Misfortune, since that is when the CMC get the idea to have this camp,
+      however, the rest of the episode explicitly follows it, since Apple
+      Bloom refers to it as an upcoming event therein. This reference also
+      rigidly times this episode to a summer. For the purposes of this
+      chronology, the cold open is not part of the episode proper.
+
+      Thunderlane is revealed as a Wonderbolt, when the last time we heard of
+      him in relation to the Wonderbolts, he was a reservist. It appears quite
+      unlikely that he became one before Rainbow Dash did, which would require
+      this episode to follow Newbie Dash, but is not a hard lock. Wonderbolts
+      Academy, however, is one, though it is redundant.
+
+      The location for this day camp is "Camp Friendship," explicitly the one
+      where Applejack met Coloratura, but while this implies that it's
+      probable that this episode follows the Mane Attraction, since that would
+      bring the location to Apple Bloom's attention, it is likewise, not a
+      hard lock.
+
 order:
   - SM1-SU
   - 1x01-02
@@ -4066,6 +4098,7 @@ order:
   - 7x07
   - 7x09
   - 7x14
+  - 7x21
   - 7x15
   - 7x16
   - 7x17
