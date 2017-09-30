@@ -3885,6 +3885,28 @@ episodes:
       showing her usual hairstyle to happen after the conclusion of this
       period.
 
+  7x20:
+    title: A Health of Information
+    link: http://mlp.wikia.com/wiki/A_Health_of_Information
+    autumn: true
+    summer: true
+    spring: true
+    after:
+      - 6x01-02
+      - 7x05
+    comment: |
+      The usual markers for the Starlight-Student period are present --
+      Twilicorn and Friendship Castle are in evidence. Starlight herself,
+      however, is notably absent, even though we are certain she is already a
+      student: Fluttershy references the Sweet Feather Sanctuary she has
+      created in Fluttershy Leans In, while Starlight participated in its
+      construction.
+
+      This episode does not feature any major characters other than Twilight,
+      Fluttershy, Zecora and Spike, and can coincide with several other
+      episodes. It occupies these four for anywhere between three days and,
+      presumably, a week.
+
 order:
   - SM1-SU
   - 1x01-02
@@ -4032,6 +4054,7 @@ order:
   - EG4
   - SM3-SU
   - 7x05
+  - 7x20
   - SM3-AU
   - 7x03
   - 7x10
