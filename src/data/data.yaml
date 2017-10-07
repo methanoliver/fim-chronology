@@ -3940,6 +3940,28 @@ episodes:
       bring the location to Apple Bloom's attention, it is likewise, not a
       hard lock.
 
+  7x22:
+    title: Once Upon a Zeppelin
+    link: http://mlp.wikia.com/wiki/Once_Upon_a_Zeppelin
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 6x01-02
+      - 2x19
+    opt_after:
+      - 7x03
+    comment: |
+      This episode lacks most markers, except the existence of Flurry Heart,
+      and has no clear references to recent past events otherwise. Though it
+      does put an unexpected upper limit on Putting Your Hoof Down, due to the
+      reappearance of Iron Will, this limit is not very useful even if it
+      isn't actually redundant.
+
+      While Flurry's general level of development appears to match the one
+      seen in A Flurry of Emotions, we can't conclusively say if it happens
+      before or after.
+
 order:
   - SM1-SU
   - 1x01-02
@@ -4090,6 +4112,7 @@ order:
   - 7x20
   - SM3-AU
   - 7x03
+  - 7x22
   - 7x10
   - 6x25-26
   - 7x01
