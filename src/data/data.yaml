@@ -3962,6 +3962,49 @@ episodes:
       seen in A Flurry of Emotions, we can't conclusively say if it happens
       before or after.
 
+  7x23:
+    title: Secrets and Pies
+    link: http://mlp.wikia.com/wiki/Secrets_and_Pies
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 4x12
+      - 6x01-02
+      - 6x07
+      - 6x24
+      - SM3-SU
+    opt_after:
+      - SM3-SU
+    comment: |
+      Friendship Castle is in evidence, but Starlight is not, and the CMC do
+      not appear. Rarity, likewise, does not appear, which makes it possible
+      for this episode to occur within the Punk Rarity period.
+
+      Rainbow Dash is a Wonderbolt, and the episode starts with Pinkie
+      celebrating her 73rd training session. We don't know how often do the
+      Wonderbolts have training sessions, but later statements in the episode
+      imply it's definitely not more often than six times per week. A more
+      reasonable guess seems to be three training sessions per week, in which
+      case, this episode is six months away from Newbie Dash. Other statements
+      within the episode imply at least three months.
+
+      Vapor Trail and Sky Stinger appear in trainee outfits, requiring Top
+      Bolt to have happened prior.
+
+      During the episode, Pinkie refers to a pie she made for Rainbow's
+      birthday. Flashback shows a party with the banner that was made for her
+      birthiversary in Pinkie Pride, and a tank which looks *suspiciously*
+      like Cheese Sandwich's party tank. If this is the same tank, this would
+      require this episode to be no more than a year away from Pinkie
+      Pride. However, Cheese Sandwich's tank had tracks, while the one
+      depicted in this flashback has wheels. As such, it's inconclusive.
+
+      Cheerilee refers to pies Rainbow keeps donating to the school on her
+      half-birthday, "for years." Since we know that Pinkie and Rainbow were
+      not friends before Summer 1, it implies that at least three years have
+      passed since Summer 1.
+
 order:
   - SM1-SU
   - 1x01-02
@@ -4108,6 +4151,7 @@ order:
   - 6x24
   - EG4
   - SM3-SU
+  - 7x23
   - 7x05
   - 7x20
   - SM3-AU
