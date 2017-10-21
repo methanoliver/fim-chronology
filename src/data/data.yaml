@@ -1633,6 +1633,7 @@ episodes:
     spring: true
     after:
       - 1x01-02
+      - 1x17
       - 2x16
       - 3x07
     opt_after:
@@ -1641,6 +1642,12 @@ episodes:
       - 3x13
       - 5x18
     comment: |
+      Apple Bloom wants to attend a Crusaders meeting, and plans to
+      participate in water skiing as part of it, which limits this episode to
+      summer, late spring or early autumn. Unfortunately, the only hard lock
+      it gets us is Stare Master, when the practice of crusading by trying
+      random activities definitely does not yet exist.
+
       Rainbow Dash is writing a story about a pony becoming a captain of the
       Wonderbolts, which can't happen before Read it and Weep, and is unlikely
       to happen before [Wonderbolts Academy,](#ep-3x07) since it represents a
