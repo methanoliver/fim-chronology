@@ -4006,6 +4006,68 @@ episodes:
       not friends before Summer 1, it implies that at least three years have
       passed since Summer 1.
 
+  7x24-26:
+    title: Uncommon Bond / Shadow Play
+    link: http://mlp.wikia.com/wiki/Uncommon_Bond
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 6x01-02
+      - 6x05
+      - 6x06
+      - 7x02
+      - 7x04
+      - 7x16
+      - 7x20
+      - 7x18
+      - 6x19
+      - 7x15
+    opt_after:
+      - 7x15
+    opt_before:
+      - 7x14
+    comment: |
+      Due to the fact that the episodes directly flow into each other --
+      Shadow Play explicitly starts the moment Sunburst gets a chance to
+      return from the Crystal Empire with the book he found in the blind buy
+      barrel in Ponyville in the end of Uncommon Bond -- it is best to treat
+      this block chronologically as a three-part episode. While a gap of about
+      a day *is* possible, it's highly unlikely an episode can squeeze in it.
+
+      Typical markers for Starlight-student era are present.
+
+      Trixie is Starlight's friend, and already knows the spell to turn
+      objects into teacups, which requires All Bottled Up to have happened.
+
+      Maud reappears as a denizen of a Ponyville-adjacent cave, so Rock Solid
+      Friendship happened already.
+
+      Ember is mentioned as the ruling Dragon Lord. Spike refers to himself as
+      the official friendship ambassador to the dragons, omitting the
+      qualifier "new" that he used during Triple Threat, which implies that
+      Triple Threat precedes this episode, but is not a hard lock.
+
+      Campfire Tales would make precious little sense following this episode,
+      after the Mane 6 have met the heroes they were telling stories about.
+
+      A Health of Information is referenced directly, as Fluttershy knows
+      where to obtain Meadowbrook's mask. Likewise, Pinkie knows where to look
+      for Somnambula's blindfold, because she's been there during Daring Done.
+
+      Petunia Paleo reappears as an apprentice archaeologist, requiring the
+      episode where the nature of her cutie mark is discerned to precede.
+
+      Pinkie Pie demonstrates the dirty original Friendship Journal instead of
+      her clean copy made in Fame and Misfortune, suggesting that this
+      three-parter might actually precede the publication of the journal.
+
+      Judging by Starlight's anxiety to meet Sunburst, a substantial time has
+      to have passed since their last meeting.
+
+      Rarity sports her regular mane, which requires this episode to avoid the
+      multiple-month gap within [It Isn't the Mane Thing About You](#ep-7x19).
+
 order:
   - SM1-SU
   - 1x01-02
@@ -4177,6 +4239,7 @@ order:
   - 7x06
   - 7x08
   - 7x19
+  - 7x24-26
   - SM4-SU
   - SM4-AU
   - SM4-WI
