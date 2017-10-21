@@ -2814,19 +2814,20 @@ episodes:
     spring: true
     after:
       - EG1
-      - 5x01-02
+      - 4x25-26
     before:
       - EG3
+      - 5x01-02
     comment: |
       We have no clear information regarding the relative passage of time
       between the two worlds, but it's definitely not winter in Equestria,
       probably summer.
 
-      Friendship Castle is in evidence, but we have no clear shot of the roots
-      in the throne room, so we can't be certain if this happens after Castle
-      Sweet Castle or before, but the Mane 6 are making a show of adjusting to
-      their new throne room, so it has to be soonish after they first set hoof
-      in it.
+      Friendship Castle is in evidence. More importantly, the throne room does
+      not have the Cutie Map in it. There is only one period in primary canon
+      that can fit the throne room in this state -- between cuts in **The Cutie
+      Map** cold open, after the Mane 6 have entered the castle for the first
+      time, and before the Map actually appeared.
   EG3:
     title: "Equestria Girls: Friendship Games"
     link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Friendship_Games
@@ -4097,9 +4098,9 @@ order:
   - 4x24
   - 4x23
   - 4x25-26
+  - EG2
   - 5x01-02
   - 5x03
-  - EG2
   - 5x04
   - 5x05
   - SM2-WI
