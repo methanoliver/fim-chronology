@@ -2788,28 +2788,25 @@ episodes:
   EG1:
     title: Equestria Girls
     link: http://mlp.wikia.com/wiki/Equestria_Girls
-    autumn: true
     summer: true
     spring: true
     after:
       - 3x13
     before:
       - EG2
-      - 4x11
-      - 4x24
-      - 4x25-26
-      - 5x09
+      - 4x01-02
     comment: |
-      The parts of the movie that actually do happen in Equestria occur in
-      Crystal Empire, and there's no sign of snow on the horizon, at least
-      excluding winter for good. Twilight is already a princess, but this is
-      her first "princess summit," and she explicitly isn't accustomed to her
-      new wings yet.
+      Twilight is already a princess, but this is her first "princess summit,"
+      and she explicitly isn't accustomed to her new wings yet.
 
       Cadance hasn't seen Twilight since her coronation, which requires this
       to happen prior to every other instance of Cadance meeting a winged
-      Twilight, which gets progressively more redundant after Twilight's
-      Kingdom.
+      Twilight. However, this is entirely redundant: The events of the movie
+      require Twilight's crown to contain the actual Element of Magic, rather
+      than any possible imitation. Since the very first episode of Season 4
+      ends with returning it to the Tree of Harmony, the movie can only happen
+      in the narrow period between the two show seasons, and has to happen
+      either in late spring or early summer.
 
       The events of the movie are condensed into at most five days.
   EG2:
@@ -4140,8 +4137,8 @@ order:
   - 3x10
   - 3x11-12
   - 3x13
-  - EG1
   - SM2-SU
+  - EG1
   - 4x01-02
   - 4x03
   - 4x04
