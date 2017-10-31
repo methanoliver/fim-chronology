@@ -1787,6 +1787,8 @@ episodes:
       - 2x16
       - 3x13
       - 4x03
+    opt_after:
+      - 4x03
     comment: |
       This episode centers on Daring Do and results in a Journal entry written
       at some point after conclusion. However, it is not written
@@ -1796,6 +1798,15 @@ episodes:
       and 26 days -- and then got delayed by two more months. We don't know how
       long it took for Daring Do to complete the book and write Rainbow Dash
       in, but I would say a month is reasonable.
+
+      As such, the body of the episode does not actually have to follow Castle
+      Mane-ia, and in fact can occur, for example, in the hypothetical gap
+      when Twilight already has wings, and is not yet crowned, during the
+      ending of Magical Mystery Cure, which can exist. This would explain why
+      she does not want to get involved in helping Daring Do and why nobody
+      recognizes her as a princess -- she never draws attention to her wings,
+      never flies, and if she is not crowned yet, her status is not a matter
+      of national news.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       were no Journal records between this episode and [Castle
