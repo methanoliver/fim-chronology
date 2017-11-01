@@ -1818,16 +1818,21 @@ episodes:
     summer: true
     spring: true
     after:
-      - 3x13
+      - 3x11-12
     before:
       - 4x24
       - 5x18
     opt_after:
       - 4x04
     comment: |
-      Must precede Equestria Games, obviously. Notably, school is in
-      session. The events described probably require some time to happen and
-      the end might be spread a bit from the beginning.
+      Twilight never appears, nor is actually referred to as a princess, so
+      this episode can precede her coronation. It probably should, because
+      school is in session, which it wouldn't be in the middle of the summer.
+
+      Rainbow is acquainted with Harshwhinny, and the Crystal Empire has won
+      the Equestria Games already.
+
+      Of course, the flag carrier selection must occur before the Games proper.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       was a Journal record for this episode that immediately follows [Daring
