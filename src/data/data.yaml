@@ -1946,7 +1946,11 @@ episodes:
       - 4x09
     comment: |
       This is a Chest of Harmony Key incident, Rainbow writes in the Journal,
-      and it is explicitly set before Equestria Games.
+      and it is explicitly set before Equestria Games. While a gap of a few
+      days may exist between the Journal record and the rest of the episode,
+      it cannot be much longer than that, as Rainbow is still wearing the
+      medal she got for qualifying, as if she just stepped off the train at
+      most hours ago.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       were two Journal records for this episode (Rainbow, Fluttershy) that
@@ -1967,8 +1971,19 @@ episodes:
       - 4x10
     comment: |
       This is a very self-contained episode, which can float a good ways up
-      and down, but it ends with Twilight writing in the Journal, giving it
-      hard upper and lower bounds.
+      and down, but it must still stay within the bounds of Season 4.
+
+      Twilight finishes the episode with writing in the Friendship
+      Journal. Since she is doing it in Fluttershy's cottage while nursing
+      Discord, there is no available break between the episode and the Journal
+      record longer than however long would it be required for Fluttershy to
+      return. The record does not happen *immediately*, however.
+
+      As of this episode, Discord definitely does not yet have regular tea
+      parties with Fluttershy -- they exchange letters, instead. It is my
+      hunch that the parties become a tradition as a result of this episode
+      and the extended nursing Discord receives, so any episode in which
+      Discord has a tea party with Fluttershy or mentions one should follow.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       was a Journal record for this episode that immediately follows the block
@@ -1989,10 +2004,14 @@ episodes:
     opt_after:
       - 4x11
     comment: |
-      It's Rainbow Dash's birthiversary. This is a Chest of Harmony Key
-      incident, but Pinkie is not actually shown writing in the
-      Journal. Because of this, and Twilight's wings, it implies that Rainbow
-      had at least one birthday incident not shown on screen.
+      It's Rainbow Dash's birthiversary.
+
+      This is a Chest of Harmony Key incident. Pinkie starts writing in the
+      Friendship journal even before Cheese Sandwich leaves, and gets her key
+      souvenir as she is doing so. Because of this, and Twilight's wings, it
+      implies that Rainbow had at least one birthday incident not shown on
+      screen, which mysteriously was not called an anniversary of her moving
+      to Ponyville.
 
       Incidentally, a photo of Pinkie's cutie mark party includes Maud, and
       makes it her first on-screen appearance, though not the introduction to
