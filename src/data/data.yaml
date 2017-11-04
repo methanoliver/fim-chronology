@@ -1998,6 +1998,7 @@ episodes:
       - 2x07
       - 2x13
       - 3x13
+      - 4x03
     before:
       - 4x25-26
       - 5x18
@@ -2031,14 +2032,17 @@ episodes:
     before:
       - 5x18
     opt_after:
+      - 4x03
       - 4x12
     comment: |
       This one is very independent and difficult to position. It is taking
       place immediately prior and during the Ponyville Days festival, which
       sounds like it should be a yearly thing, but is never referred to again.
 
-      Rarity narrates at the end, and it sounds like she's narrating a Journal
-      record, but she is not shown actually writing.
+      Rarity narrates at the end, and her narration matches verbatim the
+      content of the printed Journal record referencing this episode, but she
+      is not shown actually writing, so the record can postdate this event if
+      desired.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       was a Journal record for this episode that immediately follows [Pinkie
@@ -2056,12 +2060,20 @@ episodes:
     before:
       - 4x25-26
       - 5x18
+      - 7x06
     opt_after:
       - 4x13
     comment: |
       A very independent episode that can fall anywhere within the bounds of
-      season 4. Fluttershy is shown writing in the Journal. School is in
-      session.
+      season 4. Fluttershy is shown writing in the Journal immediately upon
+      completion of the chain of events that occupies a week, but leaves all
+      the Mane 6 except Flutttershy and Rarity largely free for the
+      duration. School is in session.
+
+      Zipporwhill gets her cutie mark shortly before the events of this
+      episode, and acquires her puppy during the fundraiser that occurs within
+      the episode. The puppy grows to a full-sized dog by the time of Forever
+      Filly.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       was a Journal record for this episode that follows [Simple
@@ -2097,6 +2109,7 @@ episodes:
     spring: true
     after:
       - 3x13
+      - 4x03
       - 4x11
     before:
       - 4x25-26
