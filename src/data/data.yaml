@@ -1819,11 +1819,11 @@ episodes:
     spring: true
     after:
       - 3x11-12
+    opt_after:
+      - 4x04
     before:
       - 4x24
       - 5x18
-    opt_after:
-      - 4x04
     comment: |
       Twilight never appears, nor is actually referred to as a princess, so
       this episode can precede her coronation. It probably should, because
@@ -1898,8 +1898,9 @@ episodes:
       itself, this episode cannot occur before the start of the second year's
       autumn.
 
-      This is a Chest of Harmony Key incident and Rarity writes in the
-      Journal.
+      This is a Chest of Harmony Key incident and Rarity writes in the Journal
+      immediately upon return from Manehattan -- she is unpacking Coco's gift,
+      which is her Chest Key, as she is doing so.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       was a Journal record for this episode that immediately follows
@@ -2067,8 +2068,8 @@ episodes:
       A very independent episode that can fall anywhere within the bounds of
       season 4. Fluttershy is shown writing in the Journal immediately upon
       completion of the chain of events that occupies a week, but leaves all
-      the Mane 6 except Flutttershy and Rarity largely free for the
-      duration. School is in session.
+      the Mane 6 except Fluttershy and Rarity largely free for the
+      duration. School is in session, as we see the children in class.
 
       Zipporwhill gets her cutie mark shortly before the events of this
       episode, and acquires her puppy during the fundraiser that occurs within
@@ -2088,15 +2089,31 @@ episodes:
     after:
       - 3x13
       - 4x01-02
+    opt_after:
       - 4x03
+      - 4x14
     before:
       - 4x25-26
       - 5x18
-    opt_after:
-      - 4x14
     comment: |
-      School is in session. Among other things, the blueprint of the Chest of
-      Harmony is visible in the library. Sweetie Belle writes in the Journal.
+      I cannot tell if school is in session or not, since it would not be
+      *that* unusual for children to use the school playground outside the
+      school year. Neither I can tell if Twilight Time is a daily or weekly
+      activity, but it is clear that the ending of the episode, during which
+      Sweetie Belle writes in the Friendship Journal, is separated from the
+      beginning by a substantial period of time, because the CMC have had the
+      time to improve their skills to Twilight's satisfaction before the
+      record materializes.
+
+      My impression is that it describes events that occurred over the course
+      of multiple weeks. I also think that the behavior of the children is
+      best explained if it starts as soon after Twilight's coronation as
+      possible, while she is still the "newest" celebrity of Ponyville and her
+      change in status is still fresh.
+
+      Among other things, the poster detailing research made into the Chest of
+      Harmony is visible in the library in the very first scenes, requiring
+      the events to at least start after the Chest appears.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       was a Journal record for this episode that immediately follows [Filli
@@ -2116,8 +2133,15 @@ episodes:
     opt_after:
       - 4x15
     comment: |
-      This is a Chest of Harmony Key incident. It has to occur after
-      Fluttershy first mentions breezies in Three's A Crowd.
+      This is a Chest of Harmony Key incident.
+
+      Fluttershy directly references the trip she has made to observe the
+      breezies during Three's A Crowd.
+
+      In the end, Fluttershy narrates her Journal of Friendship record that
+      matches verbatim the one in the printed Journal. However, she is not
+      shown writing it, and the Journal itself does not appear on screen, so
+      the record could have appeared at any later time.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       were two Journal records for this episode *(Spike and Fluttershy)* that
@@ -2146,14 +2170,17 @@ episodes:
       can end up there.
 
       It certainly looks like Applejack is more immature and overprotective
-      than she usually is around the timeframe of season 4, and it has been
-      argued that this, as well as Lesson Zero itself, are results of recent
-      exposure to Discord's magic, in which case this episode immediately
-      follows Lesson Zero.
+      than she usually is around the timeframe of season 4 -- one would even
+      say, outright insane -- and it is my argument that this, as well as
+      Lesson Zero itself, are results of recent exposure to Discord's magic,
+      in which case this episode immediately follows Lesson Zero.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       was a Journal record for this episode that immediately follows [It Ain't
-      Easy Being Breezies](#ep-4x16).
+      Easy Being Breezies](#ep-4x16). However, notice that the record could
+      have been prompted by Applejack reading Fluttershy's record, and
+      remembering a similar experience that happened much earlier, but was not
+      previously recorded for posterity.
   4x18:
     title: Maud Pie
     link: http://mlp.wikia.com/wiki/Maud_Pie_(episode)
@@ -2164,12 +2191,19 @@ episodes:
       - 1x24
       - 2x07
       - 3x13
+      - 4x03
     before:
       - 4x25-26
     opt_after:
       - 4x17
     comment: |
-      This episode is very self-contained around Maud.
+      This episode is very self-contained around Maud. However, the existence
+      of the library and the presence of the poster detailing research into
+      the Chest of Harmony require it to stay within the endcaps of Season
+      4. Multiple pets provide redundant hard lover bounds.
+
+      Nopony handles the Journal of Friendship or narrates its contents on
+      screen.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       was a Journal record for this episode that immediately follows [Somepony
