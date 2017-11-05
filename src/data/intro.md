@@ -29,9 +29,9 @@ The rules are described in episode commentary where reasonable: if we see the Fr
 
 The idea is to write in as many such restrictions as possible, write up everything which looks like a restriction but isn't definite, and then shove the episodes around until they start making sense. We're still far from having all the existing hard constraints listed. Something coherently continuous should eventually emerge, if enough people play with it and send me their input.
 
-The default reordering presented here as starting data and many of the original arguments that I started with, particularly where it concerns seasons 1 to 3, belong to someone else. Unfortunately, I can't seem to find the original source anymore, and I basically had to OCR it out of images someone rendered them as. This was the longest reordered timeline I managed to locate, and I find that it works very well, particularly if you make a playlist of episodes in chronological order.
+The default reordering presented here as starting data, particularly where it concerns seasons 1 to 3, was worked out by a prior researcher whose name is lost to the sands of time. This was the longest reordered timeline I managed to locate, and I find that it works well, particularly if you make a playlist of episodes in chronological order.
 
-That said, the default order is *known* to be wrong in several places, so don't treat this stack of cards as immutable truth. The rules on the episodes themselves, though, should be pretty solid.
+The default order is *known* to be wrong in several places, so don't treat this stack of cards as immutable truth. The rules on the episodes themselves, though, should be pretty solid.
 
 ## Seasons
 
