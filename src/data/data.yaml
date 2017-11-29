@@ -2330,6 +2330,9 @@ episodes:
     before:
       - 5x18
       - 6x01-02
+      - 4x25-26
+    opt_before:
+      - 4x25-26
     opt_after:
       - 4x22
     comment: |
@@ -2337,6 +2340,62 @@ episodes:
       upper bound all the way up until Crusaders of the Lost Mark. Since it
       happens in the Crystal Empire, I'm not even sure if it can be winter or
       not.
+
+      That said, I believe this sequence of events, which cross-cuts two
+      episodes, making this essentially a three-parter, makes the most sense:
+
+      1. The Mane 6, sans Rainbow, Fluttershy and Spike, arrive to the Crystal
+      Empire, untelevised.
+      2. Rainbow, Fluttershy and Spike arrive to the Crystal Empire with the
+      Ponyville team, as per **Equestria Games**, something like a week ahead
+      of the Games. The rest of the Mane 6 could have arrived on the same
+      train with them, riding a different car, but Twilight definitely came in
+      earlier. Immediately after Spike agrees to light the flame at the Games,
+      the episode cuts, right before the scene at the opening ceremonies where
+      he actually tries to light the flame.
+      3. [**Twilight's Kingdom**](#ep-4x25-26) starts. More days have passed
+      and they were taking a walk in the fields outside the city, or did some
+      other kind of hanging out that resulted in them returning to the castle
+      as a group. The Maretonian delegation arrives, and is greeted with
+      fanfare. Presumably, the Saddle Arabian delegation arrives in the same
+      time period, and is also greeted with fanfare, but we never see
+      that. The time before the Games is spent in various diplomatic
+      discussions, which Twilight is not privy to. Once the princesses sing
+      their song, the episode cuts, right before the scene where Tirek claims
+      his first victim.
+      4. **Equestria Games** continues where it left off, up until it ends.
+      5. **Twilight's Kingdom** continues where it left off. The Mane 5 and
+      Spike leave the Crystal Empire off screen, untelevised, but Twilight is
+      abruptly detained -- precisely because Celestia has something to say to
+      her, she just had that vision.
+
+      In total, the Mane 6 and the Sisters have spent something like three
+      weeks straight in the Crystal Empire, uninterrupted, possibly a little
+      longer.
+
+      What does this cross-cut accomplish:
+
+      * The Maretonian delegation does not have to come to the Crystal Empire
+        twice in quick succession. Neither do the Mane 6. Neither do Celestia
+        and Luna!
+      * The question *why* all four princesses are in the Crystal Empire at
+        the same time, and why the Maretonians came there, instead of
+        Canterlot, acquires a sensible answer: They were invited to the
+        Equestria Games, came a little early, and used the opportunity for
+        some manner of diplomatic negotiations.
+      * It *also* explains why Tirek is acting *now*, when he has been out and
+        about for months: All the heavy-hitters and even the Elements at once
+        are far away, for several weeks, and he stands the least chance of
+        getting interrupted in early stages by someone who could pose a danger
+        to him.
+      * It explains why Spike refers to saving the Crystal Empire and the
+        statue he got for it, but *not* to doing so at the Games closing
+        ceremony: He hasn't done that yet.
+
+      What it costs us:
+
+      A counterintuitive understanding of several lines in the beginning of
+      **Twilight's Kingdom**.
 
       If the *Journal of Friendship* is accepted as a canonical source, there
       was a Journal record for this episode that immediately follows [Trade
@@ -2378,10 +2437,10 @@ episodes:
     before:
       - 5x03
     comment: |
-      The Cutie Map is introduced. It is highly unlikely the Mane 6 took more
-      than a day or two after its appearance to sit in their thrones,
-      whereupon the Map appears, which means that Twilight's Kingdom has to
-      immediately precede this episode.
+      The Cutie Map is introduced. We do not know how long did it take for
+      them to trigger the appearance of the Cutie Map, but while we know this
+      time has to be relatively short, [**Rainbow Rocks**](#ep-EG2) needs to
+      fit in it.
 
       This is also one of the two episodes with no roots in the throne room
       that appear as the result of Castle Sweet Castle -- the other one, where
@@ -4254,8 +4313,8 @@ order:
   - 4x20
   - 4x21
   - 4x22
-  - 4x24
   - 4x23
+  - 4x24
   - 4x25-26
   - EG2
   - 5x01-02
