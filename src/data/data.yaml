@@ -2472,16 +2472,34 @@ episodes:
     summer: true
     spring: true
     after:
-      - 1x18
       - 3x08
       - 3x13
+      - 4x15
+      - 4x19
+      - 3x06
+    opt_after:
+      - 4x19
+      - 3x06
     before:
       - 5x18
+    opt_before:
+      - 4x25-26
     comment: |
-      While Twilight or the castle don't make an appearance, she is referred
-      to as a princess. The CMC clubhouse shows up. Babs Seed sends a letter
-      reporting that she got a cutie mark, which means that her last
-      appearance without one must precede.
+      Most of this episode occurs within multiple interlocked dreams, so some
+      landmarks are deceptive -- but at the same time, Apple Bloom does not see
+      the Friendship Castle in her dream in a scene where it should normally
+      be visible, and the castle never appears otherwise.
+
+      While Twilight does not appear in this episode, Apple Bloom refers to
+      studying potions with Princess Twilight, which is a reference to the
+      events of Twilight Time. Babs Seed sends a letter reporting that she got
+      a cutie mark, which means that her last appearance without one must
+      precede.
+
+      The way Sweetie Belle and Scootaloo greet Princess Luna suggests that
+      this is not the first time she turns up in their dreams, which implies
+      that Sleepless in Ponyville and For Whom The Sweetie Belle Toils should
+      precede this episode, but this does not constitute a hard lock.
   5x05:
     title: Tanks for the Memories
     link: http://mlp.wikia.com/wiki/Tanks_for_the_Memories
