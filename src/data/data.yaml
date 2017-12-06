@@ -2563,14 +2563,34 @@ episodes:
     after:
       - 3x10
       - 3x13
+      - 4x11
       - 4x18
+      - 4x25-26
     before:
-      - 5x18
+      - 7x12
     comment: |
       Grand Galloping Gala is a yearly event, so if the first one, in [The
-      Best Night Ever](#ep-1x26) was in spring, this one also is. Contains
-      appearances of Maud Pie and a redeemed Discord, but also, markless CMC,
-      which are the only known hard bounds so far.
+      Best Night Ever](#ep-1x26) was in spring, this one also is.
+
+      Maud Pie reappears in the direct vicinity of the Mane 6, requiring her
+      introduction to them to precede.
+
+      Discord is reformed and has tea parties with Fluttershy, which were not
+      a thing before Three's A Crowd. Likewise, Fluttershy refers to meeting
+      Tree Hugger for the first time during the events of Three's A Crowd.
+
+      The CMC are present, however, at no point we see their rumps to
+      conclusively determine if they actually have cutie marks or not.
+
+      Friendship Castle does not appear on screen in its entirety, but we see
+      Spike's room in it, establishing that it exists.
+
+      Discordant Harmony is an upper bound, because Parcel Post, lost in
+      Discord's chaos realm during this episode, remains lost in there by the
+      time Discordant Harmony rolls in. Whether Parcel Post never got out, or
+      that was his second or Nth visit, we don't know, but we know that *this*
+      episode was the first, since he has to ask Discord if he is in fact
+      Discord or current resident.
   5x08:
     title: The Lost Treasure of Griffonstone
     link: http://mlp.wikia.com/wiki/The_Lost_Treasure_of_Griffonstone
