@@ -2596,7 +2596,6 @@ episodes:
     link: http://mlp.wikia.com/wiki/The_Lost_Treasure_of_Griffonstone
     autumn: true
     summer: true
-    winter: true
     spring: true
     after:
       - 3x13
@@ -2605,8 +2604,11 @@ episodes:
       This is a Cutie Map mission. Surprisingly, no roots are in evidence in
       the throne room, so it can happen before [Castle Sweet
       Castle.](#ep-5x03) It could actually accommodate even the presence of
-      Starlight Glimmer. And we don't see what season it is out in Ponyville
-      either.
+      Starlight Glimmer as a student.
+
+      We only see Ponyville itself very briefly, in the beginning of the cold
+      open, and it's most definitely not winter.
+
   5x09:
     title: Slice of Life
     link: http://mlp.wikia.com/wiki/Slice_of_Life
