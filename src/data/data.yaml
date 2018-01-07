@@ -2649,8 +2649,7 @@ episodes:
       There is little to date this episode beside Twilight's wings, and
       Spike's friendship ambassador status assigned to him in Triple Threat is
       the only solid upper bound on it that I can currently identify. None of
-      the other usual markers can be observed. See, however, comments for
-      [Amending Fences](#ep-5x12).
+      the other usual markers can be observed.
 
       The Grand Equestria Pony Summit is definitely not an event with an
       annual cycle, and since it never repeats on screen anyway, it doesn't
@@ -2700,22 +2699,23 @@ episodes:
     after:
       - 3x13
       - 5x01-02
-      - 5x10
-      - 5x11
     before:
       - 5x25-26
-    opt_after:
-      - 5x10
-      - 5x11
     comment: |
+      Friendship Castle is in evidence. The CMC never show up, preventing us
+      from using them for markers. The throne room never appears, preventing
+      us from determining if the roots are in place.
+
       Starlight Glimmer shows up spying on Twilight, limiting this to within
       the endcaps of season 5.
 
       Twilight complains of a week of nonstop princess duties which contained
-      three unspecified events, which soft-sets this as immediately following
-      either [Princess Spike,](#ep-5x10) [Party Pooped,](#ep-5x11) but *not*
-      both, since both events loaded Twilight fully with duties for at least a
-      week each.
+      three unspecified events, but upon closer inspection of the dialogue,
+      it's impossible for these events to be either the yak delegation from
+      [Party Pooped](#ep-5x11) or the Summit from [Princess Spike](#ep-5x10)
+      -- Spike refers to random ponies coming to ask Twilight for friendship
+      advice and washing dishes, which neither of those two episodes would
+      entail.
 
   5x13:
     title: Do Princesses Dream of Magic Sheep?
