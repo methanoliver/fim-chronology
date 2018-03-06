@@ -2727,6 +2727,7 @@ episodes:
       - 1x24
       - 2x07
       - 3x13
+      - 5x12
       - 5x01-02
     before:
       - 5x18
@@ -2740,6 +2741,13 @@ episodes:
       The hard upper bound is Starlight Glimmer becoming a live-in student,
       since she would never avoid participating in this adventure while being
       one.
+
+      During this episode, the room that Twilight starts Amending Fences in is
+      converted into a bedroom, which remains in use as such subsequently, as
+      can be observed in [To Where And Back Again](#ep-6x25-26). As such,
+      Amending Fences is a hard lower bound, being the only other episode the
+      room is featured in as a living room.
+
   5x14:
     title: Canterlot Boutique
     link: http://mlp.wikia.com/wiki/Canterlot_Boutique
@@ -2762,7 +2770,10 @@ episodes:
       suggests that the body of the episode happens relatively soon after her
       coronation, while the cold open probably precedes it entirely, since
       time to get the boutique decorated and ready, as well as to make new
-      stock would be required.
+      stock would be required. Alternatively, the body of the episode would
+      directly follow the battle with Tirek -- another potential event to bump
+      Twilight's popularity temporarily.
+
   5x15:
     title: Rarity Investigates!
     link: http://mlp.wikia.com/wiki/Rarity_Investigates!
@@ -2774,22 +2785,25 @@ episodes:
     before:
       - 6x07
     comment: |
-      Starting in Rarity's Canterlot boutique places a hard lower bound on it,
-      and so does Rainbow's membership in Wonderbolt Reserves. At the same
-      time, most of the upper bound markers we have cannot be observed in
-      Canterlot, but it obviously has to precede Rainbow Dash actually
-      becoming a Wonderbolt in Newbie Dash.
+      Starting in Rarity's Canterlot boutique after the conclusion of the said
+      episode places a hard lower bound on it, and so does Rainbow's
+      membership in Wonderbolt Reserves. At the same time, most of the upper
+      bound markers we have cannot be observed in Canterlot, but it obviously
+      has to precede Rainbow Dash actually becoming a Wonderbolt in Newbie
+      Dash.
 
       Rarity comments that "Ice irises are almost impossible to find in
       spring!" which fixes the season of this episode to spring. There is no
       way this can be the first year's spring, due to the Testing, Testing
       1-2-3 being a dependency of this episode and containing a winged
       Twilight, so it's at least the second year's.
+
   5x16-17:
     title: Made in Manehattan / Brotherhooves Social
     link: http://mlp.wikia.com/wiki/Made_in_Manehattan
     autumn: true
     summer: true
+    spring: true
     after:
       - 2x05
       - 3x04
@@ -2852,6 +2866,8 @@ episodes:
     title: The One Where Pinkie Pie Knows
     link: http://mlp.wikia.com/wiki/The_One_Where_Pinkie_Pie_Knows
     summer: true
+    spring: true
+    autumn: true
     after:
       - 2x13
       - 3x13
@@ -2980,8 +2996,8 @@ episodes:
       - 3x13
       - 5x18
     comment: |
-      The CMC have their marks, which is a nice lower bound, but I don't see a
-      good upper one.
+      The CMC have their marks, which is a nice lower bound. Good upper bounds
+      do not appear until subsequent episodes mentioning Coloratura.
   5x25-26:
     title: The Cutie Re-Mark
     autumn: true
