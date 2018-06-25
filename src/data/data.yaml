@@ -437,8 +437,12 @@ episodes:
     after:
       - 1x01-02
       - 1x03
+      - 1x05
+      - 1x07
     opt_after:
       - 1x03
+      - 1x05
+      - 1x07
     before:
       - 3x13
     comment: |
@@ -451,6 +455,15 @@ episodes:
       the Sonic Rainboom. However, she never lists Sonic Rainboom among the
       moves she actually describes in any of the instances she does describe
       her routine.
+
+      Fluttershy appears to be a lot less shy than she was during Dragonshy,
+      suggesting a soft lock -- though she has been known to backslide.
+
+      Pinkie's familiarity with the Sonic Rainboom and the way she acts in
+      general imply that this must be after Griffon the Brush Off, since
+      before that episode they never hung out together with Rainbow, producing
+      another behavioral soft lock.
+
   1x17:
     title: Stare Master
     link: http://mlp.wikia.com/wiki/Stare_Master
@@ -541,6 +554,13 @@ episodes:
       the printers at least two weeks before their official release date, with
       all the articles finalized, which makes this gap at least two weeks and
       at most six weeks wide.
+
+      The events of the episode itself cover at least one week: It depicts two
+      distinct spa sessions between Rarity and Fluttershy, which are supposed
+      to happen weekly. Other events of the episode suggest it took a lot
+      longer. As such, another episode can, and probably should, occur in
+      parallel.
+
   1x21:
     title: Over a Barrel
     link: http://mlp.wikia.com/wiki/Over_a_Barrel
