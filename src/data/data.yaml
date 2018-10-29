@@ -5035,11 +5035,33 @@ episodes:
     summer: true
     autumn: true
     spring: true
+    winter: true
     after:
-      - EG2
+      - EG4
+      - 5x25-26
+      - 6x01-02
+    opt_after:
+      - 6x01-02
+    before:
+      - 7x01
     comment: |
 
-      TBD
+    The magical powers of the Humane 7 position this special strictly after
+    the Legends of Everfree.
+
+    Starlight is a friendship student, which requires The Cutie Re-Mark to
+    have completed, and seeing how comfortable she is in the castle, I would
+    say that The Crystalling also needs to have completed, but that one isn't
+    a hard lock.
+
+    Starlight is still a student, rather than a graduate, so it definitely
+    precedes A Celestial Advice.
+
+    This special occurs during a Cutie Map mission that definitely was never
+    televised, so unfortunately we can't put it into a more precise
+    correspondence with the Equestrian timeline purely on its own contents.
+
+    We never actually see the season in Equestria, either.
 
 order:
   - SM1-SU
