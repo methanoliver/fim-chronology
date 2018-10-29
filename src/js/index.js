@@ -81,7 +81,7 @@ let md = MarkdownIt({
 });
 
 definedEps.forEach(ep => {
-    data.episodes[ep].html = md.render(data.episodes[ep].comment);
+    data.episodes[ep].html = md.render(data.episodes[ep].comment || '');
 });
 
 // Finally build the mixin for the tags.
