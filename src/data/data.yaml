@@ -1,5 +1,5 @@
 ---
-years: 4
+years: 7
 episodes:
   1x01-02:
     title: Friendship is Magic
@@ -1226,8 +1226,6 @@ episodes:
       depicted obviously can't happen in winter, it looks more like
       spring. The school is in session, as well. This is a difficult one to
       place right and needs further research.
-
-      Unfortunately, the topic hasn't been brought up since.
   2x18:
     title: A Friend in Deed
     link: http://mlp.wikia.com/wiki/A_Friend_in_Deed
@@ -3278,16 +3276,13 @@ episodes:
 
       My hunch is that Starlight has become a friendship student sometime in
       spring or summer of a year that includes events all the way to the [To
-      Where and Back Again](#ep-6x25-26) and accompanying episodes, and at the
-      time of writing, this would make this episode the chronologically latest
-      one, with the possible exception of [Forever Filly](#ep-7x06). This is
+      Where and Back Again](#ep-6x25-26) and accompanying episodes. This is
       further supported by the observation that Starlight treats Twilight more
       like an equal than a teacher than in many subsequently aired episodes.
 
-      The one snag for this interpretation is the absence of Trixie, but
-      wouldn't she have family somewhere far away to pester on Hearth's
-      Warming? Alternatively, she could be working doing special effects for
-      the traditional play somewhere...
+      The one snag for this interpretation is the absence of Trixie, but the
+      scenes of [Best Gift Ever](#ep-8xHS) imply that she tours Equestria
+      during the holiday season.
 
       It is impossible for this story to be the Hearth's Warming of year 1,
       since Twilight clearly did not have wings yet during that one. It is
@@ -3328,7 +3323,7 @@ episodes:
     comment: |
       There are few of the usual markers in this one, even the Friendship
       Castle never shows up, and the moons aren't helping any. But Rainbow
-      Dash refers to "Wonderbolt practice," which hard marks this episode to
+      Dash refers to "Wonderbolt practice," which hard locks this episode to
       follow Newbie Dash. The cold open scene is separated from the rest of
       the episode by at least a few "moons."
   6x11:
@@ -4329,6 +4324,722 @@ episodes:
 
       Rarity sports her regular mane, which requires this episode to avoid the
       multiple-month gap within [It Isn't the Mane Thing About You](#ep-7x19).
+  MLP1:
+    title: My Little Pony Movie
+    link: http://mlp.wikia.com/wiki/My_Little_Pony_The_Movie
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 2x01-02
+      - 3x01-02
+      - 4x25-26
+      - 6x15
+      - 7x10
+      - 7x24-26
+      - EGFF
+    comment: |
+      The movie *is* a chronological watershed. Every episode of Season 8 that
+      possibly could either relied on [School Daze](#ep-8x01-02), which wastes
+      no time acknowledging the movie, or referenced the movie
+      independently. It introduces numerous locations, objects, and sapient
+      races which are referenced often from there on.
+
+      At the same time, the requisite changes in the throne room of the
+      Canterlot Castle, seen in every episode of Season 8 featuring this
+      throne room and first appearing in this movie, position it squarely
+      after the events of Shadow Play, where the throne room still has the
+      appearance it had for the first seven seasons, as well as after every
+      other appearance of the original throne room.
+
+      While it's clear the movie was *meant* to be positioned between Seasons
+      7 and 8, individual episodes may cross this barrier anyway: the throne
+      room is the only truly solid marker, and it does not appear anywhere as
+      often as it could.
+
+  8x01-02:
+    title: School Daze
+    link: http://mlp.wikia.com/wiki/School_Daze_-_Part_1
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - MLP1
+      - 4x25-26
+      - EG2
+      - 5x01-02
+      - 5x03
+      - 5x13
+      - 5x20
+      - 5x25-26
+    comment: |
+      This two-parter does everything to acknowledge [My Little Pony The
+      Movie](#ep-MLP1) as canon, and contains copious references to events of
+      the movie, as well as entities introduced in the movie.
+
+      At the same time, while it clearly wants to stick the movie between
+      Season 7 and Season 8, it permits us no clear way to identify just how
+      much time has passed between them.
+
+      School of Friendship first appears in this episode, and becomes a marker
+      for most of the episodes of Season 8, including those that would be much
+      better off outside it.
+
+      We do not know just how long did the school spend in its temporarily
+      shutdown state, so some episodes might squeeze in between the beginning
+      and the ending of this episode, as it has to have taken a considerable
+      time for Twilight to rewrite the curriculum and for all the requisite
+      trips to take place.
+
+      Indirectly, this episode produces an upper bound on a number of earlier
+      episodes that feature the Friendship Castle in shots which preclude the
+      existence of the Friendship School beside it.
+  8x03:
+    title: The Maud Couple
+    link: http://mlp.wikia.com/wiki/The_Maud_Couple
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 7x04
+      - 7x01
+    comment: |
+      Maud is a resident of Ponyville, so this follows Rock Solid Friendship.
+
+      The School of Friendship does appear on screen, for no good reason
+      whatsoever.
+
+      The mirror Starlight got from Twilight in A Celestial Advice is present.
+
+      Most of the non-Pinkie Mane 6 only make an appearance at the party at
+      the very end of the episode, permitting one to occupy them with
+      something else for most of this episode's duration.
+
+      This episode introduces Mudbriar, who is a chronological marker -- any
+      episode in which Mudbriar and Pinkie interact has to follow.
+  8x04:
+    title: Fake It 'Til You Make It
+    link: http://mlp.wikia.com/wiki/Fake_It_%27Til_You_Make_It
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 7x04
+      - 7x05
+      - 8x01-02
+      - 6x09
+      - 6x07
+    comment: |
+      Fluttershy’s animal shelter from Fluttershy Leans In is present.
+
+      The School of Friendship occurs on screen multiple times, requiring
+      School Daze to have happened, or at least *started*.
+
+      Rarity’s Manehattan boutique is the primary location of the episode,
+      requiring The Saddle Row Review to happen prior.
+
+      Rainbow is a Wonderbolt, requiring Newbie Dash to have happened.
+
+      Maud lives in Ponyville, requiring Rock Solid Friendship to have happened.
+
+      This episode has significant temporal issues within itself: While school
+      is in session, at least four (!) consecutive cross-country trips occur
+      within what the episode purports to be two days.
+  8x05:
+    title: Grannies Gone Wild
+    link: http://mlp.wikia.com/wiki/Grannies_Gone_Wild
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 6x07
+    comment: |
+      The School of Friendship appears on screen and is directly referred to
+      as something that is expected to occupy Rainbow’s time.
+
+      Rainbow Dash is a Wonderbolt, requiring Newbie Dash to have completed.
+
+      Most of the other usual markers never appear.
+  8x06:
+    title: Surf and/or Turf
+    link: http://mlp.wikia.com/wiki/Surf_and_or_Turf
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+    comment: |
+      This episode obviously happens after School Daze, due to multiple
+      references, even though the School of Friendship does not actually
+      appear. However, it has no markers fixing it against any other episodes
+      of Season 8.
+
+      During this episode, Silverstream acquires a permission slip for field
+      trips. Any field trip that includes Silverstream cannot occur prior to
+      this episode.
+  8x07:
+    title: Horse Play
+    link: http://mlp.wikia.com/wiki/Horse_Play
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - MLP1
+    comment: |
+      This episode contains crucial information regarding Equestrian history
+      timeline, but this is beside the point of this chronology.
+
+      School of Friendship occurs on screen, is used in a few scenes, and the
+      Student Six are playing extras in the play.
+
+      The Canterlot Castle throne room has the post-movie look.
+  8x08:
+    title: The Parent Map
+    link: http://mlp.wikia.com/wiki/The_Parent_Map
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 7x15
+    comment: |
+      For no good reason whatsoever, we have an establishing shot with an
+      operational School of Friendship, setting this after School Daze, but
+      otherwise, it is almost devoid of all markers.
+
+      In this episode, it is states that the Cutie Map has never called anyone
+      from outside Ponyville for a map mission before. Any episode in which
+      this happens has to follow.
+
+      Spike and Twilight concur that up to this point, Spike has only been on
+      a Cutie Map mission exactly once, which has to have occurred in Triple
+      Threat. Any other map mission with Spike's participation cannot occur
+      between these two episodes.
+  8x09:
+    title: Non-Compete Clause
+    link: http://mlp.wikia.com/wiki/Non-Compete_Clause
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 8x06
+    comment: |
+      The plot involves School of Friendship directly, so School Daze has
+      completed.
+
+      Importantly, it is required to have happened at least 9 months since the
+      school first opened: The photo of Fluttershy that Spike takes for her
+      Teacher of the Month award is the 9th such photo on the wall. This
+      causes a lot of ordering issues.
+
+      Since Silverstream attends a field trip with the school in this episode,
+      it is also required to happen after Surf and/or Turf, where Twilight
+      secures a permission for her to do so.
+  8x10:
+    title: The Break Up Break Down
+    link: http://mlp.wikia.com/wiki/The_Break_Up_Break_Down
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x03
+      - 7x08
+      - 6x17
+      - 2x17
+    comment: |
+      School of Friendship does not appear on screen, but Maud appears
+      together with Mudbriar, requiring The Maud Couple to have happened, or
+      at least, started, and forcing this episode into Season 8.
+
+      Big Mac and Sugar Belle’s relationship exists, requiring Hard to Say
+      Anything to have concluded.
+
+      Dungeons and Discord is explicitly referenced.
+
+      This episode occurs on the Hearts and Hooves day of the year it is in,
+      and therefore must be on an integer years boundary with [Hearts and
+      Hooves Day](#ep-2x17). While we do not know *for certain*, the best bet
+      for the location of this episode within a year is early spring.
+  8x11:
+    title: Molt Down
+    link: http://mlp.wikia.com/wiki/Molt_Down
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 7x19
+      - 1x01-02
+      - 1x03
+      - 1x04
+      - 1x05
+      - 1x06
+      - 1x07
+      - 1x09
+      - 1x10
+      - 1x11
+      - 1x13
+      - 1x14
+      - 1x15
+      - 1x18
+      - 1x19
+      - 1x20
+      - 1x21
+      - 1x22
+      - 1x23
+      - 1x24
+      - 1x25
+      - 1x26
+      - 2x01-02
+      - 2x04
+      - 2x05
+      - 2x06
+      - 2x07
+      - 2x08
+      - 2x10
+      - 2x11
+      - 2x13
+      - 2x15
+      - 2x16
+      - 2x20
+      - 2x21
+      - 2x22
+      - 2x23
+      - 2x25-26
+      - 3x01-02
+      - 3x03
+      - 3x04
+      - 3x05
+      - 3x08
+      - 3x09
+      - 3x10
+      - 3x11-12
+      - 3x13
+      - 4x01-02
+      - 4x03
+      - 4x06
+      - 4x07
+      - 4x08
+      - 4x09
+      - 4x11
+      - 4x12
+      - 4x13
+      - 4x14
+      - 4x15
+      - 4x16
+      - 4x19
+      - 4x21
+      - 4x22
+      - 4x23
+      - 4x24
+      - 4x25-26
+      - 5x01-02
+      - 5x03
+      - 5x05
+      - 5x07
+      - 5x09
+      - 5x10
+      - 5x11
+      - 5x12
+      - 5x13
+      - 5x14
+      - 5x16-17
+      - 5x18
+      - 5x19
+      - 5x20
+      - 5x22
+      - 5x23
+      - 5x24
+      - 5x25-26
+      - 6x01-02
+      - 6x05
+      - 6x07
+      - 6x08
+      - 6x10
+      - 6x11
+      - 6x12
+      - 6x15
+      - 6x16
+      - 6x17
+      - 6x21
+      - 6x22
+      - 6x24
+      - 6x25-26
+      - 7x01
+      - 7x02
+      - 7x03
+      - 7x04
+      - 7x05
+      - 7x09
+      - 7x10
+      - 7x15
+      - 7x20
+      - 7x22
+      - 7x24-26
+      - 8x03
+      - 8x04
+      - 8x07
+      - 8x08
+      - 8x09
+      - 8x10
+      - EG1
+      - EG2
+      - MLP1
+    comment: |
+      School of Friendship exists.
+
+      This is a major watershed episode, more important for the chronology
+      than just about any other: Spike acquires wings, which requires every
+      episode featuring a wingless Spike to happen prior to this event. This
+      is a *huge* number of episodes and specials, with a few being exempted
+      from this lock, because Spike's wings, were they present, would not be
+      visible.
+
+      Rarity references This Isn’t The Mane Thing About You, which produces a
+      redundant upper bound.
+  8x12:
+    title: Marks for Effort
+    link: http://mlp.wikia.com/wiki/Marks_for_Effort
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 8x11
+      - 6x18
+    before:
+      - 8x06
+    opt_before:
+      - 8x06
+    comment: |
+      Spike has wings, requiring Molt Down to have happened – and recently at
+      that.
+
+      This is also an unexpected upper constraint for Buckball Season, which
+      otherwise has precious few, as it establishes that buckball is part of
+      the School of Friendship curriculum.
+
+      The CMC are interested in the School of Friendship, and have never been
+      inside prior to this episode. They did not express such an interest in
+      it during Surf and/or Turf, which produces a soft lock against it.
+
+      This episode introduces Cozy Glow, a major character for the
+      season. However, due to the way she is introduced, it does not produce a
+      hard lock against her every subsequent appearance, most of which are
+      minimal cameos: We have no clue just when exactly did she appear in the
+      School of Friendship from this episode alone.
+  8x13:
+    title: The Mean 6
+    link: http://mlp.wikia.com/wiki/The_Mean_6
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+    comment: |
+      School of Friendship is there, but otherwise, this episode is devoid of
+      almost all markers -- particularly, it has no clear upper marker. Nobody
+      even seems to ever find out that Chrysalis was up to anything, so we
+      probably won't get an upper bound on it until she appears next time, and
+      maybe even then.
+  8x14:
+    title: A Matter of Principals
+    link: http://mlp.wikia.com/wiki/A_Matter_of_Principals
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 8x11
+      - 8x12
+    opt_after:
+      - 8x12
+    comment: |
+      The episode heavily deals with the School of Friendship, and features
+      Spike’s wings.
+
+      Lots of lines, particularly the statements that imply that Discord had
+      not previously visited the school, would make this episode make a lot
+      more sense if it was an early one, but no, they just had to add the
+      wings.
+
+      The episode also features Cozy Glow, which, while it doesn’t exactly
+      require Marks for Effort to precede, results in a soft lock.
+
+      A number of important magical artifacts are first introduced in this
+      episode, resulting in several hard locks for Season 8 episodes
+      mentioning them.
+  8x15:
+    title: The Hearth's Warming Club
+    link: http://mlp.wikia.com/wiki/The_Hearth%27s_Warming_Club
+    winter: true
+    after:
+      - 8x11
+      - 8x01-02
+      - 8x12
+    opt_after:
+      - 8x12
+    comment: |
+      It’s a Hearth’s Warming episode, and thus is strictly seasonally locked
+      and has integer year boundaries, but that was obvious. Otherwise, this
+      episode *is* a chronology problem, because it establishes the following:
+
+      * This is the first winter the Student Six spend in Ponyville.
+      * School year runs through the winter with two weeks off for the
+        holidays. It does not start in winter.
+      * Indirectly, this also has to be the first winter Spike had his wings,
+        i.e Molt Down has happened. If only we knew for sure which winter it is!
+
+      See where this is going?
+
+      The sequence with the changeling attempting to celebrate Hearth's
+      Warming weakly implies that [To Where and Back Again](#ep-6x25-26)
+      happened between exactly one and two years away from this episode.
+
+      Cozy Glow appears in the background, producing a soft lock.
+  8x16:
+    title: Friendship University
+    link: http://mlp.wikia.com/wiki/Friendship_University
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 7x24-26
+      - 8x12
+    opt_after:
+      - 8x12
+    comment: |
+      This obviously postdates Shadow Play and School Daze, but otherwise, we
+      can’t do much to date this episode within Season 8 – Spike does not
+      appear with his wings to mess this up, and while the presence of Cozy
+      Glow suggests it postdates Marks for Effort, it does not require so.
+  8x17:
+    title: The End in Friend
+    link: http://mlp.wikia.com/wiki/The_End_in_Friend
+    spring: true
+    after:
+      - 8x01-02
+      - 8x11
+      - 8x14
+    comment: |
+      School of Friendship appears. Spike’s wings are in evidence.
+
+      Artifacts introduced in A Matter of Principals are referred to again.
+
+      Rainbow’s statement early on locks the season of this episode to
+      spring.
+
+      These nine months of Fluttershy being teacher of the month in
+      [Non-Compete Clause](#ep-8x09) sure look really, really strange now,
+      don’t they?
+  8x18:
+    title: Yakity-Sax
+    link: http://mlp.wikia.com/wiki/Yakity-Sax
+    summer: true
+    autumn: true
+    after:
+      - 8x11
+      - 8x07
+      - 7x05
+    comment: |
+      School of Friendship does *not* appear on screen, and neither does the
+      Friendship Castle.
+
+      Applejack comments that she has never seen or heard a yovidaphone
+      before, but in Marks for Effort, there’s a very similar instrument on
+      the wall of Pinkie’s classroom, which would actually require this
+      episode to predate Season 8 if these instruments are even a little
+      similar. Unfortunately, this is impossible: Spike’s wings require Molt
+      Down to have completed, and Applejack and Rainbow directly reference
+      Horse Play. We’ll just have to settle for Applejack having a very
+      selective memory.
+
+      Fluttershy’s shelter from Fluttershy Leans In appears.
+
+      A remark by Rarity requires this episode to happen in summer or autumn,
+      but not spring.
+  8x19:
+    title: Road to Friendship
+    link: http://mlp.wikia.com/wiki/Road_to_Friendship
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 8x12
+    opt_after:
+      - 8x12
+    comment: |
+      School of Friendship does appear on screen as Starlight’s day job. So
+      does Cozy Glow, though this does not produce a hard lock against her
+      introduction.
+
+      Spike and his wings are not seen, permitting some backdating.
+
+      This episode explicitly depicts the first time Starlight goes on a road
+      trip with Trixie, and as such, any cases of her engaging in same must
+      follow.
+  8x20:
+    title: The Washouts
+    link: http://mlp.wikia.com/wiki/The_Washouts
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 6x07
+    comment: |
+      The Student Six turn up in the audience of the airshow, requiring this
+      to happen after the start of Season 8, and Rainbow Dash is a Wonderbolt,
+      but no obvious intra-season markers are present.
+  8x21:
+    title: A Rockhoof and a Hard Place
+    link: http://mlp.wikia.com/wiki/A_Rockhoof_and_a_Hard_Place
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 8x11
+      - 8x12
+      - 7x24-26
+    opt_after:
+      - 8x12
+    comment: |
+      School of Friendship is a major part of this episode.
+
+      Rockhoof is the focus of the episode, requiring Shadow Play to have
+      completed.
+
+      Cozy Glow turns up in the audience during a lecture, but her presence
+      does not necessarily constitute a hard lock.
+
+      Spike has wings.
+  8x22:
+    title: What Lies Beneath
+    link: http://mlp.wikia.com/wiki/What_Lies_Beneath
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+      - 8x12
+    comment: |
+      School of Friendship exists.
+
+      Spike does not appear, so we don’t know if he has wings or not.
+
+      Cozy Glow appears, and this time it’s definitely a hard lock, contingent
+      on the events of Marks for Effort.
+  8x23:
+    title: Sounds of Silence
+    link: http://mlp.wikia.com/wiki/Sounds_of_Silence
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x01-02
+    comment: |
+       School of Friendship does not feature in the plot, but turns up on
+       screen first thing in the morning. Spike does not turn up, and neither
+       do his wings. Same about other in-Season-8 markers.
+
+       Since kirin don’t turn up and aren’t mentioned in subsequent episodes
+       of Season 8, this could have happened more or less at any time after
+       School Daze, and doesn't even have a solid upper bound as of the time
+       of writing.
+  8x24:
+    title: Father Knows Beast
+    link: http://mlp.wikia.com/wiki/Father_Knows_Beast
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x11
+    comment: |
+      Spike has wings, and the episode opens with him flight training, which
+      would imply Molt Down was a relatively recent, but not an immediately
+      recent event.
+
+      The entire episode would occupy the better part of a month, if not a
+      whole month, and would have to overlap something else. There is no solid
+      upper bound as of the time of writing.
+  8x25-26:
+    title: School Raze
+    link: http://mlp.wikia.com/wiki/School_Raze_-_Part_1
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - 8x11
+      - 8x01-02
+      - 8x12
+      - 8x14
+      - 8x15
+      - 8x16
+      - 8x19
+      - 8x21
+      - 8x22
+    comment: |
+      School of Friendship is the focus of the episode, Spike has wings.
+
+      This episode ends with the imprisonment of Cozy Glow, which requires
+      every episode in which she appears as a student in the School of
+      Friendship to happen prior, unless she gets released in Season 9 and
+      screws up the chronology again.
+
+      Artifacts introduced in A Matter of Principals reappear.
+  8xHS:
+    title: Best Gift Ever
+    link: http://mlp.wikia.com/wiki/My_Little_Pony_Best_Gift_Ever
+    winter: true
+    after:
+      - 8x01-02
+      - 8x15
+      - 8x11
+      - 8x19
+    comment: |
+      This is a Hearth's Warming episode, producing the obvious seasonal locks
+      and integer year boundaries.
+
+      School of Friendship comes up in some shots, and the Student Six are
+      present in the episode, which requires it to happen after School Daze
+      and also, after The Hearth’s Warming Club, which is explicitly the first
+      winter since their arrival to Ponyville.
+
+      Spike has wings.
+
+      The cold open of the episode features Starlight and Trixie leaving on a
+      road trip, requiring it to happen after the Road to Friendship.
+
+      There are currently no good upper bounds.
+  EGFF:
+    title: "Equestria Girls: Forgotten Friendship"
+    link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Forgotten_Friendship
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - EGMM
+    comment: |
+
+      TBD
+  EGMM:
+    title: "Equestria Girls: Mirror Magic"
+    link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Mirror_Magic
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - EG2
+    comment: |
+
+      TBD
 
 order:
   - SM1-SU
@@ -4503,6 +5214,46 @@ order:
   - 7x19
   - 7x24-26
   - SM4-SU
+  - EGMM
+  - EGFF
+  - MLP1
+  - 8x01-02
+  - 8x03
+  - 8x04
+  - 8x05
+  - 8x06
+  - 8x07
+  - 8x08
+  - 8x09
+  - 8x10
+  - 8x11
+  - 8x12
+  - 8x13
+  - 8x14
+  - 8x15
+  - 8x16
+  - 8x17
+  - 8x18
+  - 8x19
+  - 8x20
+  - 8x21
+  - 8x22
+  - 8x23
+  - 8x24
+  - 8x25-26
+  - 8xHS
   - SM4-AU
   - SM4-WI
   - SM4-SP
+  - SM5-SU
+  - SM5-AU
+  - SM5-WI
+  - SM5-SP
+  - SM6-SU
+  - SM6-AU
+  - SM6-WI
+  - SM6-SP
+  - SM7-SU
+  - SM7-AU
+  - SM7-WI
+  - SM7-SP
