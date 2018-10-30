@@ -5026,9 +5026,25 @@ episodes:
     spring: true
     after:
       - EGMM
+      - EG4
+    before:
+      - MLP1
     comment: |
+      The magic powers of the Humane 7 set this after Legends of Everfree.
 
-      TBD
+      It's difficult to estimate when exactly in the Pedestrian year it
+      happens, but it's definitely the fourth year of high school for the
+      Humane 7, and it can't be too late or too early in the year for an ocean
+      swim, so it limits the months significantly, depending on how far south
+      the Pedestrian city is.
+
+      There is actually very little to date this episode on the Equestrian
+      side, directly or indirectly: Starlight never appears, so it can't be
+      put in a solid relation to [Mirror Magic](#ep-EGMM), no direct mentions
+      of prior post-Legends of Everfree specials occur, and all that remains
+      is the Friendship Castle, which would be there anyway, since it predates
+      [Rainbow Rocks](#ep-EG2). The only known upper bound is the throne room
+      of Canterlot Castle, which has the pre-movie look.
   EGMM:
     title: "Equestria Girls: Mirror Magic"
     link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Mirror_Magic
