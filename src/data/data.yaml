@@ -3123,10 +3123,10 @@ episodes:
       The Pony Movie With No Ponies In It.
 
       We can basically say nothing about the chronological position of this
-      movie, except that it follows the previous one. While it is obviously
-      summmer in Pedestria, we have no idea whether this matches Equestria,
-      and even whether the time flows at the same rate on both sides of the
-      portal, so that doesn't give us anything.
+      movie, except that it follows the previous one. We never see what season
+      is it in Equestria, and we don't even know whether the time flows at the
+      same rate on both sides of the portal -- there are very good reasons to
+      believe it does not -- so that doesn't give us anything.
   6x01-02:
     title: The Crystalling
     link: http://mlp.wikia.com/wiki/The_Crystalling_-_Part_1
@@ -5000,9 +5000,11 @@ episodes:
     winter: true
     after:
       - 8x01-02
+      - 8x03
       - 8x15
       - 8x11
       - 8x19
+      - 7x08
     comment: |
       This is a Hearth's Warming episode, producing the obvious seasonal locks
       and integer year boundaries.
@@ -5013,6 +5015,9 @@ episodes:
       winter since their arrival to Ponyville.
 
       Spike has wings.
+
+      Mudbriar appears, very briefly. (which is a good thing.) Likewise, Sugar
+      Belle is together with Big Mac.
 
       The cold open of the episode features Starlight and Trixie leaving on a
       road trip, requiring it to happen after the Road to Friendship.
@@ -5074,8 +5079,9 @@ episodes:
     precedes A Celestial Advice.
 
     This special occurs during a Cutie Map mission that definitely was never
-    televised, so unfortunately we can't put it into a more precise
-    correspondence with the Equestrian timeline purely on its own contents.
+    televised, which included Twilight and at least two other ponies -- so
+    unfortunately we can't put it into a more precise correspondence with the
+    Equestrian timeline purely on its own contents.
 
     We never actually see the season in Equestria, either.
 
