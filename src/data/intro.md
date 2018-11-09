@@ -25,13 +25,15 @@ Well, I say it's their problem.
 
 The entire point of coding this was to account for certain known "markers" which permit us to split at least some of the rest of the episodes into "before" and "after" states, like "Twilight's Ascension" or "CMC getting cutie marks" or "Zecora being befriended," as well as introduce other restrictions based on phenomena seen on screen, and observe these restrictions automatically while moving episodes around.
 
-The rules are described in episode commentary where reasonable: if we see the Friendship Castle, the episode occurs after it is created, if we see a character, this has to happen after they were introduced, etc.
+The rules are described in episode commentary where reasonable: if we see the Friendship Castle, the episode occurs after it is created, if we see a character being friendly with the main cast on screen, this has to happen after they were introduced, etc.
 
-The idea is to write in as many such restrictions as possible, write up everything which looks like a restriction but isn't definite, and then shove the episodes around until they start making sense. We're still far from having all the existing hard constraints listed. Something coherently continuous should eventually emerge, if enough people play with it and send me their input.
+The idea is to write in as many such restrictions as possible, write up everything which looks like a restriction but isn't definite, and then shove the episodes around until they start making sense. Most of the existing hard constraints *should* be listed, but the chance to find something new remains. Something coherently continuous should eventually emerge, if enough people play with it and send me their input.
+
+If nothing else, this proved a useful tool for writing stories which attempt to treat continuity seriously.
 
 The default reordering presented here as starting data, particularly where it concerns seasons 1 to 3, was worked out by a prior researcher whose name is lost to the sands of time. This was the longest reordered timeline I managed to locate, and I find that it works well, particularly if you make a playlist of episodes in chronological order.
 
-The default order is *known* to be wrong in several places, and later seasons are in fact given in airing order, despite known constraints making this order invalid, so don't treat this stack of cards as immutable truth. The rules on the episodes themselves, though, should be pretty solid.
+The default order is *known* to be wrong in several places, and later seasons are in fact given in episode numbering order, since I have not yet put in the (Herculean) effort required to sort them. Despite known constraints making this order invalid. Don't treat this stack of cards as immutable truth, it's not. The rules on the episodes themselves, though, should be pretty solid.
 
 ## Seasons
 
@@ -39,7 +41,7 @@ Since few episodes can be conclusively limited to happening during a specific ti
 
 In addition to that, a number of virtual season-change episodes hard-locked against each other are provided, and certain episodes are locked against them, rather than just other real episodes.
 
-We do not know when the pony calendar year begins. For this reason, this cycle starts at Summer, year 1, and continues on through Summer - Autumn - Winter - Spring. Default configuration lists only four years of this cycle, because so far, we can't conclusively demonstrate that the series timeline ran for longer than that.
+We do not know when the pony calendar year begins. For this reason, this cycle starts at Summer, year 1, and continues on through Summer - Autumn - Winter - Spring. Default configuration lists only seven years of this cycle, because so far, we can't conclusively demonstrate that the series timeline ran for longer than that. My estimate is that the timeline is actually considerably shorter than seven years, because multiple sets of cross-referencing episodes exist which constrain numerous episodes between them to occur within one year, and sometimes less. Lots of people have a problem with that, but every few seasons, the show crew introduces another constraint like that, squishing two or more seasons together.
 
 ## Usage
 
@@ -60,5 +62,5 @@ There is no central server storing the data anywhere after you change it, becaus
 
 * You can use the button in the navigation bar above to export the entire set of episodes as a CSV table. This will upload seamlessly to Google Docs.
 * There's a button marked `Save` in the navigation bar. Clicking it will produce a special URL, following which will recreate the episode order you had at the time of clicking on the button. You can bookmark this link, or right-click and `Copy link address` on the button, and share it. Beware: the list of currently selected soft locks is not getting saved in this version, and will be reset to default upon loading.
-  * If you plan to post your episode ordering on Fimfiction, you might want to use an URL shortener, like [goo.gl](https://goo.gl) or [tinyurl](https://tinyurl.com), as Fimfiction does not like long URLs containing data like that.
+  * If you plan to post your episode ordering on Fimfiction, you might want to use an URL shortener, like [bit.ly](https://bit.ly) or [tinyurl](https://tinyurl.com), as Fimfiction does not like long URLs containing data like that.
   * If you actually saved this file to your own disk, it will become slightly more complicated: The actual part containing the data is everything after the `#!`. Find a copy of this program on the public Internet, and append the entire part of the link starting with `#!` to the end, it should work.
