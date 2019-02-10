@@ -3979,6 +3979,10 @@ episodes:
     spring: true
     after:
       - 5x18
+    before:
+      - 5x19
+    opt_before:
+      - 5x19
     comment: |
       This episode is highly chronologically disconnected, and mostly consists
       of flashbacks. However, it makes the more sense the earlier it happens,
@@ -3986,9 +3990,20 @@ episodes:
       the Apple Parents becomes. The only hard lower bound on this episode so
       far identified is Apple Bloom's cutie mark.
 
-      This episode introduces Grand Pear, however, it is unlikely he will be a
-      recurring character. Nevertheless, any episodes in which he is mentioned
-      will have to occur afterwards.
+      In The One Where Pinkie Pie Knows, Applejack observes her own birth
+      certificate. Such a document would be entirely meaningless if it did not
+      contain at the very least the full name of her mother, however, we also
+      know that up until this episode, Applejack only knew her mother as
+      "Buttercup". At the same time, Goldie Delicious insists that "Buttercup"
+      was just a nickname, and leaves no options for Pear Butter to have had
+      it legally changed upon marriage. It follows that this episode has to
+      precede The One Where Pinkie Pie Knows, and there are no locks
+      preventing this -- but this itself is not a hard lock, because we can
+      still believe Goldie Delicious is getting senile.
+
+      This episode introduces Grand Pear, who is another minor chronology
+      marker -- due to being voiced by William Shatner, he is unlikely to make
+      many appearances, but he does turn up in the background afterwards.
 
   7x14:
     title: Fame and Misfortune
