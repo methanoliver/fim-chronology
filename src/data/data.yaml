@@ -3,7 +3,7 @@ years: 7
 episodes:
   1x01-02:
     title: Friendship is Magic
-    link: http://mlp.wikia.com/wiki/Friendship_is_Magic,_part_1
+    link: http://mlp.fandom.com/wiki/Friendship_is_Magic,_part_1
     summer: true
     after:
       - SM1-SU
@@ -28,7 +28,7 @@ episodes:
 
   1x03:
     title: The Ticket Master
-    link: http://mlp.wikia.com/wiki/The_Ticket_Master
+    link: http://mlp.fandom.com/wiki/The_Ticket_Master
     summer: true
     after:
       - 1x01-02
@@ -61,7 +61,7 @@ episodes:
       the first.
   1x04:
     title: Applebuck Season
-    link: http://mlp.wikia.com/wiki/Applebuck_Season
+    link: http://mlp.fandom.com/wiki/Applebuck_Season
     autumn: true
     after:
       - 1x01-02
@@ -101,7 +101,7 @@ episodes:
       is season locked to summer.
   1x05:
     title: Griffon the Brush Off
-    link: http://mlp.wikia.com/wiki/Griffon_the_Brush_Off
+    link: http://mlp.fandom.com/wiki/Griffon_the_Brush_Off
     autumn: true
     summer: true
     spring: true
@@ -119,13 +119,9 @@ episodes:
       that they're new compared to Gilda, but even then it sounds like they're
       new to Rainbow herself.
 
-      Celestia's room has a burning fireplace for some unclear reason, with
-      actual logs and a flame in it, suggesting it's *not* summer, however, or
-      at least, an unusually cool day in Canterlot.
-
   1x06:
     title: Boast Busters
-    link: http://mlp.wikia.com/wiki/Boast_Busters
+    link: http://mlp.fandom.com/wiki/Boast_Busters
     autumn: true
     summer: true
     spring: true
@@ -156,13 +152,14 @@ episodes:
       The Return of Harmony, Lesson Zero, The Mysterious Mare Do Well, It's
       About Time, A Canterlot Wedding, The Crystal Empire and Too Many Pinkie
       Pies qualify, and others that do qualify have one of these as a
-      prerequisite. Obviously, it can't happen after Magic Duel.
+      prerequisite. Obviously, it can\'t happen after Magic Duel.
 
       This episode introduces Trixie and is explicitly referred to as her
       first appearance since then.
+
   1x07:
     title: Dragonshy
-    link: http://mlp.wikia.com/wiki/Dragonshy
+    link: http://mlp.fandom.com/wiki/Dragonshy
     autumn: true
     summer: true
     spring: true
@@ -198,9 +195,10 @@ episodes:
       but not necessarily *does* happen before the Ticket Master, where he
       briefly steals the tickets for her and accompanies her on the
       butter-up-to-Twilight mission.
+
   1x08:
     title: Look Before You Sleep
-    link: http://mlp.wikia.com/wiki/Look_Before_You_Sleep
+    link: http://mlp.fandom.com/wiki/Look_Before_You_Sleep
     autumn: true
     summer: true
     spring: true
@@ -228,7 +226,7 @@ episodes:
       why I'm putting this episode very early on.
   1x09:
     title: Bridle Gossip
-    link: http://mlp.wikia.com/wiki/Bridle_Gossip
+    link: http://mlp.fandom.com/wiki/Bridle_Gossip
     autumn: true
     summer: true
     spring: true
@@ -260,7 +258,7 @@ episodes:
       friends in the events.
   1x10:
     title: Swarm of the Century
-    link: http://mlp.wikia.com/wiki/Swarm_of_the_Century
+    link: http://mlp.fandom.com/wiki/Swarm_of_the_Century
     autumn: true
     summer: true
     spring: true
@@ -274,15 +272,16 @@ episodes:
     comment: |
       Zecora reappears.
 
-      While Twilight's statement "Nopony can herd like Applejack" can be
+      While Twilight\'s statement "Nopony can herd like Applejack" can be
       interpreted as a reference to Applebuck Season, this is not definite, as
       Twilight could have observed Applejack in action at a different time.
 
       The episode ends with major damage to Ponyville, and requires a certain
       time for repairs.
+
   1x11:
     title: Winter Wrap Up
-    link: http://mlp.wikia.com/wiki/Winter_Wrap_Up
+    link: http://mlp.fandom.com/wiki/Winter_Wrap_Up
     winter: true
     after:
       - 1x01-02
@@ -291,6 +290,7 @@ episodes:
       - SM1-SP
       - 3x13
     comment: |
+
       Wrapping up winter requires this episode to conclude a winter.
 
       Since it is also explicitly Twilight's first winter in Ponyville, the
@@ -298,9 +298,10 @@ episodes:
       [Friendship is Magic](#ep-1x01-02) -- it must be immediately followed by
       the beginning of the [first spring of the first year](#ep-SM1-SP) of the
       series.
+
   1x12:
     title: Call of the Cutie
-    link: http://mlp.wikia.com/wiki/Call_of_the_Cutie
+    link: http://mlp.fandom.com/wiki/Call_of_the_Cutie
     summer: true
     after:
       - 1x01-02
@@ -311,7 +312,8 @@ episodes:
     opt_before:
       - SM1-AU
     comment: |
-      This episode requires some crafty interpretation, that is reflected in
+
+      This episode requires some crafty interpretation, which is reflected in
       the constraints presented. If you substantially disagree with this
       interpretation, you run into a dependency loop problem anyway.
 
@@ -371,9 +373,10 @@ episodes:
         skill. That can be explained by most of the ponies in the remedial
         class being children of recently arrived families, and thus outside of
         Cherilee's fault.
+
   1x13:
     title: Fall Weather Friends
-    link: http://mlp.wikia.com/wiki/Fall_Weather_Friends
+    link: http://mlp.fandom.com/wiki/Fall_Weather_Friends
     autumn: true
     after:
       - 1x01-02
@@ -385,6 +388,7 @@ episodes:
     opt_before:
       - SM1-WI
     comment: |
+
       The running of the leaves ritual places this at the very end of an
       autumn. In [Tanks for the Memories,](#ep-5x05) we can observe the winter
       startup procedures, and if that episode is in any way typical, snow
@@ -395,9 +399,10 @@ episodes:
       this episode. As far as we can tell, this *is* Twilight's first autumn
       in Ponyville, though it does not necessarily have to be, which means a
       soft constraint against the start of the first winter.
+
   1x14:
     title: Suited For Success
-    link: http://mlp.wikia.com/wiki/Suited_For_Success
+    link: http://mlp.fandom.com/wiki/Suited_For_Success
     autumn: true
     summer: true
     spring: true
@@ -415,7 +420,7 @@ episodes:
       screen.
   1x15:
     title: Feeling Pinkie Keen
-    link: http://mlp.wikia.com/wiki/Feeling_Pinkie_Keen
+    link: http://mlp.fandom.com/wiki/Feeling_Pinkie_Keen
     autumn: true
     summer: true
     spring: true
@@ -430,7 +435,7 @@ episodes:
       song, this must be after Dragonshy, when she learned it.
   1x16:
     title: Sonic Rainboom
-    link: http://mlp.wikia.com/wiki/Sonic_Rainboom
+    link: http://mlp.fandom.com/wiki/Sonic_Rainboom
     autumn: true
     summer: true
     spring: true
@@ -466,7 +471,7 @@ episodes:
 
   1x17:
     title: Stare Master
-    link: http://mlp.wikia.com/wiki/Stare_Master
+    link: http://mlp.fandom.com/wiki/Stare_Master
     autumn: true
     summer: true
     spring: true
@@ -488,7 +493,7 @@ episodes:
       happen after Dragonshy.
   1x18:
     title: The Show Stoppers
-    link: http://mlp.wikia.com/wiki/The_Show_Stoppers
+    link: http://mlp.fandom.com/wiki/The_Show_Stoppers
     autumn: true
     summer: true
     spring: true
@@ -513,7 +518,7 @@ episodes:
       Master](#ep-1x17).
   1x19:
     title: A Dog and Pony Show
-    link: http://mlp.wikia.com/wiki/A_Dog_and_Pony_Show
+    link: http://mlp.fandom.com/wiki/A_Dog_and_Pony_Show
     autumn: true
     summer: true
     spring: true
@@ -529,7 +534,7 @@ episodes:
       she is not sufficiently famous *yet* to do that.
   1x20:
     title: Green Isn't Your Color
-    link: http://mlp.wikia.com/wiki/Green_Isn%27t_Your_Color
+    link: http://mlp.fandom.com/wiki/Green_Isn%27t_Your_Color
     autumn: true
     summer: true
     spring: true
@@ -563,7 +568,7 @@ episodes:
 
   1x21:
     title: Over a Barrel
-    link: http://mlp.wikia.com/wiki/Over_a_Barrel
+    link: http://mlp.fandom.com/wiki/Over_a_Barrel
     autumn: true
     summer: true
     spring: true
@@ -584,7 +589,7 @@ episodes:
       the episode can also occur in summer or spring.
   1x22:
     title: A Bird in the Hoof
-    link: http://mlp.wikia.com/wiki/A_Bird_in_the_Hoof
+    link: http://mlp.fandom.com/wiki/A_Bird_in_the_Hoof
     autumn: true
     summer: true
     spring: true
@@ -605,7 +610,7 @@ episodes:
       suggesting that the latter has to have happened by now.
   1x23:
     title: The Cutie Mark Chronicles
-    link: http://mlp.wikia.com/wiki/The_Cutie_Mark_Chronicles
+    link: http://mlp.fandom.com/wiki/The_Cutie_Mark_Chronicles
     autumn: true
     summer: true
     spring: true
@@ -620,8 +625,8 @@ episodes:
       cutie marks and the actual practice of crusading is not yet
       developed, so this can't be too long alter Stare Master.
   1x24:
-    title: Owl's Well That Ends Well
-    link: http://mlp.wikia.com/wiki/Owl%27s_Well_That_Ends_Well
+    title: "Owl's Well That Ends Well"
+    link: http://mlp.fandom.com/wiki/Owl%27s_Well_That_Ends_Well
     autumn: true
     summer: true
     spring: true
@@ -652,7 +657,7 @@ episodes:
       marker, it provides an upper bound on this episode.
   1x25:
     title: Party of One
-    link: http://mlp.wikia.com/wiki/Party_of_One
+    link: http://mlp.fandom.com/wiki/Party_of_One
     spring: true
     after:
       - 1x01-02
@@ -688,7 +693,7 @@ episodes:
       to follow their introduction.
   1x26:
     title: The Best Night Ever
-    link: http://mlp.wikia.com/wiki/The_Best_Night_Ever
+    link: http://mlp.fandom.com/wiki/The_Best_Night_Ever
     summer: true
     spring: true
     after:
@@ -718,7 +723,7 @@ episodes:
       of first year's spring.
   2x01-02:
     title: The Return of Harmony
-    link: http://mlp.wikia.com/wiki/The_Return_of_Harmony_Part_1
+    link: http://mlp.fandom.com/wiki/The_Return_of_Harmony_Part_1
     autumn: true
     summer: true
     spring: true
@@ -745,7 +750,7 @@ episodes:
       shown -- providing us with a wealth of hard markers.
   2x03:
     title: Lesson Zero
-    link: http://mlp.wikia.com/wiki/Lesson_Zero
+    link: http://mlp.fandom.com/wiki/Lesson_Zero
     autumn: true
     summer: true
     spring: true
@@ -777,45 +782,45 @@ episodes:
       part of a package immediately following The Return of Harmony.
 
       * Discord is stone again, but he made the Mane Six doubt their own
-      virtues, and while they did beat him, some of the doubt is
-      lingering. Which is what he was aiming for, he got the last laugh from
-      the statue garden. Twilight is upset that she needed bailing out by way
-      of returned letters, which grows into a feeling of her own inadequacy,
-      this week is the worst time ever for her to be tardy... and Lesson Zero
-      happens.
-      * The town bounces back from it in minutes, but it's a bit heavier on
-      the Mane Six. Pinkie even uses an excuse -- Gummy's party feels like one,
-      she likes her alligator, but I'm not sure the alligator likes everypony
-      else enough to be pleased by them attending his birthday -- to cheer her
-      friends up. It works, but it's not enough for Pinkie. She is worried
-      that her friends actually are laughing at her instead of with her -- and
-      as a result tries to have another [Party of One](#ep-1x25) immediately
-      afterwards, and gets her suspicions inadvertently confirmed, because it
-      so happened that this coincided with her own birthday. Which she
-      completely forgot about while worrying.
+        virtues, and while they did beat him, some of the doubt is
+        lingering. Which is what he was aiming for, he got the last laugh from
+        the statue garden. Twilight is upset that she needed bailing out by way
+        of returned letters, which grows into a feeling of her own inadequacy,
+        this week is the worst time ever for her to be tardy... and Lesson Zero
+        happens.
+      * The town bounces back from it in minutes, but it's a bit heavier on the
+        Mane Six. Pinkie even uses an excuse -- Gummy's party feels like one,
+        she likes her alligator, but I'm not sure the alligator likes everypony
+        else enough to be pleased by them attending his birthday -- to cheer her
+        friends up. It works, but it's not enough for Pinkie. She is worried
+        that her friends actually are laughing at her instead of with her -- and
+        as a result tries to have another [Party of One](#ep-1x25) immediately
+        afterwards, and gets her suspicions inadvertently confirmed, because it
+        so happened that this coincided with her own birthday. Which she
+        completely forgot about while worrying.
       * Applejack has never worried much about herself. But she has always
-      worried about her family, and feels inadequate about being able to
-      protect them. Now that business necessitates she leave Apple Bloom alone
-      for a time, she just can't stop coming back and being overprotective and
-      overbearing. [Somepony to Watch Over Me](#ep-4x17) happens. She is very
-      busy with that and the actual trip.
+        worried about her family, and feels inadequate about being able to
+        protect them. Now that business necessitates she leave Apple Bloom
+        alone for a time, she just can't stop coming back and being
+        overprotective and overbearing. [Somepony to Watch Over Me](#ep-4x17)
+        happens. She is very busy with that and the actual trip.
       * Which is why Applejack is completely missing while Fluttershy is
-      [Putting Your Hoof Down](#ep-2x19) in her own fit of feeling
-      inadequate. Meanwhile, Ponyville is suffering from an unscheduled
-      tourist invasion due to the rumor spreading that it was the chaos
-      capital of the world for a day, getting the marketplace to hike prices
-      up.
+        [Putting Your Hoof Down](#ep-2x19) in her own fit of feeling
+        inadequate. Meanwhile, Ponyville is suffering from an unscheduled
+        tourist invasion due to the rumor spreading that it was the chaos
+        capital of the world for a day, getting the marketplace to hike prices
+        up.
       * Celestia alone knows what exactly Rainbow is doing at the time, but my
-      guess is, she is out visiting her family in Cloudsdale, remembering what
-      Discord got *her* with.
+        guess is, she is out visiting her family in Cloudsdale, remembering
+        what Discord got *her* with.
       * Rarity's too much of a lady or too certain of her fabulousness to let
-      it show, and Tom the boulder was shame enough. :)
+        it show, and Tom the boulder was shame enough. :)
 
       That permits us to package four episodes into a thematically cohesive
       unit occupuing two weeks at the longest.
   2x04:
     title: Luna Eclipsed
-    link: http://mlp.wikia.com/wiki/Luna_Eclipsed
+    link: http://mlp.fandom.com/wiki/Luna_Eclipsed
     autumn: true
     after:
       - 1x01-02
@@ -831,7 +836,7 @@ episodes:
       autumn.
   2x05:
     title: Sisterhooves Social
-    link: http://mlp.wikia.com/wiki/Sisterhooves_Social
+    link: http://mlp.fandom.com/wiki/Sisterhooves_Social
     autumn: true
     summer: true
     after:
@@ -860,7 +865,7 @@ episodes:
       Social event.
   2x06:
     title: The Cutie Pox
-    link: http://mlp.wikia.com/wiki/The_Cutie_Pox
+    link: http://mlp.fandom.com/wiki/The_Cutie_Pox
     autumn: true
     summer: true
     spring: true
@@ -887,7 +892,7 @@ episodes:
       strictly after Lesson Zero.
   2x07:
     title: May the Best Pet Win!
-    link: http://mlp.wikia.com/wiki/May_the_Best_Pet_Win!
+    link: http://mlp.fandom.com/wiki/May_the_Best_Pet_Win!
     autumn: true
     summer: true
     spring: true
@@ -916,7 +921,7 @@ episodes:
       letter to Princess Celestia, so Lesson Zero is a lower bound.
   2x08:
     title: The Mysterious Mare Do Well
-    link: http://mlp.wikia.com/wiki/The_Mysterious_Mare_Do_Well
+    link: http://mlp.fandom.com/wiki/The_Mysterious_Mare_Do_Well
     autumn: true
     summer: true
     spring: true
@@ -946,7 +951,7 @@ episodes:
 
   2x09:
     title: Sweet and Elite
-    link: http://mlp.wikia.com/wiki/Sweet_and_Elite
+    link: http://mlp.fandom.com/wiki/Sweet_and_Elite
     autumn: true
     summer: true
     spring: true
@@ -1015,7 +1020,7 @@ episodes:
       Zero as the hard lower constraint.
   2x10:
     title: Secret of My Excess
-    link: http://mlp.wikia.com/wiki/Secret_of_My_Excess
+    link: http://mlp.fandom.com/wiki/Secret_of_My_Excess
     summer: true
     spring: true
     after:
@@ -1070,7 +1075,7 @@ episodes:
       with an explicit letter to Celestia.
   2x11:
     title: Hearth's Warming Eve
-    link: http://mlp.wikia.com/wiki/Hearth%27s_Warming_Eve
+    link: http://mlp.fandom.com/wiki/Hearth%27s_Warming_Eve
     winter: true
     after:
       - 1x01-02
@@ -1095,7 +1100,7 @@ episodes:
       Makes me want to see a "shopping for Hearthwarming" episode.
   2x12:
     title: Family Appreciation Day
-    link: http://mlp.wikia.com/wiki/Family_Appreciation_Day
+    link: http://mlp.fandom.com/wiki/Family_Appreciation_Day
     autumn: true
     spring: true
     summer: true
@@ -1114,7 +1119,7 @@ episodes:
       the placement of [Spike at Your Service.](#ep-3x09)
   2x13:
     title: Baby Cakes
-    link: http://mlp.wikia.com/wiki/Baby_Cakes
+    link: http://mlp.fandom.com/wiki/Baby_Cakes
     autumn: true
     summer: true
     spring: true
@@ -1138,7 +1143,7 @@ episodes:
       else, making Lesson Zero a soft, rather than hard constraint.
   2x14:
     title: The Last Roundup
-    link: http://mlp.wikia.com/wiki/The_Last_Roundup
+    link: http://mlp.fandom.com/wiki/The_Last_Roundup
     autumn: true
     summer: true
     spring: true
@@ -1168,7 +1173,7 @@ episodes:
       writing the letter, so this does not produce a hard bound.
   2x15:
     title: The Super Speedy Cider Squeezy 6000
-    link: http://mlp.wikia.com/wiki/The_Super_Speedy_Cider_Squeezy_6000
+    link: http://mlp.fandom.com/wiki/The_Super_Speedy_Cider_Squeezy_6000
     autumn: true
     summer: true
     spring: true
@@ -1194,7 +1199,7 @@ episodes:
       constraint.
   2x16:
     title: Read It and Weep
-    link: http://mlp.wikia.com/wiki/Read_It_and_Weep
+    link: http://mlp.fandom.com/wiki/Read_It_and_Weep
     autumn: true
     summer: true
     spring: true
@@ -1212,7 +1217,7 @@ episodes:
       is written, making Lesson Zero a hard lower bound.
   2x17:
     title: Hearts and Hooves Day
-    link: http://mlp.wikia.com/wiki/Hearts_and_Hooves_Day
+    link: http://mlp.fandom.com/wiki/Hearts_and_Hooves_Day
     autumn: true
     summer: true
     spring: true
@@ -1228,7 +1233,7 @@ episodes:
       place right and needs further research.
   2x18:
     title: A Friend in Deed
-    link: http://mlp.wikia.com/wiki/A_Friend_in_Deed
+    link: http://mlp.fandom.com/wiki/A_Friend_in_Deed
     autumn: true
     summer: true
     spring: true
@@ -1256,7 +1261,7 @@ episodes:
       a winter, which is not in evidence.
   2x19:
     title: Putting Your Hoof Down
-    link: http://mlp.wikia.com/wiki/Putting_Your_Hoof_Down
+    link: http://mlp.fandom.com/wiki/Putting_Your_Hoof_Down
     autumn: true
     summer: true
     spring: true
@@ -1289,7 +1294,7 @@ episodes:
       bound is Flutter Brutter, in which a picture of Iron Will turns up.
   2x20:
     title: It's About Time
-    link: http://mlp.wikia.com/wiki/It%27s_About_Time
+    link: http://mlp.fandom.com/wiki/It%27s_About_Time
     spring: true
     after:
       - 1x01-02
@@ -1331,7 +1336,7 @@ episodes:
       be a timeline erased by the events of this episode.
   2x21:
     title: Dragon Quest
-    link: http://mlp.wikia.com/wiki/Dragon_Quest
+    link: http://mlp.fandom.com/wiki/Dragon_Quest
     autumn: true
     summer: true
     spring: true
@@ -1364,7 +1369,7 @@ episodes:
       Squeezy 6000](#ep-2x15) follows.
   2x22:
     title: Hurricane Fluttershy
-    link: http://mlp.wikia.com/wiki/Hurricane_Fluttershy
+    link: http://mlp.fandom.com/wiki/Hurricane_Fluttershy
     spring: true
     summer: true
     autumn: true
@@ -1390,7 +1395,7 @@ episodes:
       this occurs after [Best Night Ever.](#ep-1x26)
   2x23:
     title: Ponyville Confidential
-    link: http://mlp.wikia.com/wiki/Ponyville_Confidential
+    link: http://mlp.fandom.com/wiki/Ponyville_Confidential
     autumn: true
     summer: true
     spring: true
@@ -1414,7 +1419,7 @@ episodes:
       publications, requiring this episode to happen after Lesson Zero.
   2x24:
     title: MMMystery on the Friendship Express
-    link: http://mlp.wikia.com/wiki/MMMystery_on_the_Friendship_Express
+    link: http://mlp.fandom.com/wiki/MMMystery_on_the_Friendship_Express
     autumn: true
     summer: true
     spring: true
@@ -1437,7 +1442,7 @@ episodes:
       actually existed.
   2x25-26:
     title: A Canterlot Wedding
-    link: http://mlp.wikia.com/wiki/A_Canterlot_Wedding_-_Part_1
+    link: http://mlp.fandom.com/wiki/A_Canterlot_Wedding_-_Part_1
     autumn: true
     summer: true
     spring: true
@@ -1462,7 +1467,7 @@ episodes:
       to happen prior.
   3x01-02:
     title: The Crystal Empire
-    link: http://mlp.wikia.com/wiki/The_Crystal_Empire_-_Part_1
+    link: http://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_1
     autumn: true
     summer: true
     spring: true
@@ -1477,7 +1482,7 @@ episodes:
       episode.
   3x03:
     title: Too Many Pinkie Pies
-    link: http://mlp.wikia.com/wiki/Too_Many_Pinkie_Pies
+    link: http://mlp.fandom.com/wiki/Too_Many_Pinkie_Pies
     autumn: true
     summer: true
     spring: true
@@ -1521,7 +1526,7 @@ episodes:
       after the events depicted, so this is a soft, rather than a hard bound.
   3x04:
     title: One Bad Apple
-    link: http://mlp.wikia.com/wiki/One_Bad_Apple
+    link: http://mlp.fandom.com/wiki/One_Bad_Apple
     summer: true
     after:
       - 1x01-02
@@ -1537,7 +1542,7 @@ episodes:
       occupy the same time period.
   3x05:
     title: Magic Duel
-    link: http://mlp.wikia.com/wiki/Magic_Duel
+    link: http://mlp.fandom.com/wiki/Magic_Duel
     autumn: true
     summer: true
     spring: true
@@ -1566,7 +1571,7 @@ episodes:
 
   3x06:
     title: Sleepless in Ponyville
-    link: http://mlp.wikia.com/wiki/Sleepless_in_Ponyville
+    link: http://mlp.fandom.com/wiki/Sleepless_in_Ponyville
     autumn: true
     summer: true
     spring: true
@@ -1591,7 +1596,7 @@ episodes:
 
   3x07:
     title: Wonderbolts Academy
-    link: http://mlp.wikia.com/wiki/Wonderbolts_Academy
+    link: http://mlp.fandom.com/wiki/Wonderbolts_Academy
     autumn: true
     summer: true
     spring: true
@@ -1619,7 +1624,7 @@ episodes:
 
   3x08:
     title: Apple Family Reunion
-    link: http://mlp.wikia.com/wiki/Apple_Family_Reunion
+    link: http://mlp.fandom.com/wiki/Apple_Family_Reunion
     autumn: true
     summer: true
     spring: true
@@ -1645,7 +1650,7 @@ episodes:
       bounds, it can and probably should be forward dated.
   3x09:
     title: Spike at Your Service
-    link: http://mlp.wikia.com/wiki/Spike_at_Your_Service
+    link: http://mlp.fandom.com/wiki/Spike_at_Your_Service
     autumn: true
     summer: true
     spring: true
@@ -1678,7 +1683,7 @@ episodes:
       parallel.
   3x10:
     title: Keep Calm and Flutter On
-    link: http://mlp.wikia.com/wiki/Keep_Calm_and_Flutter_On
+    link: http://mlp.fandom.com/wiki/Keep_Calm_and_Flutter_On
     autumn: true
     summer: true
     spring: true
@@ -1693,7 +1698,7 @@ episodes:
       this probably quite a while after The Return Of Harmony.
   3x11-12:
     title: Just for Sidekicks / Games Ponies Play
-    link: http://mlp.wikia.com/wiki/Just_for_Sidekicks
+    link: http://mlp.fandom.com/wiki/Just_for_Sidekicks
     autumn: true
     summer: true
     spring: true
@@ -1721,7 +1726,7 @@ episodes:
       she is seen being familiar with any of the cast to follow
   3x13:
     title: Magical Mystery Cure
-    link: http://mlp.wikia.com/wiki/Magical_Mystery_Cure
+    link: http://mlp.fandom.com/wiki/Magical_Mystery_Cure
     summer: true
     spring: true
     after:
@@ -1744,7 +1749,7 @@ episodes:
       the spring of year 1.
   4x01-02:
     title: Princess Twilight Sparkle
-    link: http://mlp.wikia.com/wiki/Princess_Twilight_Sparkle_-_Part_1
+    link: http://mlp.fandom.com/wiki/Princess_Twilight_Sparkle_-_Part_1
     summer: true
     after:
       - 1x09
@@ -1780,7 +1785,7 @@ episodes:
       have started before that.
   4x03:
     title: Castle Mane-ia
-    link: http://mlp.wikia.com/wiki/Castle_Mane-ia
+    link: http://mlp.fandom.com/wiki/Castle_Mane-ia
     autumn: true
     summer: true
     spring: true
@@ -1797,7 +1802,7 @@ episodes:
       follow.
   4x04:
     title: Daring Don't
-    link: http://mlp.wikia.com/wiki/Daring_Don%27t
+    link: http://mlp.fandom.com/wiki/Daring_Don%27t
     autumn: true
     summer: true
     spring: true
@@ -1831,7 +1836,7 @@ episodes:
       Mane-ia](#ep-4x03).
   4x05:
     title: Flight to the Finish
-    link: http://mlp.wikia.com/wiki/Flight_to_the_Finish
+    link: http://mlp.fandom.com/wiki/Flight_to_the_Finish
     autumn: true
     summer: true
     spring: true
@@ -1857,7 +1862,7 @@ episodes:
       Don't](#ep-4x04).
   4x06:
     title: Power Ponies
-    link: http://mlp.wikia.com/wiki/Power_Ponies
+    link: http://mlp.fandom.com/wiki/Power_Ponies
     autumn: true
     summer: true
     spring: true
@@ -1877,7 +1882,7 @@ episodes:
       to the Finish](#ep-4x05).
   4x07:
     title: Bats!
-    link: http://mlp.wikia.com/wiki/Bats!
+    link: http://mlp.fandom.com/wiki/Bats!
     autumn: true
     after:
       - 3x13
@@ -1898,7 +1903,7 @@ episodes:
       Ponies](#ep-4x06).
   4x08:
     title: Rarity Takes Manehattan
-    link: http://mlp.wikia.com/wiki/Rarity_Takes_Manehattan
+    link: http://mlp.fandom.com/wiki/Rarity_Takes_Manehattan
     autumn: true
     after:
       - 3x13
@@ -1925,7 +1930,7 @@ episodes:
       [Bats!](#ep-4x07).
   4x09:
     title: Pinkie Apple Pie
-    link: http://mlp.wikia.com/wiki/Pinkie_Apple_Pie
+    link: http://mlp.fandom.com/wiki/Pinkie_Apple_Pie
     autumn: true
     summer: true
     spring: true
@@ -1951,7 +1956,7 @@ episodes:
       for some bizarre reason.
   4x10:
     title: Rainbow Falls
-    link: http://mlp.wikia.com/wiki/Rainbow_Falls
+    link: http://mlp.fandom.com/wiki/Rainbow_Falls
     autumn: true
     summer: true
     spring: true
@@ -1977,7 +1982,7 @@ episodes:
       Pie](#ep-4x09).
   4x11:
     title: Three's A Crowd
-    link: http://mlp.wikia.com/wiki/Three%27s_A_Crowd
+    link: http://mlp.fandom.com/wiki/Three%27s_A_Crowd
     autumn: true
     summer: true
     spring: true
@@ -2009,7 +2014,7 @@ episodes:
       of records for [Rainbow Falls](#ep-4x10).
   4x12:
     title: Pinkie Pride
-    link: http://mlp.wikia.com/wiki/Pinkie_Pride
+    link: http://mlp.fandom.com/wiki/Pinkie_Pride
     autumn: true
     summer: true
     spring: true
@@ -2042,7 +2047,7 @@ episodes:
       A Crowd](#ep-4x11).
   4x13:
     title: Simple Ways
-    link: http://mlp.wikia.com/wiki/Simple_Ways
+    link: http://mlp.fandom.com/wiki/Simple_Ways
     autumn: true
     summer: true
     spring: true
@@ -2068,7 +2073,7 @@ episodes:
       Pride](#ep-4x12).
   4x14:
     title: Filli Vanilli
-    link: http://mlp.wikia.com/wiki/Filli_Vanilli
+    link: http://mlp.fandom.com/wiki/Filli_Vanilli
     autumn: true
     summer: true
     spring: true
@@ -2100,7 +2105,7 @@ episodes:
       the use of the phrase "slippery when wet."
   4x15:
     title: Twilight Time
-    link: http://mlp.wikia.com/wiki/Twilight_Time
+    link: http://mlp.fandom.com/wiki/Twilight_Time
     autumn: true
     summer: true
     spring: true
@@ -2138,7 +2143,7 @@ episodes:
       Vanilli](#ep-4x14).
   4x16:
     title: It Ain't Easy Being Breezies
-    link: http://mlp.wikia.com/wiki/It_Ain%27t_Easy_Being_Breezies
+    link: http://mlp.fandom.com/wiki/It_Ain%27t_Easy_Being_Breezies
     autumn: true
     summer: true
     spring: true
@@ -2166,7 +2171,7 @@ episodes:
       immediately follow [Twilight Time](#ep-4x15).
   4x17:
     title: Somepony to Watch Over Me
-    link: http://mlp.wikia.com/wiki/Somepony_to_Watch_Over_Me
+    link: http://mlp.fandom.com/wiki/Somepony_to_Watch_Over_Me
     autumn: true
     summer: true
     spring: true
@@ -2201,7 +2206,7 @@ episodes:
       previously recorded for posterity.
   4x18:
     title: Maud Pie
-    link: http://mlp.wikia.com/wiki/Maud_Pie_(episode)
+    link: http://mlp.fandom.com/wiki/Maud_Pie_(episode)
     autumn: true
     summer: true
     spring: true
@@ -2228,7 +2233,7 @@ episodes:
       To Watch Over Me](#ep-4x17).
   4x19:
     title: For Whom the Sweetie Belle Toils
-    link: http://mlp.wikia.com/wiki/For_Whom_the_Sweetie_Belle_Toils
+    link: http://mlp.fandom.com/wiki/For_Whom_the_Sweetie_Belle_Toils
     autumn: true
     summer: true
     spring: true
@@ -2248,7 +2253,7 @@ episodes:
       Pie](#ep-4x18).
   4x20:
     title: Leap of Faith
-    link: http://mlp.wikia.com/wiki/Leap_of_Faith
+    link: http://mlp.fandom.com/wiki/Leap_of_Faith
     summer: true
     spring: true
     autumn: true
@@ -2269,7 +2274,7 @@ episodes:
       the Sweetie Belle Toils](#ep-4x19).
   4x21:
     title: Testing Testing 1, 2, 3
-    link: http://mlp.wikia.com/wiki/Testing_Testing_1,_2,_3
+    link: http://mlp.fandom.com/wiki/Testing_Testing_1,_2,_3
     autumn: true
     summer: true
     spring: true
@@ -2293,7 +2298,7 @@ episodes:
       immediately follow [Leap of Faith](#ep-4x20).
   4x22:
     title: Trade Ya!
-    link: http://mlp.wikia.com/wiki/Trade_Ya!
+    link: http://mlp.fandom.com/wiki/Trade_Ya!
     autumn: true
     summer: true
     spring: true
@@ -2309,7 +2314,7 @@ episodes:
       of records for [Testing Testing 1-2-3](#ep-4x21).
   4x23:
     title: Inspiration Manifestation
-    link: http://mlp.wikia.com/wiki/Inspiration_Manifestation
+    link: http://mlp.fandom.com/wiki/Inspiration_Manifestation
     autumn: true
     summer: true
     spring: true
@@ -2336,7 +2341,7 @@ episodes:
       the only break of airing order the *Journal of Friendship* supposes.
   4x24:
     title: Equestria Games
-    link: http://mlp.wikia.com/wiki/Equestria_Games
+    link: http://mlp.fandom.com/wiki/Equestria_Games
     autumn: true
     summer: true
     winter: true
@@ -2420,7 +2425,7 @@ episodes:
       Ya!](#ep-4x22).
   4x25-26:
     title: Twilight's Kingdom
-    link: http://mlp.wikia.com/wiki/Twilight%27s_Kingdom_-_Part_1
+    link: http://mlp.fandom.com/wiki/Twilight%27s_Kingdom_-_Part_1
     autumn: true
     summer: true
     spring: true
@@ -2445,7 +2450,7 @@ episodes:
       record in that journal.
   5x01-02:
     title: The Cutie Map
-    link: http://mlp.wikia.com/wiki/The_Cutie_Map_-_Part_1
+    link: http://mlp.fandom.com/wiki/The_Cutie_Map_-_Part_1
     autumn: true
     summer: true
     spring: true
@@ -2466,7 +2471,7 @@ episodes:
       Treasure of Griffonstone.](#ep-5x08)
   5x03:
     title: Castle Sweet Castle
-    link: http://mlp.wikia.com/wiki/Castle_Sweet_Castle
+    link: http://mlp.fandom.com/wiki/Castle_Sweet_Castle
     autumn: true
     summer: true
     spring: true
@@ -2485,7 +2490,7 @@ episodes:
       want to do in spring, but we can't really be sure with earth pony magic.
   5x04:
     title: Bloom & Gloom
-    link: http://mlp.wikia.com/wiki/Bloom_%26_Gloom
+    link: http://mlp.fandom.com/wiki/Bloom_%26_Gloom
     autumn: true
     summer: true
     spring: true
@@ -2519,7 +2524,7 @@ episodes:
       precede this episode, but this does not constitute a hard lock.
   5x05:
     title: Tanks for the Memories
-    link: http://mlp.wikia.com/wiki/Tanks_for_the_Memories
+    link: http://mlp.fandom.com/wiki/Tanks_for_the_Memories
     autumn: true
     after:
       - 2x07
@@ -2558,7 +2563,7 @@ episodes:
       observed on screen here, it also has to precede this.
   5x06:
     title: Appleoosa's Most Wanted
-    link: http://mlp.wikia.com/wiki/Appleoosa%27s_Most_Wanted
+    link: http://mlp.fandom.com/wiki/Appleoosa%27s_Most_Wanted
     autumn: true
     summer: true
     spring: true
@@ -2574,7 +2579,7 @@ episodes:
       marks. It obviously happens after Over a Barrel, though.
   5x07:
     title: Make New Friends but Keep Discord
-    link: http://mlp.wikia.com/wiki/Make_New_Friends_but_Keep_Discord
+    link: http://mlp.fandom.com/wiki/Make_New_Friends_but_Keep_Discord
     autumn: true
     summer: true
     spring: true
@@ -2611,7 +2616,7 @@ episodes:
       Discord or current resident.
   5x08:
     title: The Lost Treasure of Griffonstone
-    link: http://mlp.wikia.com/wiki/The_Lost_Treasure_of_Griffonstone
+    link: http://mlp.fandom.com/wiki/The_Lost_Treasure_of_Griffonstone
     autumn: true
     summer: true
     spring: true
@@ -2629,7 +2634,7 @@ episodes:
 
   5x09:
     title: Slice of Life
-    link: http://mlp.wikia.com/wiki/Slice_of_Life
+    link: http://mlp.fandom.com/wiki/Slice_of_Life
     autumn: true
     summer: true
     spring: true
@@ -2654,7 +2659,7 @@ episodes:
       A lot of people would prefer if this episode never existed, but luckily
       for them, it's easy to dismiss out of the timeline entirely.
   5x10:
-    link: http://mlp.wikia.com/wiki/Princess_Spike
+    link: http://mlp.fandom.com/wiki/Princess_Spike
     title: Princess Spike
     autumn: true
     summer: true
@@ -2674,7 +2679,7 @@ episodes:
       get us anything.
   5x11:
     title: Party Pooped
-    link: http://mlp.wikia.com/wiki/Party_Pooped
+    link: http://mlp.fandom.com/wiki/Party_Pooped
     autumn: true
     summer: true
     spring: true
@@ -2710,7 +2715,7 @@ episodes:
       another redundant lower bound.
   5x12:
     title: Amending Fences
-    link: http://mlp.wikia.com/wiki/Amending_Fences
+    link: http://mlp.fandom.com/wiki/Amending_Fences
     autumn: true
     summer: true
     spring: true
@@ -2737,7 +2742,7 @@ episodes:
 
   5x13:
     title: Do Princesses Dream of Magic Sheep?
-    link: http://mlp.wikia.com/wiki/Do_Princesses_Dream_of_Magic_Sheep%3F
+    link: http://mlp.fandom.com/wiki/Do_Princesses_Dream_of_Magic_Sheep%3F
     autumn: true
     summer: true
     spring: true
@@ -2768,7 +2773,7 @@ episodes:
 
   5x14:
     title: Canterlot Boutique
-    link: http://mlp.wikia.com/wiki/Canterlot_Boutique
+    link: http://mlp.fandom.com/wiki/Canterlot_Boutique
     autumn: true
     summer: true
     spring: true
@@ -2794,7 +2799,7 @@ episodes:
 
   5x15:
     title: Rarity Investigates!
-    link: http://mlp.wikia.com/wiki/Rarity_Investigates!
+    link: http://mlp.fandom.com/wiki/Rarity_Investigates!
     spring: true
     after:
       - 4x21
@@ -2818,7 +2823,7 @@ episodes:
 
   5x16-17:
     title: Made in Manehattan / Brotherhooves Social
-    link: http://mlp.wikia.com/wiki/Made_in_Manehattan
+    link: http://mlp.fandom.com/wiki/Made_in_Manehattan
     autumn: true
     summer: true
     spring: true
@@ -2851,7 +2856,7 @@ episodes:
       anything like ours, it's the middle of it, i.e. June.
   5x18:
     title: Crusaders of the Lost Mark
-    link: http://mlp.wikia.com/wiki/Crusaders_of_the_Lost_Mark
+    link: http://mlp.fandom.com/wiki/Crusaders_of_the_Lost_Mark
     autumn: true
     after:
       - 2x01-02
@@ -2882,7 +2887,7 @@ episodes:
       corroborates the assertion that it's autumn.
   5x19:
     title: The One Where Pinkie Pie Knows
-    link: http://mlp.wikia.com/wiki/The_One_Where_Pinkie_Pie_Knows
+    link: http://mlp.fandom.com/wiki/The_One_Where_Pinkie_Pie_Knows
     summer: true
     spring: true
     autumn: true
@@ -2906,7 +2911,7 @@ episodes:
       than 12 months and shouldn't be shorter than five or so.
   5x20:
     title: Hearthbreakers
-    link: http://mlp.wikia.com/wiki/Hearthbreakers
+    link: http://mlp.fandom.com/wiki/Hearthbreakers
     winter: true
     after:
       - 2x11
@@ -2938,7 +2943,7 @@ episodes:
       not yet have wings during the winter of year 1.
   5x21:
     title: Scare Master
-    link: http://mlp.wikia.com/wiki/Scare_Master
+    link: http://mlp.fandom.com/wiki/Scare_Master
     autumn: true
     after:
       - 3x13
@@ -2954,7 +2959,7 @@ episodes:
       the first one.
   5x22:
     title: What About Discord?
-    link: http://mlp.wikia.com/wiki/What_About_Discord%3F
+    link: http://mlp.fandom.com/wiki/What_About_Discord%3F
     autumn: true
     summer: true
     spring: true
@@ -2986,7 +2991,7 @@ episodes:
       really rule out this relationship swinging back and forth.
   5x23:
     title: The Hooffields and McColts
-    link: http://mlp.wikia.com/wiki/The_Hooffields_and_McColts
+    link: http://mlp.fandom.com/wiki/The_Hooffields_and_McColts
     autumn: true
     summer: true
     spring: true
@@ -3006,7 +3011,7 @@ episodes:
       still be made for this to happen earlier.
   5x24:
     title: The Mane Attraction
-    link: http://mlp.wikia.com/wiki/The_Mane_Attraction
+    link: http://mlp.fandom.com/wiki/The_Mane_Attraction
     autumn: true
     summer: true
     spring: true
@@ -3020,7 +3025,7 @@ episodes:
     title: The Cutie Re-Mark
     autumn: true
     summer: true
-    link: http://mlp.wikia.com/wiki/The_Cutie_Re-Mark_-_Part_1
+    link: http://mlp.fandom.com/wiki/The_Cutie_Re-Mark_-_Part_1
     spring: true
     after:
       - 1x09
@@ -3044,7 +3049,7 @@ episodes:
       contains a cottage, rather than a tree.
   EG1:
     title: Equestria Girls
-    link: http://mlp.wikia.com/wiki/Equestria_Girls
+    link: http://mlp.fandom.com/wiki/Equestria_Girls
     summer: true
     spring: true
     after:
@@ -3068,7 +3073,7 @@ episodes:
       The events of the movie are condensed into at most five days.
   EG2:
     title: "Equestria Girls: Rainbow Rocks"
-    link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Rainbow_Rocks
+    link: http://mlp.fandom.com/wiki/My_Little_Pony_Equestria_Girls:_Rainbow_Rocks
     autumn: true
     summer: true
     spring: true
@@ -3090,7 +3095,7 @@ episodes:
       time, and before the Map actually appeared.
   EG3:
     title: "Equestria Girls: Friendship Games"
-    link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Friendship_Games
+    link: http://mlp.fandom.com/wiki/My_Little_Pony_Equestria_Girls:_Friendship_Games
     autumn: true
     summer: true
     spring: true
@@ -3112,7 +3117,7 @@ episodes:
       Equestria.
   EG4:
     title: "Equestria Girls: Legends of Everfree"
-    link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Legend_of_Everfree
+    link: http://mlp.fandom.com/wiki/My_Little_Pony_Equestria_Girls:_Legend_of_Everfree
     autumn: true
     summer: true
     winter: true
@@ -3129,7 +3134,7 @@ episodes:
       believe it does not -- so that doesn't give us anything.
   6x01-02:
     title: The Crystalling
-    link: http://mlp.wikia.com/wiki/The_Crystalling_-_Part_1
+    link: http://mlp.fandom.com/wiki/The_Crystalling_-_Part_1
     spring: true
     after:
       - 3x13
@@ -3164,7 +3169,7 @@ episodes:
 
   6x03:
     title: The Gift of the Maud Pie
-    link: http://mlp.wikia.com/wiki/The_Gift_of_the_Maud_Pie
+    link: http://mlp.fandom.com/wiki/The_Gift_of_the_Maud_Pie
     autumn: true
     summer: true
     spring: true
@@ -3177,7 +3182,7 @@ episodes:
       boutique in Manehattan, which happens in Saddle Row Review.
   6x04:
     title: On Your Marks
-    link: http://mlp.wikia.com/wiki/On_Your_Marks
+    link: http://mlp.fandom.com/wiki/On_Your_Marks
     autumn: true
     summer: true
     spring: true
@@ -3192,7 +3197,7 @@ episodes:
       after Crusaders of the Lost Mark.
   6x05:
     title: Gauntlet of Fire
-    link: http://mlp.wikia.com/wiki/Gauntlet_of_Fire
+    link: http://mlp.fandom.com/wiki/Gauntlet_of_Fire
     autumn: true
     summer: true
     winter: true
@@ -3214,7 +3219,7 @@ episodes:
       that's about it for the observable soft bounds.
   6x06:
     title: No Second Prances
-    link: http://mlp.wikia.com/wiki/No_Second_Prances
+    link: http://mlp.fandom.com/wiki/No_Second_Prances
     autumn: true
     summer: true
     spring: true
@@ -3240,7 +3245,7 @@ episodes:
       further episodes in which they interact to occur afterwards.
   6x07:
     title: Newbie Dash
-    link: http://mlp.wikia.com/wiki/Newbie_Dash
+    link: http://mlp.fandom.com/wiki/Newbie_Dash
     autumn: true
     summer: true
     spring: true
@@ -3259,7 +3264,7 @@ episodes:
       Re-Mark,](#ep-5x25-26) and probably should.
   6x08:
     title: A Hearth's Warming Tail
-    link: http://mlp.wikia.com/wiki/A_Hearth%27s_Warming_Tail
+    link: http://mlp.fandom.com/wiki/A_Hearth%27s_Warming_Tail
     winter: true
     after:
       - 3x13
@@ -3292,7 +3297,7 @@ episodes:
       lower bound and the winter of year 3 a soft one.
   6x09:
     title: The Saddle Row Review
-    link: http://mlp.wikia.com/wiki/The_Saddle_Row_Review
+    link: http://mlp.fandom.com/wiki/The_Saddle_Row_Review
     autumn: true
     after:
       - 3x13
@@ -3313,7 +3318,7 @@ episodes:
       year's autumn.
   6x10:
     title: Applejack's "Day" Off
-    link: http://mlp.wikia.com/wiki/Applejack%27s_%22Day%22_Off
+    link: http://mlp.fandom.com/wiki/Applejack%27s_%22Day%22_Off
     autumn: true
     summer: true
     spring: true
@@ -3328,7 +3333,7 @@ episodes:
       the episode by at least a few "moons."
   6x11:
     title: Flutter Brutter
-    link: http://mlp.wikia.com/wiki/Flutter_Brutter
+    link: http://mlp.fandom.com/wiki/Flutter_Brutter
     autumn: true
     summer: true
     spring: true
@@ -3357,7 +3362,7 @@ episodes:
       bound on Putting Your Hoof Down.
   6x12:
     title: Spice Up Your Life
-    link: http://mlp.wikia.com/wiki/Spice_Up_Your_Life
+    link: http://mlp.fandom.com/wiki/Spice_Up_Your_Life
     autumn: true
     summer: true
     spring: true
@@ -3370,7 +3375,7 @@ episodes:
       first mission since Starlight broke the map in the Cutie Re-Mark.
   6x13:
     title: Stranger than Fan Fiction
-    link: http://mlp.wikia.com/wiki/Stranger_Than_Fan_Fiction
+    link: http://mlp.fandom.com/wiki/Stranger_Than_Fan_Fiction
     autumn: true
     summer: true
     winter: true
@@ -3398,7 +3403,7 @@ episodes:
       Daring Do with Twilight.
   6x14:
     title: The Cart Before the Ponies
-    link: http://mlp.wikia.com/wiki/The_Cart_Before_the_Ponies
+    link: http://mlp.fandom.com/wiki/The_Cart_Before_the_Ponies
     autumn: true
     summer: true
     spring: true
@@ -3417,7 +3422,7 @@ episodes:
       be backdated quite far into the past.
   6x15:
     title: 28 Pranks Later
-    link: http://mlp.wikia.com/wiki/28_Pranks_Later
+    link: http://mlp.fandom.com/wiki/28_Pranks_Later
     autumn: true
     summer: true
     spring: true
@@ -3443,7 +3448,7 @@ episodes:
       Warming Tail, in which they are out of them.
   6x16:
     title: The Times they are a Changeling
-    link: http://mlp.wikia.com/wiki/The_Times_They_Are_a_Changeling
+    link: http://mlp.fandom.com/wiki/The_Times_They_Are_a_Changeling
     autumn: true
     summer: true
     winter: true
@@ -3463,7 +3468,7 @@ episodes:
       6.
   6x17:
     title: Dungeons and Discord
-    link: http://mlp.wikia.com/wiki/Dungeons_%26_Discords
+    link: http://mlp.fandom.com/wiki/Dungeons_%26_Discords
     autumn: true
     summer: true
     spring: true
@@ -3486,7 +3491,7 @@ episodes:
       effective missing link showing how he befriended the Mane 5.
   6x18:
     title: Buckball Season
-    link: http://mlp.wikia.com/wiki/Buckball_Season
+    link: http://mlp.fandom.com/wiki/Buckball_Season
     autumn: true
     summer: true
     spring: true
@@ -3516,7 +3521,7 @@ episodes:
       Yes, this could fall through all the way to year 1.
   6x19:
     title: The Fault in Our Cutie Marks
-    link: http://mlp.wikia.com/wiki/The_Fault_in_Our_Cutie_Marks
+    link: http://mlp.fandom.com/wiki/The_Fault_in_Our_Cutie_Marks
     autumn: true
     summer: true
     spring: true
@@ -3528,7 +3533,7 @@ episodes:
       reputation, but it's not clear how much exactly.
   6x20:
     title: Viva Las Pegasus
-    link: http://mlp.wikia.com/wiki/Viva_Las_Pegasus
+    link: http://mlp.fandom.com/wiki/Viva_Las_Pegasus
     autumn: true
     summer: true
     winter: true
@@ -3545,7 +3550,7 @@ episodes:
       in Las Pegasus might not match weather on the ground at all.
   6x21:
     title: Every Little Thing She Does
-    link: http://mlp.wikia.com/wiki/Every_Little_Thing_She_Does
+    link: http://mlp.fandom.com/wiki/Every_Little_Thing_She_Does
     autumn: true
     summer: true
     spring: true
@@ -3563,7 +3568,7 @@ episodes:
       are present, Rainbow Dash never refers to being a Wonderbolt.
   6x22:
     title: P.P.O.V. (Pony Point of View)
-    link: http://mlp.wikia.com/wiki/P.P.O.V._(Pony_Point_of_View)
+    link: http://mlp.fandom.com/wiki/P.P.O.V._(Pony_Point_of_View)
     autumn: true
     summer: true
     spring: true
@@ -3576,7 +3581,7 @@ episodes:
       and down quite far.
   6x23:
     title: Where the Apple Lies
-    link: http://mlp.wikia.com/wiki/Where_the_Apple_Lies
+    link: http://mlp.fandom.com/wiki/Where_the_Apple_Lies
     autumn: true
     summer: true
     spring: true
@@ -3593,7 +3598,7 @@ episodes:
       not influence any potentially neighboring episodes at all.
   6x24:
     title: Top Bolt
-    link: http://mlp.wikia.com/wiki/Top_Bolt
+    link: http://mlp.fandom.com/wiki/Top_Bolt
     summer: true
     spring: true
     after:
@@ -3619,7 +3624,7 @@ episodes:
       probably redundant.
   6x25-26:
     title: To Where and Back Again
-    link: http://mlp.wikia.com/wiki/To_Where_and_Back_Again_-_Part_1
+    link: http://mlp.fandom.com/wiki/To_Where_and_Back_Again_-_Part_1
     autumn: true
     summer: true
     spring: true
@@ -3656,7 +3661,7 @@ episodes:
       Re-Mark.
   7x01:
     title: A Celestial Advice
-    link: http://mlp.wikia.com/wiki/Celestial_Advice
+    link: http://mlp.fandom.com/wiki/Celestial_Advice
     autumn: true
     summer: true
     spring: true
@@ -3672,7 +3677,7 @@ episodes:
       bound.
   7x02:
     title: All Bottled Up
-    link: http://mlp.wikia.com/wiki/All_Bottled_Up
+    link: http://mlp.fandom.com/wiki/All_Bottled_Up
     autumn: true
     summer: true
     spring: true
@@ -3686,7 +3691,7 @@ episodes:
       referred to, however.
   7x03:
     title: A Flurry of Emotions
-    link: http://mlp.wikia.com/wiki/A_Flurry_of_Emotions
+    link: http://mlp.fandom.com/wiki/A_Flurry_of_Emotions
     autumn: true
     summer: true
     spring: true
@@ -3721,7 +3726,7 @@ episodes:
       early autumn.
   7x04:
     title: Rock Solid Friendship
-    link: http://mlp.wikia.com/wiki/Rock_Solid_Friendship
+    link: http://mlp.fandom.com/wiki/Rock_Solid_Friendship
     autumn: true
     summer: true
     after:
@@ -3769,7 +3774,7 @@ episodes:
       but some might.
   7x05:
     title: Fluttershy Leans In
-    link: http://mlp.wikia.com/wiki/Fluttershy_Leans_In
+    link: http://mlp.fandom.com/wiki/Fluttershy_Leans_In
     autumn: true
     summer: true
     spring: true
@@ -3792,7 +3797,7 @@ episodes:
       can't happen after this show of assertiveness by Fluttershy.
   7x06:
     title: Forever Filly
-    link: http://mlp.wikia.com/wiki/Forever_Filly
+    link: http://mlp.fandom.com/wiki/Forever_Filly
     spring: true
     after:
       - SM2-SP
@@ -3826,7 +3831,7 @@ episodes:
       Friendship.
   7x07:
     title: Parental Glideance
-    link: http://mlp.wikia.com/wiki/Parental_Glideance
+    link: http://mlp.fandom.com/wiki/Parental_Glideance
     autumn: true
     summer: true
     spring: true
@@ -3844,7 +3849,7 @@ episodes:
       trainee uniforms, requiring this episode to follow Top Bolt.
   7x08:
     title: Hard to Say Anything
-    link: http://mlp.wikia.com/wiki/Hard_to_Say_Anything
+    link: http://mlp.fandom.com/wiki/Hard_to_Say_Anything
     autumn: true
     summer: true
     spring: true
@@ -3876,7 +3881,7 @@ episodes:
       should become a solid marker, but probably won't.
   7x09:
     title: Honest Apple
-    link: http://mlp.wikia.com/wiki/Honest_Apple
+    link: http://mlp.fandom.com/wiki/Honest_Apple
     autumn: true
     summer: true
     spring: true
@@ -3905,7 +3910,7 @@ episodes:
       Manehattan boutique, but is more likely to have happened after.
   7x10:
     title: A Royal Problem
-    link: http://mlp.wikia.com/wiki/A_Royal_Problem
+    link: http://mlp.fandom.com/wiki/A_Royal_Problem
     autumn: true
     summer: true
     spring: true
@@ -3924,7 +3929,7 @@ episodes:
       after.
   7x11:
     title: Not Asking for Trouble
-    link: http://mlp.wikia.com/wiki/Not_Asking_for_Trouble
+    link: http://mlp.fandom.com/wiki/Not_Asking_for_Trouble
     autumn: true
     summer: true
     after:
@@ -3955,7 +3960,7 @@ episodes:
       less during the same timeframe.
   7x12:
     title: Discordant Harmony
-    link: http://mlp.wikia.com/wiki/Discordant_Harmony
+    link: http://mlp.fandom.com/wiki/Discordant_Harmony
     autumn: true
     summer: true
     spring: true
@@ -3973,7 +3978,7 @@ episodes:
 
   7x13:
     title: The Perfect Pear
-    link: http://mlp.wikia.com/wiki/The_Perfect_Pear
+    link: http://mlp.fandom.com/wiki/The_Perfect_Pear
     autumn: true
     summer: true
     spring: true
@@ -4007,7 +4012,7 @@ episodes:
 
   7x14:
     title: Fame and Misfortune
-    link: http://mlp.wikia.com/wiki/Fame_and_Misfortune
+    link: http://mlp.fandom.com/wiki/Fame_and_Misfortune
     summer: true
     spring: true
     after:
@@ -4026,7 +4031,7 @@ episodes:
 
   7x15:
     title: Triple Threat
-    link: http://mlp.wikia.com/wiki/Triple_Threat
+    link: http://mlp.fandom.com/wiki/Triple_Threat
     autumn: true
     summer: true
     spring: true
@@ -4056,7 +4061,7 @@ episodes:
 
   7x16:
     title: Campfire Tales
-    link: http://mlp.wikia.com/wiki/Campfire_Tales
+    link: http://mlp.fandom.com/wiki/Campfire_Tales
     autumn: true
     summer: true
     spring: true
@@ -4082,7 +4087,7 @@ episodes:
 
   7x17:
     title: To Change a Changeling
-    link: http://mlp.wikia.com/wiki/To_Change_a_Changeling
+    link: http://mlp.fandom.com/wiki/To_Change_a_Changeling
     autumn: true
     summer: true
     spring: true
@@ -4107,7 +4112,7 @@ episodes:
       she wouldn't even consider this an option before that.
   7x18:
     title: Daring Done
-    link: http://mlp.wikia.com/wiki/Daring_Done
+    link: http://mlp.fandom.com/wiki/Daring_Done
     autumn: true
     summer: true
     spring: true
@@ -4128,7 +4133,7 @@ episodes:
 
   7x19:
     title: It Isn't the Mane Thing About You
-    link: http://mlp.wikia.com/wiki/It_Isn%27t_the_Mane_Thing_About_You
+    link: http://mlp.fandom.com/wiki/It_Isn%27t_the_Mane_Thing_About_You
     autumn: true
     summer: true
     spring: true
@@ -4160,7 +4165,7 @@ episodes:
 
   7x20:
     title: A Health of Information
-    link: http://mlp.wikia.com/wiki/A_Health_of_Information
+    link: http://mlp.fandom.com/wiki/A_Health_of_Information
     autumn: true
     summer: true
     spring: true
@@ -4183,7 +4188,7 @@ episodes:
 
   7x21:
     title: Marks and Recreation
-    link: http://mlp.wikia.com/wiki/Marks_and_Recreation
+    link: http://mlp.fandom.com/wiki/Marks_and_Recreation
     summer: true
     after:
       - 3x07
@@ -4215,7 +4220,7 @@ episodes:
 
   7x22:
     title: Once Upon a Zeppelin
-    link: http://mlp.wikia.com/wiki/Once_Upon_a_Zeppelin
+    link: http://mlp.fandom.com/wiki/Once_Upon_a_Zeppelin
     summer: true
     autumn: true
     spring: true
@@ -4237,7 +4242,7 @@ episodes:
 
   7x23:
     title: Secrets and Pies
-    link: http://mlp.wikia.com/wiki/Secrets_and_Pies
+    link: http://mlp.fandom.com/wiki/Secrets_and_Pies
     summer: true
     autumn: true
     spring: true
@@ -4280,7 +4285,7 @@ episodes:
 
   7x24-26:
     title: Uncommon Bond / Shadow Play
-    link: http://mlp.wikia.com/wiki/Uncommon_Bond
+    link: http://mlp.fandom.com/wiki/Uncommon_Bond
     summer: true
     autumn: true
     spring: true
@@ -4341,7 +4346,7 @@ episodes:
       multiple-month gap within [It Isn't the Mane Thing About You](#ep-7x19).
   MLP1:
     title: My Little Pony Movie
-    link: http://mlp.wikia.com/wiki/My_Little_Pony_The_Movie
+    link: http://mlp.fandom.com/wiki/My_Little_Pony_The_Movie
     summer: true
     autumn: true
     spring: true
@@ -4374,7 +4379,7 @@ episodes:
 
   8x01-02:
     title: School Daze
-    link: http://mlp.wikia.com/wiki/School_Daze_-_Part_1
+    link: http://mlp.fandom.com/wiki/School_Daze_-_Part_1
     summer: true
     autumn: true
     spring: true
@@ -4411,7 +4416,7 @@ episodes:
       existence of the Friendship School beside it.
   8x03:
     title: The Maud Couple
-    link: http://mlp.wikia.com/wiki/The_Maud_Couple
+    link: http://mlp.fandom.com/wiki/The_Maud_Couple
     summer: true
     autumn: true
     spring: true
@@ -4435,7 +4440,7 @@ episodes:
       episode in which Mudbriar and Pinkie interact has to follow.
   8x04:
     title: Fake It 'Til You Make It
-    link: http://mlp.wikia.com/wiki/Fake_It_%27Til_You_Make_It
+    link: http://mlp.fandom.com/wiki/Fake_It_%27Til_You_Make_It
     summer: true
     autumn: true
     spring: true
@@ -4463,7 +4468,7 @@ episodes:
       within what the episode purports to be two days.
   8x05:
     title: Grannies Gone Wild
-    link: http://mlp.wikia.com/wiki/Grannies_Gone_Wild
+    link: http://mlp.fandom.com/wiki/Grannies_Gone_Wild
     summer: true
     autumn: true
     spring: true
@@ -4479,7 +4484,7 @@ episodes:
       Most of the other usual markers never appear.
   8x06:
     title: Surf and/or Turf
-    link: http://mlp.wikia.com/wiki/Surf_and_or_Turf
+    link: http://mlp.fandom.com/wiki/Surf_and_or_Turf
     summer: true
     autumn: true
     spring: true
@@ -4496,7 +4501,7 @@ episodes:
       this episode.
   8x07:
     title: Horse Play
-    link: http://mlp.wikia.com/wiki/Horse_Play
+    link: http://mlp.fandom.com/wiki/Horse_Play
     summer: true
     autumn: true
     spring: true
@@ -4513,7 +4518,7 @@ episodes:
       The Canterlot Castle throne room has the post-movie look.
   8x08:
     title: The Parent Map
-    link: http://mlp.wikia.com/wiki/The_Parent_Map
+    link: http://mlp.fandom.com/wiki/The_Parent_Map
     summer: true
     autumn: true
     spring: true
@@ -4535,7 +4540,7 @@ episodes:
       between these two episodes.
   8x09:
     title: Non-Compete Clause
-    link: http://mlp.wikia.com/wiki/Non-Compete_Clause
+    link: http://mlp.fandom.com/wiki/Non-Compete_Clause
     summer: true
     autumn: true
     spring: true
@@ -4556,7 +4561,7 @@ episodes:
       secures a permission for her to do so.
   8x10:
     title: The Break Up Break Down
-    link: http://mlp.wikia.com/wiki/The_Break_Up_Break_Down
+    link: http://mlp.fandom.com/wiki/The_Break_Up_Break_Down
     summer: true
     autumn: true
     spring: true
@@ -4581,7 +4586,7 @@ episodes:
       for the location of this episode within a year is early spring.
   8x11:
     title: Molt Down
-    link: http://mlp.wikia.com/wiki/Molt_Down
+    link: http://mlp.fandom.com/wiki/Molt_Down
     summer: true
     autumn: true
     spring: true
@@ -4718,7 +4723,7 @@ episodes:
       redundant upper bound.
   8x12:
     title: Marks for Effort
-    link: http://mlp.wikia.com/wiki/Marks_for_Effort
+    link: http://mlp.fandom.com/wiki/Marks_for_Effort
     summer: true
     autumn: true
     spring: true
@@ -4749,7 +4754,7 @@ episodes:
       School of Friendship from this episode alone.
   8x13:
     title: The Mean 6
-    link: http://mlp.wikia.com/wiki/The_Mean_6
+    link: http://mlp.fandom.com/wiki/The_Mean_6
     summer: true
     autumn: true
     spring: true
@@ -4763,7 +4768,7 @@ episodes:
       maybe even then.
   8x14:
     title: A Matter of Principals
-    link: http://mlp.wikia.com/wiki/A_Matter_of_Principals
+    link: http://mlp.fandom.com/wiki/A_Matter_of_Principals
     summer: true
     autumn: true
     spring: true
@@ -4790,7 +4795,7 @@ episodes:
       mentioning them.
   8x15:
     title: The Hearth's Warming Club
-    link: http://mlp.wikia.com/wiki/The_Hearth%27s_Warming_Club
+    link: http://mlp.fandom.com/wiki/The_Hearth%27s_Warming_Club
     winter: true
     after:
       - 8x11
@@ -4818,7 +4823,7 @@ episodes:
       Cozy Glow appears in the background, producing a soft lock.
   8x16:
     title: Friendship University
-    link: http://mlp.wikia.com/wiki/Friendship_University
+    link: http://mlp.fandom.com/wiki/Friendship_University
     summer: true
     autumn: true
     spring: true
@@ -4835,7 +4840,7 @@ episodes:
       Glow suggests it postdates Marks for Effort, it does not require so.
   8x17:
     title: The End in Friend
-    link: http://mlp.wikia.com/wiki/The_End_in_Friend
+    link: http://mlp.fandom.com/wiki/The_End_in_Friend
     spring: true
     after:
       - 8x01-02
@@ -4854,7 +4859,7 @@ episodes:
       don’t they?
   8x18:
     title: Yakity-Sax
-    link: http://mlp.wikia.com/wiki/Yakity-Sax
+    link: http://mlp.fandom.com/wiki/Yakity-Sax
     summer: true
     autumn: true
     after:
@@ -4880,7 +4885,7 @@ episodes:
       but not spring.
   8x19:
     title: Road to Friendship
-    link: http://mlp.wikia.com/wiki/Road_to_Friendship
+    link: http://mlp.fandom.com/wiki/Road_to_Friendship
     summer: true
     autumn: true
     spring: true
@@ -4901,7 +4906,7 @@ episodes:
       follow.
   8x20:
     title: The Washouts
-    link: http://mlp.wikia.com/wiki/The_Washouts
+    link: http://mlp.fandom.com/wiki/The_Washouts
     summer: true
     autumn: true
     spring: true
@@ -4914,7 +4919,7 @@ episodes:
       but no obvious intra-season markers are present.
   8x21:
     title: A Rockhoof and a Hard Place
-    link: http://mlp.wikia.com/wiki/A_Rockhoof_and_a_Hard_Place
+    link: http://mlp.fandom.com/wiki/A_Rockhoof_and_a_Hard_Place
     summer: true
     autumn: true
     spring: true
@@ -4937,7 +4942,7 @@ episodes:
       Spike has wings.
   8x22:
     title: What Lies Beneath
-    link: http://mlp.wikia.com/wiki/What_Lies_Beneath
+    link: http://mlp.fandom.com/wiki/What_Lies_Beneath
     summer: true
     autumn: true
     spring: true
@@ -4953,7 +4958,7 @@ episodes:
       on the events of Marks for Effort.
   8x23:
     title: Sounds of Silence
-    link: http://mlp.wikia.com/wiki/Sounds_of_Silence
+    link: http://mlp.fandom.com/wiki/Sounds_of_Silence
     summer: true
     autumn: true
     spring: true
@@ -4970,13 +4975,14 @@ episodes:
        of writing.
   8x24:
     title: Father Knows Beast
-    link: http://mlp.wikia.com/wiki/Father_Knows_Beast
+    link: http://mlp.fandom.com/wiki/Father_Knows_Beast
     summer: true
     autumn: true
     spring: true
     after:
       - 8x11
     comment: |
+
       Spike has wings, and the episode opens with him flight training, which
       would imply Molt Down was a relatively recent, but not an immediately
       recent event.
@@ -4984,9 +4990,10 @@ episodes:
       The entire episode would occupy the better part of a month, if not a
       whole month, and would have to overlap something else. There is no solid
       upper bound as of the time of writing.
+
   8x25-26:
     title: School Raze
-    link: http://mlp.wikia.com/wiki/School_Raze_-_Part_1
+    link: http://mlp.fandom.com/wiki/School_Raze_-_Part_1
     summer: true
     autumn: true
     spring: true
@@ -5009,9 +5016,10 @@ episodes:
       screws up the chronology again.
 
       Artifacts introduced in A Matter of Principals reappear.
+
   8xHS:
     title: Best Gift Ever
-    link: http://mlp.wikia.com/wiki/My_Little_Pony_Best_Gift_Ever
+    link: http://mlp.fandom.com/wiki/My_Little_Pony_Best_Gift_Ever
     winter: true
     after:
       - 8x01-02
@@ -5020,6 +5028,7 @@ episodes:
       - 8x11
       - 8x19
       - 7x08
+      - 7x13
     comment: |
       This is a Hearth's Warming episode, producing the obvious seasonal locks
       and integer year boundaries.
@@ -5032,15 +5041,16 @@ episodes:
       Spike has wings.
 
       Mudbriar appears, very briefly. (which is a good thing.) Likewise, Sugar
-      Belle is together with Big Mac.
+      Belle is together with Big Mac, and Grand Pear is present in Ponyville.
 
       The cold open of the episode features Starlight and Trixie leaving on a
       road trip, requiring it to happen after the Road to Friendship.
 
       There are currently no good upper bounds.
+
   EGFF:
     title: "Equestria Girls: Forgotten Friendship"
-    link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Forgotten_Friendship
+    link: http://mlp.fandom.com/wiki/My_Little_Pony_Equestria_Girls:_Forgotten_Friendship
     summer: true
     autumn: true
     spring: true
@@ -5067,7 +5077,7 @@ episodes:
       of Canterlot Castle, which has the pre-movie look.
   EGMM:
     title: "Equestria Girls: Mirror Magic"
-    link: http://mlp.wikia.com/wiki/My_Little_Pony_Equestria_Girls:_Mirror_Magic
+    link: http://mlp.fandom.com/wiki/My_Little_Pony_Equestria_Girls:_Mirror_Magic
     summer: true
     autumn: true
     spring: true
@@ -5099,6 +5109,49 @@ episodes:
       the Equestrian timeline purely on its own contents.
 
       We never actually see the season in Equestria, either.
+
+  EGSB:
+    title: "Equestria Girls: Spring Breakdown"
+    link: https://mlp.fandom.com/wiki/My_Little_Pony_Equestria_Girls:_Spring_Breakdown
+    summer: true
+    autumn: true
+    spring: true
+    after:
+      - MLP1
+      - EG4
+    before:
+      - 8x01-02
+      - 8x11
+    comment: |
+
+      The magic powers of the Humane 7 set this after Legends of Everfree.
+
+      According to numerous statements within, this is spring break. However,
+      we cannot put Pedestrian spring in a strict correspondence with
+      Equestrian seasons, we just know that the action in Equestria does not
+      occur during a winter.
+
+      In Equestria, the victory over the Storm King is a major plot point. At
+      the same time, in at least one shot, the School of Friendship should be
+      visible, but isn't, implying it has not been constructed yet. , and Spike
+      doesn't have wings either.
+
+  9x01-02:
+    title: The Beginning of the End
+    link: https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1
+    summer: true
+    after:
+      - MLP1
+      - 8x25-26
+      - 8x11
+    comment: |
+
+      School of Friendship is in evidence, Spike has wings, and Cozy Glow is
+      incarcerated in Tartarus at the beginning of the episode. The Canterlot
+      Castle throne room has the post-movie look.
+
+      According to Starlight's statements, it is summer break, and she expected
+      the school would be closed.
 
 order:
   - SM1-SU
@@ -5276,6 +5329,7 @@ order:
   - EGMM
   - EGFF
   - MLP1
+  - EGSB
   - 8x01-02
   - 8x03
   - 8x04
@@ -5301,6 +5355,7 @@ order:
   - 8x24
   - 8x25-26
   - 8xHS
+  - 9x01-02
   - SM4-AU
   - SM4-WI
   - SM4-SP

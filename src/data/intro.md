@@ -1,6 +1,6 @@
 This is a piece of "software," for lack of a better word, made with the intent to discuss the issues of episode ordering for *My Little Pony: Friendship is Magic* in a way that is more conductive to getting something reasoned out than an Excel table or a simple textual list. This is not so much a chronology by itself, as it is a tool to *think* about it, which I made because messing around with tables and textual documents quickly got tiresome and started producing stupid errors.
 
-It should be obvious that the problem of episode ordering exists, if only from the placement of **Hearthbreakers** immediately before **Scare Master** in the airing order, or **Winter Wrap-Up** sitting in-between two episodes worth of green hills. Later seasons, in particular Season 7 and Season 8, introduce so much reordering into airing order across the world that it is impossible to determine what it was supposed to be, and even episode *numbering* is sometimes in question. Certain statements on screen make it clear that the problem goes much deeper than just reshuffling episodes within a season.
+It should be obvious that the problem of episode ordering exists, if only from the placement of **Hearthbreakers** immediately before **Scare Master** in the airing order, or **Winter Wrap-Up** sitting in-between two episodes worth of green hills. Later seasons, in particular Season 7 and Season 8, introduce so much reordering into airing order across the world, that it is impossible to determine what it was supposed to be, and even episode *numbering* is sometimes in question. Certain statements on screen make it clear that the problem goes much deeper than just reshuffling episodes within a season.
 
 ## Assumptions
 
@@ -15,7 +15,7 @@ We're working from the following assumptions, many of which were at one point or
 
 I.e. we posit that pony calendar is reasonably sane, pony climate and seasons are reasonably sane, that episodes are aired in anachronic order, and work from there. We don't know where the calendar year boundary is, but since we can use the first summer of the series as our zero point, it will serve.
 
-You can read some of the reasoning on why the calendar is this way, and not some other way, [in one of my blog posts on the subject.](https://www.fimfiction.net/blog/729198/rtac-13-strange-loops) Only the TV show and the movies are listed here, because all the printed derivatives introduce even worse timing problems, and Equestria Girls specials cannot be put into a coherent relation to this chronology most of the time. They can be dealt with afterwards and take whatever spaces remain, anyway.
+You can read some of the reasoning on why the calendar is this way, and not some other way, [in one of my blog posts on the subject.](https://www.fimfiction.net/blog/729198/rtac-13-strange-loops) Only the TV show and the movies are listed here, and only certain Equestria Girls releases are included -- most others cannot be dated in any sensible way relative to Equestria itself. All the printed derivatives introduce even worse timing problems and are not being considered here. They can be dealt with afterwards and take whatever spaces remain, anyway.
 
 It goes without saying that these assumptions are rather broad and were challenged for a reason. But without assuming these things, it is impossible to put episodes in a coherent temporal relation to each other at all, and we might as well give up and imagine a universe where children spend decades in nappies sucking on pacifiers, economics doesn't exist, the word "year" is without a meaning, and "a thousand years" just means "last tuesday." The show staff introduced the term "moon" and went on to say it has no relation whatsoever to any human measure of time precisely to cover their collective posterior, there is no canonical timeline, at least not to the level of detail you need when you want to consider a what-if scenario. We're on our own, they don't care.
 
@@ -37,7 +37,9 @@ The default order is *known* to be wrong in several places, and later seasons ar
 
 ## Seasons
 
-Since few episodes can be conclusively limited to happening during a specific time of year, episodes are marked with times of year they *can* occur in with obvious icons. These are for your information only.
+As in seasons of the year.
+
+Since few episodes can be conclusively limited to happening during a specific time of the year, episodes are marked with the season they *can* occur in with obvious icons. These are for your information only.
 
 In addition to that, a number of virtual season-change episodes hard-locked against each other are provided, and certain episodes are locked against them, rather than just other real episodes.
 
